@@ -28,17 +28,17 @@
     { "event": "한국 최초의 인터넷 포털 등장 (천리안, 하이텔 중심)", "date": "1995" }
   ],
   "popular_music": [
-    { "title": "잘못된 만남", "artist": "김건모", "release_date": "1995-01" },
-    { "title": "3! 4!", "artist": "룰라", "release_date": "1995-04" },
-    { "title": "겨울 이야기", "artist": "DJ DOC", "release_date": "1995-12" },
-    { "title": "단발머리", "artist": "015B", "release_date": "1995-06" },
-    { "title": "Come Back Home", "artist": "서태지와 아이들", "release_date": "1995-10" },
-    { "title": "잊을 수 없어", "artist": "이문세", "release_date": "1995-05" },
-    { "title": "너를 사랑해", "artist": "김현정", "release_date": "1995-09" },
-    { "title": "사랑하고 싶어", "artist": "김민종", "release_date": "1995-08" },
-    { "title": "행복을 주는 사람", "artist": "김종환", "release_date": "1995-03" },
-    { "title": "슬픈 사람", "artist": "이승철", "release_date": "1995-11" }
-  ],
+    { "title": "잘못된 만남", "artist": "김건모", "release_date": "1995-01", "poster_url": "" },
+    { "title": "3! 4!", "artist": "룰라", "release_date": "1995-04", "poster_url": "" },
+    { "title": "겨울 이야기", "artist": "DJ DOC", "release_date": "1995-12", "poster_url": "" },
+    { "title": "단발머리", "artist": "015B", "release_date": "1995-06", "poster_url": "" },
+    { "title": "Come Back Home", "artist": "서태지와 아이들", "release_date": "1995-10", "poster_url": "" },
+    { "title": "잊을 수 없어", "artist": "이문세", "release_date": "1995-05", "poster_url": "" },
+    { "title": "너를 사랑해", "artist": "김현정", "release_date": "1995-09", "poster_url": "" },
+    { "title": "사랑하고 싶어", "artist": "김민종", "release_date": "1995-08", "poster_url": "" },
+    { "title": "행복을 주는 사람", "artist": "김종환", "release_date": "1995-03", "poster_url": "" },
+    { "title": "슬픈 사람", "artist": "이승철", "release_date": "1995-11", "poster_url": "" }
+],
   "popular_movies": [
   {
     "kr_title": "다이 하드 3",
@@ -305,28 +305,28 @@
           "broadcast_network": "KBS2", 
           "start_date": "1995-04-06", 
           "end_date": "1995-06-15",
-          "poster_url": "https://example.com/posters/maeum.jpg" 
+          "poster_url": "" 
       },
       { 
           "title": "남자 대 남자", 
           "broadcast_network": "MBC", 
           "start_date": "1995-07-24", 
           "end_date": "1995-09-12",
-          "poster_url": "https://example.com/posters/nalja.jpg" 
+          "poster_url": "" 
       },
       { 
           "title": "단발머리", 
           "broadcast_network": "SBS", 
           "start_date": "1995-01-30", 
           "end_date": "1995-03-14",
-          "poster_url": "https://example.com/posters/danbal.jpg" 
+          "poster_url": "" 
       },
       { 
           "title": "사랑의 미로", 
           "broadcast_network": "KBS2", 
           "start_date": "1995-02-22", 
           "end_date": "1995-04-11",
-          "poster_url": "https://example.com/posters/sarangmiro.jpg" 
+          "poster_url": "" 
       }
   ],
   "fashion_trends": [
@@ -361,61 +361,61 @@
         "title": "세일러문S",
         "start_date": "1994-03-19",
         "end_date": "1995-03-04",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/8/8f/SailorMoonS.jpg"
+        "poster_url": ""
     },
     {
         "title": "슬램덩크",
         "start_date": "1993-10-16",
         "end_date": "1996-03-23",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d6/Slamdunk.jpg"
+        "poster_url": ""
     },
     {
         "title": "드래곤볼Z",
         "start_date": "1989-04-26",
         "end_date": "1996-01-31",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/6f/DragonBallZ.jpg"
+        "poster_url": ""
     },
     {
         "title": "마법기사 레이어스",
         "start_date": "1994-10-17",
         "end_date": "1995-11-13",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d8/Rayearth.jpg"
+        "poster_url": ""
     },
     {
         "title": "짱구는 못말려",
         "start_date": "1992-04-13",
         "end_date": "present",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/05/Crayon_Shin-chan.jpg"
+        "poster_url": ""
     },
     {
         "title": "천사소녀 네티",
         "start_date": "1995-02-06",
         "end_date": "1995-07-17",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/1/1a/천사소녀_네티.jpg"
+        "poster_url": ""
     },
     {
         "title": "드래곤볼 GT",
         "start_date": "1995-02-07",
         "end_date": "1997-11-19",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Dragon_Ball_GT.jpg"
+        "poster_url": ""
     },
     {
         "title": "Timon & Pumbaa",
         "start_date": "1995-09-08",
         "end_date": "1999-11-14",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Timonandpumbaa.jpg"
+        "poster_url": ""
     },
     {
         "title": "꼬마 자동차 붕붕",
         "start_date": "1995-01-01",
         "end_date": "1995-12-31",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bumpety_Boo_Poster.jpg"
+        "poster_url": "g"
     },
     {
         "title": "이누야사 (시범 영상)",
         "start_date": "1995-01-01",
         "end_date": "1995-01-01",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/50/Inuyasha_1st_series.jpg"
+        "poster_url": ""
     }
   ]
 }

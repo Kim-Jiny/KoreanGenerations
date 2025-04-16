@@ -25,6 +25,7 @@
 		307B3D9A2DAF4F9000BEE959 /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D992DAF4F9000BEE959 /* APIClient.swift */; };
 		307B3D9D2DAF652200BEE959 /* GenerationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D9C2DAF652200BEE959 /* GenerationView.swift */; };
 		307B3DA22DAF66BD00BEE959 /* GenerationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3DA12DAF66BD00BEE959 /* GenerationViewModel.swift */; };
+		307B3DA42DAF7F7F00BEE959 /* YearPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3DA32DAF7F7F00BEE959 /* YearPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		307B3D992DAF4F9000BEE959 /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClient.swift; sourceTree = "<group>"; };
 		307B3D9C2DAF652200BEE959 /* GenerationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerationView.swift; sourceTree = "<group>"; };
 		307B3DA12DAF66BD00BEE959 /* GenerationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerationViewModel.swift; sourceTree = "<group>"; };
+		307B3DA32DAF7F7F00BEE959 /* YearPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YearPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -211,6 +213,7 @@
 			isa = PBXGroup;
 			children = (
 				307B3D9C2DAF652200BEE959 /* GenerationView.swift */,
+				307B3DA32DAF7F7F00BEE959 /* YearPickerView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -373,6 +376,7 @@
 				307B3D9A2DAF4F9000BEE959 /* APIClient.swift in Sources */,
 				307B3D312DAF4C6A00BEE959 /* ContentView.swift in Sources */,
 				307B3D9D2DAF652200BEE959 /* GenerationView.swift in Sources */,
+				307B3DA42DAF7F7F00BEE959 /* YearPickerView.swift in Sources */,
 				307B3DA22DAF66BD00BEE959 /* GenerationViewModel.swift in Sources */,
 				307B3D962DAF4F6000BEE959 /* GenerationUseCase.swift in Sources */,
 				307B3D942DAF4F2B00BEE959 /* Generation.swift in Sources */,

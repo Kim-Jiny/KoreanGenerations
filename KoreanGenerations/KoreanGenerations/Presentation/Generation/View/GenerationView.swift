@@ -10,48 +10,55 @@ import SwiftUI
 struct GenerationView: View {
     @StateObject private var viewModel: GenerationViewModel
     @State private var selectedYear: Int = 1995
+    @State private var showYearPicker: Bool = false // 연도 선택 여부를 관리
     @State private var expandedSections: Set<String> = []
+    
+    let years: [Int] = Array(1900...2025) // 선택 가능한 연도 목록
     
     init() {
         let repository = GenerationRepositoryImpl(apiClient: APIClient())
         let useCase = GenerationUseCaseImpl(generationRepository: repository)
         _viewModel = StateObject(wrappedValue: GenerationViewModel(useCase: useCase))
     }
-    
-    let allYears = Array(1900...2025)
 
     var body: some View {
         ZStack {
             LinearGradient(colors: [.purple.opacity(0.7), .blue.opacity(0.7)], startPoint: .top, endPoint: .bottom)
                 .ignoresSafeArea()
 
+        
             VStack(spacing: 20) {
-                // 상단 년도 선택
-                VStack(spacing: 8) {
-                    Text("세대별 정보 보기")
-                        .font(.title)
-                        .bold()
-                        .foregroundColor(.white)
-
-                    Picker("년도 선택", selection: $selectedYear) {
-                        ForEach(allYears, id: \ .self) { year in
-                            Text("\(year)").tag(year)
+                
+                // 우측 상단 드롭다운 버튼
+                HStack {
+                    Spacer()
+                    Button(action: {
+                        showYearPicker.toggle() // 드롭다운 표시 여부 토글
+                    }) {
+                        HStack {
+                            Text("\(selectedYear)") // 선택된 연도를 표시
+                                .font(.headline)
+                                .foregroundColor(.primary) // 기본 텍스트 색상
+                            Image(systemName: "chevron.down") // 드롭다운 아이콘
+                                .foregroundColor(Color.white.opacity(0.7))
+                        }
+                        .padding(.vertical, 8)
+                        .padding(.horizontal, 16)
+                        .background(Color.clear) // 기존 디자인에 맞춘 배경색
+                        .cornerRadius(12) // 둥근 모서리
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 12)
+                                .stroke(Color.white.opacity(0.7), lineWidth: 1) // 테두리 색상
+                        )
+                        .onChange(of: selectedYear) {
+                            loadGenerationData()
                         }
                     }
-                    .pickerStyle(WheelPickerStyle())
-                    .frame(height: 100)
-                    .clipped()
-                    .background(.ultraThinMaterial)
-                    .cornerRadius(16)
-                    .onChange(of: selectedYear) { _ in
-                        loadGenerationData()
-                    }
+                    .shadow(radius: 5) // 그림자 효과
+                    .padding(.top)
+                    .padding(.trailing)
                 }
-                .padding()
-                .background(.ultraThinMaterial)
-                .cornerRadius(20)
-                .padding(.top)
-
+                
                 VStack {
                     // 연나이와 만나이 표시
                     Text("만 나이: \(viewModel.calculateInternationalAge(from: selectedYear))세 / 연 나이: \(viewModel.calculateKoreanAge(from: selectedYear))세")
@@ -76,13 +83,6 @@ struct GenerationView: View {
                 } else {
                     // 데이터 테이블 섹션 뷰
                     ScrollView {
-                        
-                        if viewModel.isLoading {
-                            ProgressView("데이터 불러오는 중...")
-                                .progressViewStyle(CircularProgressViewStyle(tint: .white))
-                                .padding()
-                        }
-                        
                         if let generation = viewModel.generation {
                             VStack(spacing: 12) {
                                 generationSection(title: "특징", content: generation.koreanCharacteristics)
@@ -110,6 +110,11 @@ struct GenerationView: View {
                                 .padding()
                         }
                     }
+                }
+                
+                if showYearPicker {
+                    YearPickerView(selectedYear: $selectedYear, showYearPicker: $showYearPicker, years: years)
+                        .background(Color.clear)
                 }
             }
         }
