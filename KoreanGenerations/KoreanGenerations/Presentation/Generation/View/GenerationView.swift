@@ -31,6 +31,21 @@ struct GenerationView: View {
                 
                 // 우측 상단 드롭다운 버튼
                 HStack {
+                    NavigationLink(destination: ContactView()) {
+                        Text("문의하기")
+                            .font(.headline)
+                            .padding(.vertical, 8)
+                            .padding(.horizontal, 16)
+                            .background(Color.clear) // 기존 디자인에 맞춘 배경색
+                            .cornerRadius(12) // 둥근 모서리
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 12)
+                                    .stroke(Color.white.opacity(0.7), lineWidth: 1) // 테두리 색상
+                            )
+                            .foregroundColor(Color.white.opacity(0.7))
+                    }
+                    .padding(.top)
+                    .padding(.leading)
                     Spacer()
                     Button(action: {
                         showYearPicker.toggle() // 드롭다운 표시 여부 토글
@@ -38,7 +53,7 @@ struct GenerationView: View {
                         HStack {
                             Text("\(selectedYear)") // 선택된 연도를 표시
                                 .font(.headline)
-                                .foregroundColor(.primary) // 기본 텍스트 색상
+                                .foregroundColor(Color(uiColor: #colorLiteral(red: 0.4639009833, green: 0.3289078772, blue: 0.7887880206, alpha: 1))) // 기본 텍스트 색상
                             Image(systemName: "chevron.down") // 드롭다운 아이콘
                                 .foregroundColor(Color.white.opacity(0.7))
                         }
@@ -72,10 +87,10 @@ struct GenerationView: View {
                     
                 }
                 
-                if let error = viewModel.error {
+                if let _ = viewModel.error {
                        // 에러 메시지
-                       Text("⚠️ 오류 발생: \(error.localizedDescription)")
-                           .foregroundColor(.red)
+                       Text("데이터를 업데이트 할 예정입니다. :)")
+                           .foregroundColor(.white)
                            .padding()
                            .background(Color.white.opacity(0.2))
                            .cornerRadius(12)
@@ -283,7 +298,7 @@ struct GenerationView: View {
                 Text(title)
                     .font(.title3)
                     .bold()
-                    .foregroundColor(.white)
+                    .foregroundColor(Color(uiColor: #colorLiteral(red: 0.4639009833, green: 0.3289078772, blue: 0.7887880206, alpha: 1)))
                 Spacer()
                 Button(action: {
                     if expandedSections.contains(title) {

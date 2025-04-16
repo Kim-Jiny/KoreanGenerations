@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct KoreanGenerationsApp: App {
+    
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }

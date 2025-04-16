@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDVH_zpyLCgZPp6NCUwJeDtqIPLFC9oxB8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>293710926755</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jiny.swiftui.KoreanGenerations</string>
+	<key>PROJECT_ID</key>
+	<string>koreangener</string>
+	<key>STORAGE_BUCKET</key>
+	<string>koreangener.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:293710926755:ios:c28c096f8cf61389fbc016</string>
+</dict>
+</plist>
