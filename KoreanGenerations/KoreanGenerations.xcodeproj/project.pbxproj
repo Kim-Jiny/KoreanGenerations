@@ -14,6 +14,17 @@
 		307B3D402DAF4C6C00BEE959 /* KoreanGenerationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D3F2DAF4C6C00BEE959 /* KoreanGenerationsTests.swift */; };
 		307B3D4A2DAF4C6C00BEE959 /* KoreanGenerationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D492DAF4C6C00BEE959 /* KoreanGenerationsUITests.swift */; };
 		307B3D4C2DAF4C6C00BEE959 /* KoreanGenerationsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D4B2DAF4C6C00BEE959 /* KoreanGenerationsUITestsLaunchTests.swift */; };
+		307B3D5B2DAF4D9600BEE959 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D5A2DAF4D9600BEE959 /* Event.swift */; };
+		307B3D5D2DAF4DA300BEE959 /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D5C2DAF4DA300BEE959 /* Music.swift */; };
+		307B3D5F2DAF4DAA00BEE959 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D5E2DAF4DAA00BEE959 /* Movie.swift */; };
+		307B3D612DAF4DB300BEE959 /* Drama.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D602DAF4DB300BEE959 /* Drama.swift */; };
+		307B3D692DAF4DCE00BEE959 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D682DAF4DCE00BEE959 /* Animation.swift */; };
+		307B3D942DAF4F2B00BEE959 /* Generation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D932DAF4F2B00BEE959 /* Generation.swift */; };
+		307B3D962DAF4F6000BEE959 /* GenerationUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D952DAF4F6000BEE959 /* GenerationUseCase.swift */; };
+		307B3D982DAF4F7B00BEE959 /* GenerationRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D972DAF4F7B00BEE959 /* GenerationRepository.swift */; };
+		307B3D9A2DAF4F9000BEE959 /* APIClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D992DAF4F9000BEE959 /* APIClient.swift */; };
+		307B3D9D2DAF652200BEE959 /* GenerationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3D9C2DAF652200BEE959 /* GenerationView.swift */; };
+		307B3DA22DAF66BD00BEE959 /* GenerationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3DA12DAF66BD00BEE959 /* GenerationViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +55,17 @@
 		307B3D452DAF4C6C00BEE959 /* KoreanGenerationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KoreanGenerationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		307B3D492DAF4C6C00BEE959 /* KoreanGenerationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KoreanGenerationsUITests.swift; sourceTree = "<group>"; };
 		307B3D4B2DAF4C6C00BEE959 /* KoreanGenerationsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KoreanGenerationsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		307B3D5A2DAF4D9600BEE959 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		307B3D5C2DAF4DA300BEE959 /* Music.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music.swift; sourceTree = "<group>"; };
+		307B3D5E2DAF4DAA00BEE959 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		307B3D602DAF4DB300BEE959 /* Drama.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Drama.swift; sourceTree = "<group>"; };
+		307B3D682DAF4DCE00BEE959 /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
+		307B3D932DAF4F2B00BEE959 /* Generation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Generation.swift; sourceTree = "<group>"; };
+		307B3D952DAF4F6000BEE959 /* GenerationUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerationUseCase.swift; sourceTree = "<group>"; };
+		307B3D972DAF4F7B00BEE959 /* GenerationRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerationRepository.swift; sourceTree = "<group>"; };
+		307B3D992DAF4F9000BEE959 /* APIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClient.swift; sourceTree = "<group>"; };
+		307B3D9C2DAF652200BEE959 /* GenerationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerationView.swift; sourceTree = "<group>"; };
+		307B3DA12DAF66BD00BEE959 /* GenerationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerationViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +116,9 @@
 		307B3D2D2DAF4C6A00BEE959 /* KoreanGenerations */ = {
 			isa = PBXGroup;
 			children = (
+				307B3D9E2DAF669F00BEE959 /* Presentation */,
+				307B3D8D2DAF4E5B00BEE959 /* Data */,
+				307B3D582DAF4D7700BEE959 /* Domain */,
 				307B3D2E2DAF4C6A00BEE959 /* KoreanGenerationsApp.swift */,
 				307B3D302DAF4C6A00BEE959 /* ContentView.swift */,
 				307B3D322DAF4C6C00BEE959 /* Assets.xcassets */,
@@ -125,6 +150,94 @@
 				307B3D4B2DAF4C6C00BEE959 /* KoreanGenerationsUITestsLaunchTests.swift */,
 			);
 			path = KoreanGenerationsUITests;
+			sourceTree = "<group>";
+		};
+		307B3D582DAF4D7700BEE959 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				307B3D7C2DAF4E1A00BEE959 /* Repositories */,
+				307B3D6A2DAF4DD500BEE959 /* UseCases */,
+				307B3D592DAF4D7E00BEE959 /* Entities */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		307B3D592DAF4D7E00BEE959 /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				307B3D5A2DAF4D9600BEE959 /* Event.swift */,
+				307B3D5C2DAF4DA300BEE959 /* Music.swift */,
+				307B3D5E2DAF4DAA00BEE959 /* Movie.swift */,
+				307B3D602DAF4DB300BEE959 /* Drama.swift */,
+				307B3D682DAF4DCE00BEE959 /* Animation.swift */,
+				307B3D932DAF4F2B00BEE959 /* Generation.swift */,
+			);
+			path = Entities;
+			sourceTree = "<group>";
+		};
+		307B3D6A2DAF4DD500BEE959 /* UseCases */ = {
+			isa = PBXGroup;
+			children = (
+				307B3D952DAF4F6000BEE959 /* GenerationUseCase.swift */,
+			);
+			path = UseCases;
+			sourceTree = "<group>";
+		};
+		307B3D7C2DAF4E1A00BEE959 /* Repositories */ = {
+			isa = PBXGroup;
+			children = (
+				307B3D972DAF4F7B00BEE959 /* GenerationRepository.swift */,
+			);
+			path = Repositories;
+			sourceTree = "<group>";
+		};
+		307B3D8D2DAF4E5B00BEE959 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				307B3D8E2DAF4ECD00BEE959 /* API */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		307B3D8E2DAF4ECD00BEE959 /* API */ = {
+			isa = PBXGroup;
+			children = (
+				307B3D992DAF4F9000BEE959 /* APIClient.swift */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		307B3D9B2DAF651500BEE959 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				307B3D9C2DAF652200BEE959 /* GenerationView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		307B3D9E2DAF669F00BEE959 /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				307B3D9F2DAF66AB00BEE959 /* Generation */,
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		307B3D9F2DAF66AB00BEE959 /* Generation */ = {
+			isa = PBXGroup;
+			children = (
+				307B3DA02DAF66B300BEE959 /* ViewModel */,
+				307B3D9B2DAF651500BEE959 /* View */,
+			);
+			path = Generation;
+			sourceTree = "<group>";
+		};
+		307B3DA02DAF66B300BEE959 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				307B3DA12DAF66BD00BEE959 /* GenerationViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +370,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				307B3D9A2DAF4F9000BEE959 /* APIClient.swift in Sources */,
 				307B3D312DAF4C6A00BEE959 /* ContentView.swift in Sources */,
+				307B3D9D2DAF652200BEE959 /* GenerationView.swift in Sources */,
+				307B3DA22DAF66BD00BEE959 /* GenerationViewModel.swift in Sources */,
+				307B3D962DAF4F6000BEE959 /* GenerationUseCase.swift in Sources */,
+				307B3D942DAF4F2B00BEE959 /* Generation.swift in Sources */,
+				307B3D5B2DAF4D9600BEE959 /* Event.swift in Sources */,
 				307B3D2F2DAF4C6A00BEE959 /* KoreanGenerationsApp.swift in Sources */,
+				307B3D5D2DAF4DA300BEE959 /* Music.swift in Sources */,
+				307B3D982DAF4F7B00BEE959 /* GenerationRepository.swift in Sources */,
+				307B3D5F2DAF4DAA00BEE959 /* Movie.swift in Sources */,
+				307B3D692DAF4DCE00BEE959 /* Animation.swift in Sources */,
+				307B3D612DAF4DB300BEE959 /* Drama.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
