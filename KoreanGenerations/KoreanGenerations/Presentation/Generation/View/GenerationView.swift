@@ -139,13 +139,17 @@ struct GenerationView: View {
     private func eventSection(title: String, events: [Event]) -> some View {
         collapsibleSection(title: title) {
             ForEach(events, id: \ .event) { event in
-                VStack(alignment: .leading, spacing: 4) {
-                    Text(event.event).bold()
-                    Text(event.date).font(.caption).foregroundColor(.gray)
+                HStack(alignment: .top) {
+                    VStack(alignment: .leading, spacing: 4) {
+                        Text(event.event).bold()
+                        Text(event.date).font(.caption).foregroundColor(.gray)
+                    }
+                    Spacer()
                 }
                 .padding()
                 .background(Color.white.opacity(0.15))
                 .cornerRadius(12)
+                .frame(maxWidth: .infinity) // 셀 너비를 화면에 맞게 확장
             }
         }
     }
@@ -154,14 +158,27 @@ struct GenerationView: View {
     private func musicSection(title: String, musics: [Music]) -> some View {
         collapsibleSection(title: title) {
             ForEach(musics, id: \ .title) { music in
-                VStack(alignment: .leading, spacing: 6) {
-                    Text(music.title).font(.headline)
-                    Text(music.artist).font(.subheadline)
-                    Text(music.releaseDate).font(.caption).foregroundColor(.gray)
+                HStack(alignment: .top) {
+                    if let url = URL(string: music.posterUrl), !music.posterUrl.isEmpty {
+                        AsyncImage(url: url) { image in
+                            image.resizable().scaledToFit()
+                        } placeholder: {
+                            ProgressView()
+                        }
+                        .frame(width: 60, height: 90) // 원하는 크기로 설정
+                        .cornerRadius(10)
+                    }
+                    VStack(alignment: .leading, spacing: 6) {
+                        Text(music.title).font(.headline)
+                        Text(music.artist).font(.subheadline)
+                        Text(music.releaseDate).font(.caption).foregroundColor(.gray)
+                    }
+                    Spacer()
                 }
                 .padding()
                 .background(.ultraThinMaterial)
                 .cornerRadius(14)
+                .frame(maxWidth: .infinity) // 셀 너비를 화면에 맞게 확장
             }
         }
     }
