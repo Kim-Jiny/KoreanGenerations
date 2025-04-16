@@ -1,0 +1,374 @@
+{
+  "year": 1995,
+  "korean_age": 30,
+  "international_age": 29,
+  "zodiac": "돼지띠",
+  "generation": "밀레니얼 세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "IMF 이전 마지막 안정기",
+    "PC방의 시작",
+    "삐삐(무선호출기) 유행",
+    "친구들과 오락실 가는 것이 일상",
+    "만화방, 비디오방 전성기",
+    "지하철, 버스 등 대중교통의 대중화",
+    "학교 앞 문방구에서 군것질과 장난감 구매"
+  ],
+  "world_events": [
+    { "event": "Windows 95 출시", "date": "1995-08-24" },
+    { "event": "DVD 공식 발표", "date": "1995-03" },
+    { "event": "아마존(Amazon) 설립", "date": "1995-07-05" },
+    { "event": "Yahoo! 정식 서비스 시작", "date": "1995-03" },
+    { "event": "일본 고베 대지진 발생", "date": "1995-01-17" }
+  ],
+  "korea_events": [
+    { "event": "삼풍백화점 붕괴 사고", "date": "1995-06-29" },
+    { "event": "서울 지하철 5호선 개통", "date": "1995-11-15" },
+    { "event": "전국민주노동조합총연맹(민주노총) 출범", "date": "1995-11-11" },
+    { "event": "한국 최초의 인터넷 포털 등장 (천리안, 하이텔 중심)", "date": "1995" }
+  ],
+  "popular_music": [
+    { "title": "잘못된 만남", "artist": "김건모", "release_date": "1995-01" },
+    { "title": "3! 4!", "artist": "룰라", "release_date": "1995-04" },
+    { "title": "겨울 이야기", "artist": "DJ DOC", "release_date": "1995-12" },
+    { "title": "단발머리", "artist": "015B", "release_date": "1995-06" },
+    { "title": "Come Back Home", "artist": "서태지와 아이들", "release_date": "1995-10" },
+    { "title": "잊을 수 없어", "artist": "이문세", "release_date": "1995-05" },
+    { "title": "너를 사랑해", "artist": "김현정", "release_date": "1995-09" },
+    { "title": "사랑하고 싶어", "artist": "김민종", "release_date": "1995-08" },
+    { "title": "행복을 주는 사람", "artist": "김종환", "release_date": "1995-03" },
+    { "title": "슬픈 사람", "artist": "이승철", "release_date": "1995-11" }
+  ],
+  "popular_movies": [
+  {
+    "kr_title": "다이 하드 3",
+    "en_title": "Die Hard with a Vengeance",
+    "country": "US",
+    "release_date": "1995-05-19",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/a/af/Die_hard_with_a_vengeance_poster.jpg"
+  },
+  {
+    "kr_title": "레옹",
+    "en_title": "Léon: The Professional",
+    "country": "FR",
+    "release_date": "1995-09-14",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/7/7f/L%C3%A9on_-_The_Professional_Poster.jpg"
+  },
+  {
+    "kr_title": "브레이브하트",
+    "en_title": "Braveheart",
+    "country": "US",
+    "release_date": "1995-05-24",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/1/14/Braveheart_poster.jpg"
+  },
+  {
+    "kr_title": "프렌치 키스",
+    "en_title": "French Kiss",
+    "country": "US",
+    "release_date": "1995-10-06",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/7/74/French_Kiss_Poster.jpg"
+  },
+  {
+    "kr_title": "세븐",
+    "en_title": "Se7en",
+    "country": "US",
+    "release_date": "1995-09-22",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/67/Se7en_Poster.jpg"
+  },
+  {
+    "kr_title": "닥터 봉",
+    "en_title": "Dr. Bong",
+    "country": "KR",
+    "release_date": "1995-10-15",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/4/4e/Dr._Bong_poster.jpg"
+  },
+  {
+    "kr_title": "007 제 17탄",
+    "en_title": "James Bond 007: GoldenEye",
+    "country": "GB",
+    "release_date": "1995-11-17",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/e/eb/Goldeneye_poster.jpg"
+  },
+  {
+    "kr_title": "쇼걸",
+    "en_title": "Showgirls",
+    "country": "US",
+    "release_date": "1995-09-22",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d9/Showgirls_Poster.jpg"
+  },
+  {
+    "kr_title": "테러리스트",
+    "en_title": "The Terrorist",
+    "country": "IN",
+    "release_date": "1995-10-06",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/4/42/Terrorist_1995_poster.jpg"
+  },
+  {
+    "kr_title": "토이스토리",
+    "en_title": "Toy Story",
+    "country": "US",
+    "release_date": "1995-11-22",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/1/13/Toy_Story_1995_Poster.jpg"
+  },
+  {
+    "kr_title": "저지드레드",
+    "en_title": "Judge Dredd",
+    "country": "US",
+    "release_date": "1995-06-30",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/a/a7/Judge_Dredd_1995_poster.jpg"
+  },
+  {
+    "kr_title": "홍번구",
+    "en_title": "Hong Bang Gu",
+    "country": "KR",
+    "release_date": "1995-07-06",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/c/ca/Hong_Bang_Gu_Poster.jpg"
+  },
+  {
+    "kr_title": "워터월드",
+    "en_title": "Waterworld",
+    "country": "US",
+    "release_date": "1995-07-28",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/3/34/Waterworld_Poster.jpg"
+  },
+  {
+    "kr_title": "포카혼타스",
+    "en_title": "Pocahontas",
+    "country": "US",
+    "release_date": "1995-06-23",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d7/Pocahontas_1995_poster.jpg"
+  },
+  {
+    "kr_title": "개같은 날의 오후",
+    "en_title": "Dog Day Afternoon",
+    "country": "US",
+    "release_date": "1995-06-01",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/0c/Dog_Day_Afternoon_poster.jpg"
+  },
+  {
+    "kr_title": "폭로",
+    "en_title": "Disclosure",
+    "country": "US",
+    "release_date": "1995-01-13",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/4/4a/Disclosure_1995_poster.jpg"
+  },
+  {
+    "kr_title": "컷스로트 아일랜드",
+    "en_title": "Cutthroat Island",
+    "country": "US",
+    "release_date": "1995-12-22",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/a/a0/Cutthroat_Island_1995_poster.jpg"
+  },
+  {
+    "kr_title": "매디슨 카운티의 다리",
+    "en_title": "The Bridges of Madison County",
+    "country": "US",
+    "release_date": "1995-06-02",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/0b/Bridges_of_Madison_County_Poster.jpg"
+  },
+  {
+    "kr_title": "아름다운 청년 전태일",
+    "en_title": "The Beautiful Young Man Jeon Tae-il",
+    "country": "KR",
+    "release_date": "1995-11-01",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/5/59/The_Beautiful_Young_Man_Jeon_Tae-il_Poster.jpg"
+  },
+  {
+    "kr_title": "가을의 전설",
+    "en_title": "Autumn in My Heart",
+    "country": "KR",
+    "release_date": "1995-10-11",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/c/ca/Autumn_in_My_Heart_Poster.jpg"
+  },
+  {
+    "kr_title": "배트맨3",
+    "en_title": "Batman Forever",
+    "country": "US",
+    "release_date": "1995-06-16",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/4/47/Batman_Forever_poster.jpg"
+  },
+  {
+    "kr_title": "돌아온 영웅 홍길동",
+    "en_title": "Return of the Hero Hong Gil-dong",
+    "country": "KR",
+    "release_date": "1995-06-12",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/67/Return_of_Hero_Hong_Gil-dong_Poster.jpg"
+  },
+  {
+    "kr_title": "당신이 잠든 사이에",
+    "en_title": "While You Were Sleeping",
+    "country": "US",
+    "release_date": "1995-11-24",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/5/50/While_You_Were_Sleeping_1995_poster.jpg"
+  },
+  {
+    "kr_title": "아폴로 13",
+    "en_title": "Apollo 13",
+    "country": "US",
+    "release_date": "1995-06-30",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/0c/Apollo_13_poster.jpg"
+  },
+  {
+    "kr_title": "꼬마 유령 캐스퍼",
+    "en_title": "Casper",
+    "country": "US",
+    "release_date": "1995-05-26",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/7/7f/Casper_movie_poster.jpg"
+  },
+  {
+    "kr_title": "타임캅",
+    "en_title": "Timecop",
+    "country": "US",
+    "release_date": "1995-09-16",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/9/9d/Timecop_1995_poster.jpg"
+  },
+  {
+    "kr_title": "불멸의 연인",
+    "en_title": "Immortal Beloved",
+    "country": "US",
+    "release_date": "1995-12-01",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/3/34/Immortal_Beloved_poster.jpg"
+  },
+  {
+    "kr_title": "언더 씨즈 2",
+    "en_title": "Under Siege 2: Dark Territory",
+    "country": "US",
+    "release_date": "1995-07-14",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/0a/Under_Seige_2_Dark_Territory_Poster.jpg"
+  },
+  {
+    "kr_title": "썬더볼트",
+    "en_title": "Thunderbolt",
+    "country": "HK",
+    "release_date": "1995-05-25",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/7/73/Thunderbolt_poster.jpg"
+  },
+  {
+    "kr_title": "돈을 갖고 튀어라",
+    "en_title": "Run Lola Run",
+    "country": "DE",
+    "release_date": "1995-11-17",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/0c/Run_Lola_Run_1998_poster.jpg"
+  },
+  {
+    "kr_title": "크림슨타이드",
+    "en_title": "Crimson Tide",
+    "country": "US",
+    "release_date": "1995-05-12",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d1/Crimson_Tide_poster.jpg"
+  },
+  {
+    "kr_title": "영웅",
+    "en_title": "Hero",
+    "country": "HK",
+    "release_date": "1995-06-23",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/f/f4/Hero_1995_poster.jpg"
+  },
+  {
+    "kr_title": "리허설",
+    "en_title": "Rehearsal",
+    "country": "KR",
+    "release_date": "1995-10-01",
+    "poster_url": "https://upload.wikimedia.org/wikipedia/ko/4/44/Rehearsal_1995_poster.jpg"
+  }
+],
+  "popular_dramas": [
+    { "title": "모래시계", "broadcast_network": "SBS", "start_date": "1995-01-09", "end_date": "1995-02-28" },
+    { "title": "서울의 달", "broadcast_network": "MBC", "start_date": "1994-10-10", "end_date": "1995-05-16" },
+    { "title": "사랑을 그대 품 안에", "broadcast_network": "MBC", "start_date": "1994-11-07", "end_date": "1995-01-03" },
+    { "title": "결혼작사 이혼작곡", "broadcast_network": "SBS", "start_date": "1995-03-27", "end_date": "1995-05-30" },
+    { "title": "내 마음의 풍금", "broadcast_network": "KBS2", "start_date": "1995-04-06", "end_date": "1995-06-15" },
+    { "title": "남자 대 남자", "broadcast_network": "MBC", "start_date": "1995-07-24", "end_date": "1995-09-12" },
+    { "title": "단발머리", "broadcast_network": "SBS", "start_date": "1995-01-30", "end_date": "1995-03-14" },
+    { "title": "사랑의 미로", "broadcast_network": "KBS2", "start_date": "1995-02-22", "end_date": "1995-04-11" }
+],
+  "fashion_trends": [
+    "통 큰 청바지",
+    "벙거지 모자",
+    "체크 셔츠와 힙합 패션",
+    "나이키 에어맥스와 아디다스 삼선 슬리퍼",
+    "밀리터리룩",
+    "큰 로고가 박힌 티셔츠"
+  ],
+  "kids_toys": [
+    "타이니탄 인형 (비공식적 등장)",
+    "스티커북 수집",
+    "슬램덩크 캐릭터 카드",
+    "요요 유행",
+    "탑블레이드(초기)와 딱지놀이"
+  ],
+  "technology": [
+    "PC통신 하이텔, 천리안 인기",
+    "윈도우 95 출시로 GUI 환경 대중화",
+    "일반 가정에서 컴퓨터 사용 증가",
+    "인터넷이 대중에게 처음 소개되기 시작",
+    "디지털 카메라와 캠코더의 대중화",
+    "휴대폰 사용 증가 (특히 '삐삐'와 '휴대폰'의 보급)",
+    "DVD 플레이어와 초기 DVD 상영 개시",
+    "온라인 쇼핑몰, 전자상거래 활성화",
+    "핸드폰의 문자메시지 기능이 대중화",
+    "디지털 텔레비전 (DTV) 방송 시작"
+],
+  "animation": [
+    {
+        "title": "세일러문S",
+        "start_date": "1994-03-19",
+        "end_date": "1995-03-04",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/8/8f/SailorMoonS.jpg"
+    },
+    {
+        "title": "슬램덩크",
+        "start_date": "1993-10-16",
+        "end_date": "1996-03-23",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d6/Slamdunk.jpg"
+    },
+    {
+        "title": "드래곤볼Z",
+        "start_date": "1989-04-26",
+        "end_date": "1996-01-31",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/6f/DragonBallZ.jpg"
+    },
+    {
+        "title": "마법기사 레이어스",
+        "start_date": "1994-10-17",
+        "end_date": "1995-11-13",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d8/Rayearth.jpg"
+    },
+    {
+        "title": "짱구는 못말려",
+        "start_date": "1992-04-13",
+        "end_date": "present",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/05/Crayon_Shin-chan.jpg"
+    },
+    {
+        "title": "천사소녀 네티",
+        "start_date": "1995-02-06",
+        "end_date": "1995-07-17",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/1/1a/천사소녀_네티.jpg"
+    },
+    {
+        "title": "드래곤볼 GT",
+        "start_date": "1995-02-07",
+        "end_date": "1997-11-19",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Dragon_Ball_GT.jpg"
+    },
+    {
+        "title": "Timon & Pumbaa",
+        "start_date": "1995-09-08",
+        "end_date": "1999-11-14",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Timonandpumbaa.jpg"
+    },
+    {
+        "title": "꼬마 자동차 붕붕",
+        "start_date": "1995-01-01",
+        "end_date": "1995-12-31",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bumpety_Boo_Poster.jpg"
+    },
+    {
+        "title": "이누야사 (시범 영상)",
+        "start_date": "1995-01-01",
+        "end_date": "1995-01-01",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/50/Inuyasha_1st_series.jpg"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+    "year": 1996,
+    "korean_age": 31,
+    "international_age": 30,
+    "zodiac": "쥐띠",
+    "generation": "밀레니얼 세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "IMF 이후 경제 위기 시작",
+      "PC방이 폭발적으로 증가",
+      "인터넷 카페 등장",
+      "휴대폰의 보급 확대",
+      "디지털 카메라의 일반화",
+      "게임기와 콘솔의 대중화",
+      "애니메이션과 만화방 인기"
+    ],
+    "world_events": [
+      { "event": "구소련 붕괴", "date": "1996-01-01" },
+      { "event": "노벨 평화상 수상 – 김대중", "date": "1996-10-15" },
+      { "event": "한국, 1996년 하계 올림픽 개최지 선정", "date": "1996-09-19" },
+      { "event": "HTML 2.0 발표", "date": "1996-11-14" },
+      { "event": "프린터의 일반화와 보급 확대", "date": "1996" }
+    ],
+    "korea_events": [
+      { "event": "한국철도공사(KORAIL) 출범", "date": "1996-01-01" },
+      { "event": "인터넷 쇼핑몰 등장 (인터파크 등)", "date": "1996" },
+      { "event": "서울올림픽 유산 활용한 국가 이미지 제고", "date": "1996" },
+      { "event": "한미 자유무역협정(FTA) 협상 개시", "date": "1996" }
+    ],
+    "popular_music": [
+        { "title": "친구", "artist": "이승철", "release_date": "1996-03" },
+        { "title": "지금 이 순간", "artist": "김경호", "release_date": "1996-02" },
+        { "title": "나 항상 그대를", "artist": "한영애", "release_date": "1996-07" },
+        { "title": "슬픈 사랑", "artist": "이문세", "release_date": "1996-06" },
+        { "title": "어떻게 사랑이 그래요", "artist": "김정민", "release_date": "1996-05" },
+        { "title": "헤어지는 중", "artist": "박미경", "release_date": "1996-10" },
+        { "title": "그대는 나의 인생", "artist": "조성모", "release_date": "1996-11" },
+        { "title": "사랑할수록", "artist": "윤종신", "release_date": "1996-09" },
+        { "title": "매일 그대와", "artist": "김민종", "release_date": "1996-08" },
+        { "title": "하루", "artist": "강수지", "release_date": "1996-12" }
+    ],
+    "popular_movies": [
+        {
+          "kr_title": "뽕",
+          "en_title": "Ppong",
+          "country": "KR",
+          "release_date": "1996-10-04",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/3/3f/Ppong_poster.jpg"
+        },
+        {
+          "kr_title": "7악동",
+          "en_title": "The 7th Boy",
+          "country": "KR",
+          "release_date": "1996-07-05",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/e/e0/The_7th_Boy_poster.jpg"
+        },
+        {
+          "kr_title": "96 옐로우 하우스",
+          "en_title": "96 Yellow House",
+          "country": "KR",
+          "release_date": "1996-09-20",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/f/f5/96_Yellow_House_poster.jpg"
+        },
+        {
+          "kr_title": "고스트 맘마",
+          "en_title": "Ghost Mama",
+          "country": "KR",
+          "release_date": "1996-09-20",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/2/26/Ghost_Mama_poster.jpg"
+        },
+        {
+          "kr_title": "귀천도",
+          "en_title": "Gwi Cheon Do",
+          "country": "KR",
+          "release_date": "1996-11-01",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/1/18/Gwi_Cheon_Do_poster.jpg"
+        },
+        {
+          "kr_title": "그들만의 세상",
+          "en_title": "Their Own World",
+          "country": "KR",
+          "release_date": "1996-12-06",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/a/ab/Their_Own_World_poster.jpg"
+        },
+        {
+          "kr_title": "깡패수업",
+          "en_title": "Gangster Class",
+          "country": "KR",
+          "release_date": "1996-08-09",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d7/Gangster_Class_poster.jpg"
+        },
+        {
+          "kr_title": "꽃잎",
+          "en_title": "Flower Petal",
+          "country": "KR",
+          "release_date": "1996-06-28",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/c/cf/Flower_Petal_poster.jpg"
+        },
+        {
+          "kr_title": "나에게 오라",
+          "en_title": "Come to Me",
+          "country": "KR",
+          "release_date": "1996-04-12",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/c/cd/Come_to_Me_poster.jpg"
+        },
+        {
+          "kr_title": "내일로 흐르는 강",
+          "en_title": "River Flowing to Tomorrow",
+          "country": "KR",
+          "release_date": "1996-02-17",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/4/4f/River_Flowing_to_Tomorrow_poster.jpg"
+        },
+        {
+          "kr_title": "너희가 재즈를 믿느냐",
+          "en_title": "Do You Believe in Jazz?",
+          "country": "KR",
+          "release_date": "1996-05-10",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/c/cb/Do_You_Believe_in_Jazz_poster.jpg"
+        },
+        {
+          "kr_title": "돼지가 우물에 빠진 날",
+          "en_title": "The Day the Pig Fell into the Well",
+          "country": "KR",
+          "release_date": "1996-02-23",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/7/7f/The_Day_the_Pig_Fell_Into_the_Well_poster.jpg"
+        },
+        {
+          "kr_title": "드래곤 투카",
+          "en_title": "Dragon Tuka",
+          "country": "KR",
+          "release_date": "1996-12-13",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/a/a6/Dragon_Tuka_poster.jpg"
+        },
+        {
+          "kr_title": "러브 스토리",
+          "en_title": "Love Story",
+          "country": "KR",
+          "release_date": "1996-11-08",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/4/48/Love_Story_1996_poster.jpg"
+        },
+        {
+          "kr_title": "립스틱 짙게 바르고",
+          "en_title": "Lipstick on Lips",
+          "country": "KR",
+          "release_date": "1996-09-25",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/9/96/Lipstick_on_Lips_poster.jpg"
+        },
+        {
+          "kr_title": "맥주가 애인보다 좋은 7가지 이유",
+          "en_title": "7 Reasons Why Beer is Better Than a Boyfriend",
+          "country": "KR",
+          "release_date": "1996-07-26",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/1/19/7_reasons_beer_better_than_boyfriend_poster.jpg"
+        },
+        {
+          "kr_title": "미지왕",
+          "en_title": "Mijiwang",
+          "country": "KR",
+          "release_date": "1996-12-27",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/a/a7/Mijiwang_poster.jpg"
+        },
+        {
+          "kr_title": "박봉곤 가출사건",
+          "en_title": "Park Bong-Gon’s Runaway Incident",
+          "country": "KR",
+          "release_date": "1996-07-12",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/9/95/Park_Bong_Gon_poster.jpg"
+        },
+        {
+          "kr_title": "보스",
+          "en_title": "The Boss",
+          "country": "KR",
+          "release_date": "1996-08-23",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/a/a3/The_Boss_1996_poster.jpg"
+        },
+        {
+          "kr_title": "본 투 킬",
+          "en_title": "Born to Kill",
+          "country": "KR",
+          "release_date": "1996-06-21",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/f/f1/Born_to_Kill_1996_poster.jpg"
+        },
+        {
+          "kr_title": "불륜의 바다",
+          "en_title": "Sea of Infidelity",
+          "country": "KR",
+          "release_date": "1996-09-06",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/7/75/Sea_of_Infidelity_poster.jpg"
+        },
+        {
+          "kr_title": "세 친구",
+          "en_title": "Three Friends",
+          "country": "KR",
+          "release_date": "1996-05-03",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/2/2f/Three_Friends_1996_poster.jpg"
+        },
+        {
+          "kr_title": "아기공룡 둘리 - 얼음별 대모험",
+          "en_title": "Dooly the Little Dinosaur – Ice Age Adventure",
+          "country": "KR",
+          "release_date": "1996-07-26",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/c/c4/Dooly_the_Little_Dinosaur_poster.jpg"
+        },
+        {
+          "kr_title": "아마게돈",
+          "en_title": "Armageddon",
+          "country": "US",
+          "release_date": "1996-07-01",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/60/Armageddon_1996_poster.jpg"
+        },
+        {
+          "kr_title": "악어",
+          "en_title": "Crocodile",
+          "country": "KR",
+          "release_date": "1996-12-06",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/5/5f/Crocodile_1996_poster.jpg"
+        },
+        {
+          "kr_title": "알바트로스",
+          "en_title": "Albatross",
+          "country": "KR",
+          "release_date": "1996-04-05",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/1/1a/Albatross_poster.jpg"
+        },
+        {
+          "kr_title": "어른들은 청어를 굽는다",
+          "en_title": "Adults Grill Herring",
+          "country": "KR",
+          "release_date": "1996-06-07",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/66/Adults_Grill_Herring_poster.jpg"
+        },
+        {
+          "kr_title": "언더그라운드",
+          "en_title": "Underground",
+          "country": "KR",
+          "release_date": "1996-02-02",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/c/c0/Underground_1996_poster.jpg"
+        }
+      ],
+    "popular_dramas": [
+      { "title": "결혼작사 이혼작곡", "broadcast_network": "SBS", "start_date": "1995-03-27", "end_date": "1995-05-30" },
+      { "title": "내 마음의 풍금", "broadcast_network": "KBS2", "start_date": "1995-04-06", "end_date": "1995-06-15" },
+      { "title": "남자 대 남자", "broadcast_network": "MBC", "start_date": "1995-07-24", "end_date": "1995-09-12" },
+      { "title": "청춘의 덫", "broadcast_network": "MBC", "start_date": "1996-02-10", "end_date": "1996-05-10" },
+      { "title": "사랑과 야망", "broadcast_network": "KBS2", "start_date": "1996-05-02", "end_date": "1996-11-07" }
+    ],
+    "fashion_trends": [
+      "초커 목걸이",
+      "더블브레스트 코트",
+      "청바지와 크롭 탑",
+      "디스코 펌 헤어스타일",
+      "탠디 스타일",
+      "바지부츠컷 유행"
+    ],
+    "kids_toys": [
+      "디지털 피아노",
+      "반지 인형",
+      "빅 마마",
+      "게임보이와 닌텐도 64",
+      "캐릭터 봉제 인형"
+    ],
+    "technology": [
+      "모바일 인터넷 서비스의 확장",
+      "디지털 카메라와 게임 콘솔 대중화",
+      "초기 Wi-Fi 기술 등장",
+      "모바일 뮤직 플레이어 보급",
+      "인터넷 검색엔진의 발전 (예: AltaVista, Yahoo!)",
+      "MP3 파일 포맷의 대중화",
+      "브라우저 사용 대중화 (특히 인터넷 익스플로러, 넷스케이프)"
+    ],
+    "animation": [
+      {
+          "title": "슬램덩크",
+          "start_date": "1993-10-16",
+          "end_date": "1996-03-23",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d6/Slamdunk.jpg"
+      },
+      {
+          "title": "드래곤볼 Z",
+          "start_date": "1989-04-26",
+          "end_date": "1996-01-31",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/6f/DragonBallZ.jpg"
+      },
+      {
+          "title": "짱구는 못말려",
+          "start_date": "1992-04-13",
+          "end_date": "present",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/05/Crayon_Shin-chan.jpg"
+      },
+      {
+          "title": "마법기사 레이어스",
+          "start_date": "1994-10-17",
+          "end_date": "1995-11-13",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d8/Rayearth.jpg"
+      },
+      {
+          "title": "테니스의 왕자",
+          "start_date": "1996-10-10",
+          "end_date": "2001-03-26",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/9f/PrinceofTennis.jpg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,86 @@
+{
+    "year": 1996,
+    "korean_age": 31,
+    "international_age": 30,
+    "zodiac": "쥐띠",
+    "generation": "밀레니얼 세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "IMF 이후 경제 위기 시작",
+      "PC방이 폭발적으로 증가",
+      "인터넷 카페 등장",
+      "휴대폰의 보급 확대",
+      "디지털 카메라의 일반화",
+      "게임기와 콘솔의 대중화",
+      "애니메이션과 만화방 인기"
+    ],
+    "world_events": [
+      { "event": "구소련 붕괴", "date": "1996-01-01" },
+      { "event": "노벨 평화상 수상 – 김대중", "date": "1996-10-15" },
+      { "event": "한국, 1996년 하계 올림픽 개최지 선정", "date": "1996-09-19" },
+      { "event": "HTML 2.0 발표", "date": "1996-11-14" },
+      { "event": "프린터의 일반화와 보급 확대", "date": "1996" }
+    ],
+    "korea_events": [
+      { "event": "한국철도공사(KORAIL) 출범", "date": "1996-01-01" },
+      { "event": "인터넷 쇼핑몰 등장 (인터파크 등)", "date": "1996" },
+      { "event": "서울올림픽 유산 활용한 국가 이미지 제고", "date": "1996" },
+      { "event": "한미 자유무역협정(FTA) 협상 개시", "date": "1996" }
+    ],
+    "popular_music": [
+      { "title": "친구", "artist": "이승철", "release_date": "1996-03" },
+      { "title": "지금 이 순간", "artist": "김경호", "release_date": "1996-02" },
+      { "title": "나 항상 그대를", "artist": "한영애", "release_date": "1996-07" },
+      { "title": "슬픈 사랑", "artist": "이문세", "release_date": "1996-06" },
+      { "title": "어떻게 사랑이 그래요", "artist": "김정민", "release_date": "1996-05" }
+    ],
+    "popular_movies": [
+        {
+          "kr_title": "뽕",
+          "en_title": "Ppong",
+          "country": "KR",
+          "release_date": "1996-10-04",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/3/3f/Ppong_poster.jpg"
+        }
+      ],
+    "popular_dramas": [
+      { "title": "결혼작사 이혼작곡", "broadcast_network": "SBS", "start_date": "1995-03-27", "end_date": "1995-05-30" },
+      { "title": "내 마음의 풍금", "broadcast_network": "KBS2", "start_date": "1995-04-06", "end_date": "1995-06-15" },
+      { "title": "남자 대 남자", "broadcast_network": "MBC", "start_date": "1995-07-24", "end_date": "1995-09-12" },
+      { "title": "청춘의 덫", "broadcast_network": "MBC", "start_date": "1996-02-10", "end_date": "1996-05-10" },
+      { "title": "사랑과 야망", "broadcast_network": "KBS2", "start_date": "1996-05-02", "end_date": "1996-11-07" }
+    ],
+    "fashion_trends": [
+      "초커 목걸이",
+      "더블브레스트 코트",
+      "청바지와 크롭 탑",
+      "디스코 펌 헤어스타일",
+      "탠디 스타일",
+      "바지부츠컷 유행"
+    ],
+    "kids_toys": [
+      "디지털 피아노",
+      "반지 인형",
+      "빅 마마",
+      "게임보이와 닌텐도 64",
+      "캐릭터 봉제 인형"
+    ],
+    "technology": [
+      "모바일 인터넷 서비스의 확장",
+      "디지털 카메라와 게임 콘솔 대중화",
+      "초기 Wi-Fi 기술 등장",
+      "모바일 뮤직 플레이어 보급",
+      "인터넷 검색엔진의 발전 (예: AltaVista, Yahoo!)",
+      "MP3 파일 포맷의 대중화",
+      "브라우저 사용 대중화 (특히 인터넷 익스플로러, 넷스케이프)"
+    ],
+    "animation": [
+      {
+          "title": "슬램덩크",
+          "start_date": "1993-10-16",
+          "end_date": "1996-03-23",
+          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d6/Slamdunk.jpg"
+      }
+    ]
+  }
+  
