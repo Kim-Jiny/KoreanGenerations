@@ -12,12 +12,14 @@ struct Drama: Codable {
     let broadcastNetwork: String
     let startDate: String
     let endDate: String
+    let posterUrl: String
     
     enum CodingKeys: String, CodingKey {
         case title
         case broadcastNetwork = "broadcast_network"
         case startDate = "start_date"
         case endDate = "end_date"
+        case posterUrl = "poster_url"
     }
     
     init(from decoder: Decoder) throws {
@@ -26,5 +28,6 @@ struct Drama: Codable {
         self.broadcastNetwork = try container.decodeIfPresent(String.self, forKey: .broadcastNetwork) ?? ""
         self.startDate = try container.decodeIfPresent(String.self, forKey: .startDate) ?? ""
         self.endDate = try container.decodeIfPresent(String.self, forKey: .endDate) ?? ""
+        self.posterUrl = try container.decodeIfPresent(String.self, forKey: .posterUrl) ?? ""
     }
 }

@@ -170,14 +170,27 @@ struct GenerationView: View {
     private func dramaSection(title: String, dramas: [Drama]) -> some View {
         collapsibleSection(title: title) {
             ForEach(dramas, id: \ .title) { drama in
-                VStack(alignment: .leading, spacing: 4) {
-                    Text(drama.title).font(.headline)
-                    Text("방송: \(drama.broadcastNetwork)")
-                    Text("\(drama.startDate) ~ \(drama.endDate)").font(.caption).foregroundColor(.gray)
+                HStack(alignment: .top) {
+                    if let url = URL(string: drama.posterUrl), !drama.posterUrl.isEmpty {
+                        AsyncImage(url: url) { image in
+                            image.resizable().scaledToFit()
+                        } placeholder: {
+                            ProgressView()
+                        }
+                        .frame(width: 60, height: 90) // 원하는 크기로 설정
+                        .cornerRadius(10)
+                    }
+                    VStack(alignment: .leading, spacing: 4) {
+                        Text(drama.title).font(.headline)
+                        Text("방송: \(drama.broadcastNetwork)")
+                        Text("\(drama.startDate) ~ \(drama.endDate)").font(.caption).foregroundColor(.gray)
+                    }
+                    Spacer()
                 }
                 .padding()
                 .background(Color.white.opacity(0.15))
                 .cornerRadius(12)
+                .frame(maxWidth: .infinity)
             }
         }
     }
@@ -189,11 +202,11 @@ struct GenerationView: View {
                 HStack(alignment: .top) {
                     if let url = URL(string: movie.posterUrl), !movie.posterUrl.isEmpty {
                         AsyncImage(url: url) { image in
-                            image.resizable().scaledToFit() // 이미지 비율을 유지하며 크기 조정
+                            image.resizable().scaledToFit()
                         } placeholder: {
                             ProgressView()
                         }
-                        .frame(width: 60, height: 60) // 원하는 사이즈로 변경 (60x60)
+                        .frame(width: 60, height: 90) // 원하는 크기로 설정
                         .cornerRadius(10)
                     }
                     VStack(alignment: .leading, spacing: 4) {
@@ -201,10 +214,12 @@ struct GenerationView: View {
                         Text(movie.enTitle)
                         Text("출시일: \(movie.releaseDate)").font(.caption).foregroundColor(.gray)
                     }
+                    Spacer() // 화면 크기에 맞춰 나머지 공간을 채움
                 }
                 .padding()
                 .background(.ultraThinMaterial)
                 .cornerRadius(12)
+                .frame(maxWidth: .infinity) // 셀 너비를 화면에 맞게 확장
             }
         }
     }
@@ -229,10 +244,12 @@ struct GenerationView: View {
                             .font(.caption)
                             .foregroundColor(.gray)
                     }
+                    Spacer() // 화면 크기에 맞춰 나머지 공간을 채움
                 }
                 .padding()
                 .background(Color.white.opacity(0.2))
                 .cornerRadius(12)
+                .frame(maxWidth: .infinity) // 셀 너비를 화면에 맞게 확장
             }
         }
     }
