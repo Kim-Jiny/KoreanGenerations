@@ -28,87 +28,76 @@
     { "event": "서울시민 1천만 돌파", "date": "1990" }
   ],
   "popular_music": [
-    { "title": "그대 그리고 나", "artist": "이문세", "release_date": "1990-03", "poster_url": "" },
-    { "title": "날개 잃은 천사", "artist": "김완선", "release_date": "1990-06", "poster_url": "" },
-    { "title": "기억 속의 먼 그대에게", "artist": "이승환", "release_date": "1990-07", "poster_url": "" },
-    { "title": "비처럼 음악처럼", "artist": "김현식", "release_date": "1990-09", "poster_url": "" },
-    { "title": "그녀를 만나는 곳 100m 전", "artist": "이상우", "release_date": "1990-05", "poster_url": "" },
-    { "title": "소녀와 가로등", "artist": "변진섭", "release_date": "1990-04", "poster_url": "" },
-    { "title": "하늘을 달리다", "artist": "윤도현", "release_date": "1990-12", "poster_url": "" },
-    { "title": "어떤 이의 꿈", "artist": "봄여름가을겨울", "release_date": "1990-08", "poster_url": "" },
-    { "title": "사랑일뿐야", "artist": "김민우", "release_date": "1990-06", "poster_url": "" },
-    { "title": "슬픈 언약식", "artist": "김정민", "release_date": "1990-10", "poster_url": "" }
-  ],
+    { "title": "이등병의 편지", "artist": "종이연", "release_date": "1986-03-25", "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEdIEZFrRlqg%2Fmaxresdefault.jpg&type=f368_208" },
+    { "title": "싫다 싫어", "artist": "현철", "release_date": "1990-05-30", "poster_url": "https://i.namu.wiki/i/EoLRyKQIpR-YrNZERGWZrHPSRMUlRfwVo4ujpOPCi5fnSbCskKMJgV63FAG2gxBeT666BzthrDC5Jw8uLwDn_TiAVQir2Y4Xf-84jkBODPkZumEyyy3GKjIJ9mZjCa3afjufzgRzcfZnZRRTfj-Bsg.webp" },
+    { "title": "잠깐만", "artist": "주현미", "release_date": "1990-05-15", "poster_url": "https://i.namu.wiki/i/TEPExRt0nmmfr709jXIZIevFv9rUMqi6hgkQqiVM_7Ec6mlLeLArXbnlW0hmNHOXGZ5nNRXr9ZxnmC7vrPt82eAWpOU9Q_-5RLWeOgWTi2VJxQlGHnupISOU6A5gpxeE2R2U1Uxz18iToVlGrEHX2Q.webp" },
+    { "title": "거울도 안 보는 여자", "artist": "태진아", "release_date": "1990-07-30", "poster_url": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F003%2F3444.jpg%3Ftype%3Dr204Fll%26v%3D20230307034248" },
+    { "title": "삐에로는 우릴 보고 웃지", "artist": "김완선", "release_date": "1990-07-01", "poster_url": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F001%2F1573.jpg%3Ftype%3Dr204Fll%26v%3D20241002185522" },
+    { "title": "보랏빛 향기", "artist": "강수지", "release_date": "1990-04-01", "poster_url": "https://search.pstatic.net/common?type=n&size=174x174&quality=95&direct=true&src=https%3A%2F%2Fmusicmeta-phinf.pstatic.net%2Falbum%2F000%2F001%2F1472.jpg%3Ftype%3Dr204Fll%26v%3D20230307034250" }
+],
   "popular_movies": [
     {
       "kr_title": "남부군",
       "en_title": "Nambugun",
       "country": "KR",
-      "release_date": "1990-09-15",
-      "poster_url": ""
+      "release_date": "1990-06-02",
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FPbUpQatJTq5Y1gbQOVIJqp2G-iP6QYk0h_omZSlA9Sa1R5WF_6Z-O0aJTv1XtTXhZ1R4JSf9hYdHIKWVeam1ww.webp&type=fff208_208_ar"
     },
     {
       "kr_title": "나의 사랑, 나의 신부",
       "en_title": "My Love, My Bride",
       "country": "KR",
-      "release_date": "1990-12-01",
-      "poster_url": ""
+      "release_date": "1990-12-29",
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FctvWvbCzuhtZUcWE4n2YsFtDSZC1rAW51nFRgxt3I1r-g6qQMwE8Sf-JEWgbagqQJtQMfAvN6UetBVK5-502XA.webp&type=fff208_208_ar"
     },
     {
       "kr_title": "꿈",
-      "en_title": "The Dream",
-      "country": "KR",
-      "release_date": "1990-05-05",
-      "poster_url": ""
-    },
-    {
-      "kr_title": "그대 눈물이 마를 때까지",
-      "en_title": "Until Your Tears Dry",
-      "country": "KR",
-      "release_date": "1990-07-21",
-      "poster_url": ""
+      "en_title": "Dreams",
+      "country": "JP",
+      "release_date": "1990-05-11",
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FQmlgAKMjnldrgfy4kThAMMvgIm_QVib5KlM9MR76yC7ziegHHybubqbH6dFwH1cFF74hiCxq0TqJgOlsWRNE1Q.webp&type=fff208_208_ar"
     },
     {
       "kr_title": "단지 그대가 여자라는 이유만으로",
       "en_title": "Because You Are a Woman",
       "country": "KR",
-      "release_date": "1990-10-13",
-      "poster_url": ""
+      "release_date": "1990-09-29",
+      "poster_url": "https://search.pstatic.net/common?type=ofullfill&size=176x264&quality=85&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20111221_25%2F1324462543033q6fMT_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2"
     },
     {
       "kr_title": "그들도 우리처럼",
       "en_title": "They Also Are Like Us",
       "country": "KR",
-      "release_date": "1990-06-02",
-      "poster_url": ""
+      "release_date": "1990-11-10",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=176x264&quality=85&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20111222_240%2F1324494750551yh51D_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2"
     },
     {
       "kr_title": "그래 가끔 하늘을 보자",
       "en_title": "Yes, Let's Look at the Sky Sometimes",
       "country": "KR",
-      "release_date": "1990-08-25",
-      "poster_url": ""
+      "release_date": "1990-09-14",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=176x264&quality=85&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20211129_277%2F1638150353216lEYTH_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2"
     },
     {
       "kr_title": "검은 도시",
       "en_title": "Black City",
       "country": "KR",
       "release_date": "1990-04-07",
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/common?type=ofullfill&size=176x264&quality=85&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20111212_21%2F1323672264958wouf7_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2"
     },
     {
       "kr_title": "마유미",
       "en_title": "Mayumi",
       "country": "KR",
-      "release_date": "1990-11-17",
-      "poster_url": ""
+      "release_date": "1990-06-09",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=174x242&quality=85&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20111222_218%2F1324492172976RrjCu_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2"
     },
     {
       "kr_title": "로보트 태권 V 90",
       "en_title": "Robot Taekwon V 90",
       "country": "KR",
-      "release_date": "1990-12-22",
-      "poster_url": ""
+      "release_date": "1990-07-28",
+      "poster_url": "https://search.pstatic.net/common?type=o&size=176x264&quality=85&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20111222_228%2F1324504049420whaT3_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2"
     }
   ],
   "popular_dramas": [
@@ -116,71 +105,71 @@
       "title": "우리들의 천국",
       "broadcast_network": "MBC",
       "start_date": "1990-10-26",
-      "end_date": "1994-02-18",
-      "poster_url": ""
+      "end_date": "1994-04-08",
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F0%2F0%2F167%2F167509.jpg"
     },
     {
       "title": "대추나무 사랑걸렸네",
-      "broadcast_network": "MBC",
+      "broadcast_network": "KBS",
       "start_date": "1990-09-09",
-      "end_date": "2002-12-29",
-      "poster_url": ""
+      "end_date": "2007-10-10",
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F0%2F0%2F167%2F167505.jpg"
     },
     {
       "title": "서울 뚝배기",
       "broadcast_network": "KBS2",
       "start_date": "1990-09-03",
-      "end_date": "1991-02-22",
-      "poster_url": ""
+      "end_date": "1991-07-05",
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2F7P4VPIDb3sn8uJyogQMXPizIUYGWB0nIXINovRMgi_NzPn_RnOOmLyEUsbNCibuQW9rOaYScWO2MCJeDS3Vw-w.webp&type=fff208_208_ar"
     },
     {
       "title": "몽실언니",
-      "broadcast_network": "KBS1",
+      "broadcast_network": "MBC",
       "start_date": "1990-09-01",
-      "end_date": "1990-10-28",
-      "poster_url": ""
+      "end_date": "1990-12-30",
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fkeypage%2Fimage%2Fdss%2F57%2F0%2F0%2F167%2F167611.jpg"
     },
     {
       "title": "여자는 무엇으로 사는가",
-      "broadcast_network": "KBS2",
+      "broadcast_network": "MBC",
       "start_date": "1990-02-05",
-      "end_date": "1990-04-24",
-      "poster_url": ""
+      "end_date": "1990-03-13",
+      "poster_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA0MjlfNTcg%2FMDAxNzE0MzQ3OTE1OTcy.p52MU1TgIahjXVT4mfB6oPAvAUvEbyAqVaa1fqp3jqgg.LIcymuZDQ1ZtcezEOE0HjfJpSq1sIA0vXj9X93tyG1sg.JPEG%2F1714347915241.jpg%23900x700&type=ff192_192"
     },
     {
       "title": "김형사 강형사",
-      "broadcast_network": "KBS2",
-      "start_date": "1990-05-14",
-      "end_date": "1990-07-31",
-      "poster_url": ""
+      "broadcast_network": "MBC",
+      "start_date": "1990-01-11",
+      "end_date": "1990-10-13",
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20230712_228%2F1689155055233mhwGg_JPEG%2F57_668987_poster_image_1689155055222.jpg"
     },
     {
       "title": "그대 아직도 꿈꾸고 있는가",
       "broadcast_network": "KBS2",
-      "start_date": "1990-07-02",
-      "end_date": "1990-09-18",
-      "poster_url": ""
+      "start_date": "1990-10-03",
+      "end_date": "1990-10-25",
+      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWbBr7XM8-1o%2Fmaxresdefault.jpg&type=f368_208"
     },
     {
       "title": "그 여자",
-      "broadcast_network": "KBS2",
-      "start_date": "1990-10-01",
-      "end_date": "1990-11-20",
-      "poster_url": ""
+      "broadcast_network": "MBC",
+      "start_date": "1990-05-02",
+      "end_date": "1990-12-27",
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaRP_mAj4GSc%2Fhqdefault.jpg&type=f368_208"
     },
     {
       "title": "꽃 피고 새 울면",
-      "broadcast_network": "KBS1",
-      "start_date": "1990-04-02",
-      "end_date": "1990-06-29",
-      "poster_url": ""
+      "broadcast_network": "KBS2",
+      "start_date": "1990-05-19",
+      "end_date": "1990-10-14",
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb084-YEVrHM%2Fmaxresdefault.jpg&type=f368_208"
     },
     {
       "title": "기다리는 사람들",
-      "broadcast_network": "KBS2",
-      "start_date": "1990-01-01",
-      "end_date": "1990-02-20",
-      "poster_url": ""
+      "broadcast_network": "KBS1",
+      "start_date": "1990-01-27",
+      "end_date": "1990-01-27",
+      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiHIPumUzRFA%2Fmaxresdefault.jpg&type=f368_208"
     }
   ],
   "fashion_trends": [
@@ -218,40 +207,40 @@
   ],
   "animation": [
     {
-      "title": "머털도사와 108요괴",
+      "title": "머털도사",
       "start_date": "1990-01-01",
       "end_date": "1990-01-01",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/nb_P6NRoeAY3d9RBVmG7n0ntlYhSqihmPkXFaDYuR4CCmCTaoWSluXhb6gcnHUDq2qO0hO-SKycLGwL9jik4gQpc0Zf7pcOYbL8OYG1mCCm4wFHguCMgf9tK-iRZ_FNxyZJsSsSk2JkFfHojlktzAg.webp"
     },
     {
       "title": "배추도사 무도사의 옛날 옛적에",
       "start_date": "1990-01-05",
       "end_date": "1990-03-30",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/r7ObjlMkkYRsHnJPNVElM39jFEhWYsTJB9Qu3MJx3aYhCmlerCX-Jhmke38b0yVXb3mUwrNSVIPT7ZA156vNDQsVscLuTHqog_7Zr85mum9GKWTcd2gKUisq2fKwTPjrBGhk3B97-Aof7entINtsUw.webp"
     },
     {
-      "title": "머털도사와 또매",
-      "start_date": "1990-05-05",
-      "end_date": "1990-05-05",
-      "poster_url": ""
+      "title": "머털도사와 또매 ( 머털도사 시리즈 3편 )",
+      "start_date": "1990-10-03",
+      "end_date": "1990-10-03",
+      "poster_url": "https://i.namu.wiki/i/eEbKNevSwp3iFx31iYLapB9BvcmzrmyvM_mS-P14eVEFRX5kCpCVN4fK1Zz5RAC5yZx5Sm47h2FM956JJHqxnRGgjX8Uzg62tr-PJ1Gtu-q39HlDAnolllvXAfCgErK7xha13ZtN8qZcJBB-G8xcTQ.webp"
     },
     {
-      "title": "날아라 슈퍼보드",
+      "title": "날아라 슈퍼보드 1기",
       "start_date": "1990-08-15",
-      "end_date": "1990-08-15",
-      "poster_url": ""
+      "end_date": "1990-08-15 ( 광복절 특선 )",
+      "poster_url": "https://i.namu.wiki/i/ciLa7-JrsdzcXkCDikQx5qzlkiq3KPMftsB9IwIhOKBD_Yk5FH9WVe3SMIe4zbWJxQwSFDYdej5xlczCOmIjFZSqWdht6fFFhqj6jPyGR-2PIPYSZXVV19LjOF1XSOKxlQ8OgPckw8NCYNFIjc-iFQ.webp"
     },
     {
       "title": "영심이",
       "start_date": "1990-10-05",
       "end_date": "1990-12-28",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/rpabuvmzyFhlYDODJnN8ydoiyxMApuG1yT5Dz5ZcVSxlRM-gU71KxzKoaXpOuwQZngLbLpjJoQEsahZxYEglL31xRIn_mORghltYAp7hBFfQjuTm3qBz0x50HIO4ADsC8wrCG_rvLjEPF9Kk8qK-3Q.webp"
     },
     {
       "title": "머털도사와 108요괴 2",
       "start_date": "1990-11-10",
       "end_date": "1990-11-10",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/x8Gw5zjIkWe8PoARSxomUPT-QlzLtxQ0T200guZ4oCwfVyWv1a-rZoI3kwkY_VIuqIlrrVUQdUbfDFLDQlDwc8XEnUIjztUGXHD9-GkR1ce_ePZ8qa1jhwE4aYMO1Ctgb-xpoXSR4aK8p5jtYk-Kiw.webp"
     }
   ]
 }
