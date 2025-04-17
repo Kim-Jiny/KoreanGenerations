@@ -1,0 +1,112 @@
+{
+    "year": 2002,
+    "korean_age": 23,
+    "international_age": 22,
+    "zodiac": "말띠",
+    "generation": "밀레니얼 세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "한일 월드컵의 뜨거운 열기 경험",
+      "PC방에서 스타크래프트, 카운터스트라이크",
+      "싸이월드 미니홈피로 일기장처럼 감정 표현",
+      "하이틴 감성 영화와 드라마 인기",
+      "학교 앞 문방구 대신 문구점과 팬시점 유행",
+      "학원버스와 도시락 문화",
+      "도토리로 꾸미는 온라인 공간"
+    ],
+    "world_events": [
+      { "event": "유로화 공식 도입", "date": "2002-01-01" },
+      { "event": "이란 대지진", "date": "2002-06-22" },
+      { "event": "발리 폭탄 테러", "date": "2002-10-12" },
+      { "event": "미국, 아프가니스탄 작전 지속", "date": "2002" },
+      { "event": "소니, 블루투스 기반 장치 확대 발표", "date": "2002" }
+    ],
+    "korea_events": [
+      { "event": "2002 한일 월드컵 개최", "date": "2002-05-31" },
+      { "event": "한국 축구 월드컵 4강 진출", "date": "2002-06-25" },
+      { "event": "제16대 대통령 선거, 노무현 당선", "date": "2002-12-19" },
+      { "event": "서해교전 발생", "date": "2002-06-29" }
+    ],
+    "popular_music": [
+      { "title": "나비무덤", "artist": "더 크로스", "release_date": "2002-03", "poster_url": "" },
+      { "title": "아이야", "artist": "젝스키스", "release_date": "2002-01", "poster_url": "" },
+      { "title": "미안해요", "artist": "김건모", "release_date": "2002-09", "poster_url": "" },
+      { "title": "사랑은 향기를 남기고", "artist": "테이", "release_date": "2002-11", "poster_url": "" },
+      { "title": "아로하", "artist": "쿨", "release_date": "2002-06", "poster_url": "" },
+      { "title": "벌써 일년", "artist": "브라운아이즈", "release_date": "2002-04", "poster_url": "" },
+      { "title": "Gee", "artist": "소녀시대", "release_date": "2002-12", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "반지의 제왕: 두 개의 탑",
+        "en_title": "The Lord of the Rings: The Two Towers",
+        "country": "US/NZ",
+        "release_date": "2002-12-18",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg"
+      },
+      {
+        "kr_title": "스파이더맨",
+        "en_title": "Spider-Man",
+        "country": "US",
+        "release_date": "2002-05-03",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f3/Spider-Man2002Poster.jpg"
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "겨울연가",
+        "broadcast_network": "KBS2",
+        "start_date": "2002-01-14",
+        "end_date": "2002-03-19",
+        "poster_url": "https://i.namu.wiki/i/Lliog-Z6L1xTivU6QULnUGOAZUOUO6KN9kW8Q6AV1Ai7XBdc4TTmTJNPHiFK4z2U4BLXz4fyYjH7Ti7xG_0Tpw.webp"
+      },
+      {
+        "title": "명랑소녀 성공기",
+        "broadcast_network": "KBS2",
+        "start_date": "2002-03-13",
+        "end_date": "2002-05-02",
+        "poster_url": "https://i.namu.wiki/i/lm0gX20PQlQ5iJ8BfpCh37QaL0M48CO58s_eSKn-ESzgdrCcqv-DXy_J1Et4-H_MkMx9zAP4zywC8yyNGKUr-Q.webp"
+      }
+    ],
+    "fashion_trends": [
+      "크롭탑과 통 넓은 바지",
+      "골반 바지와 짧은 티셔츠",
+      "후드티와 워커",
+      "밀리터리 룩의 재유행",
+      "초커 목걸이",
+      "힙합 스타일과 스트릿 패션"
+    ],
+    "kids_toys": [
+      "탑블레이드와 요요",
+      "피구왕 통키 완구",
+      "포켓몬스터 카드",
+      "디지몬 장난감",
+      "스티커 교환북",
+      "종이인형과 비밀 노트"
+    ],
+    "technology": [
+      "초고속 인터넷과 ADSL 보급",
+      "MP3 플레이어 대중화",
+      "카메라폰 등장과 셀카 유행",
+      "인터넷 카페와 블로그 붐",
+      "디지털 카메라와 캠코더 사용 확대",
+      "온라인 쇼핑과 경매 사이트 활성화",
+      "USB 드라이브 대중화",
+      "와이파이(Zigbee 기반)의 초기 보급"
+    ],
+    "animation": [
+      {
+        "title": "명탐정 코난 (TV 방영 지속)",
+        "start_date": "1996-01-08",
+        "end_date": "현재 방영 중",
+        "poster_url": "https://i.namu.wiki/i/VLaeHQiXRoKJ1ScgY6qvX9vRWyK4UzMJrkT8DkKWD7A6O_QzWi2-AvbBGNEh3sUIMXAHpr1kgoYc8vWkduZ5hA.webp"
+      },
+      {
+        "title": "짱구는 못말려 극장판: 태풍을 부르는 영광의 불고기 로드",
+        "start_date": "2002-04-20",
+        "end_date": "2002-04-20",
+        "poster_url": "https://i.namu.wiki/i/NUJwR5Zq2IRYtGjlsS3ahQNNJPhNKJ7RGi-UBMQROg2wnbB34LdY-Ly4cE39VLN3iV87nJ_O8RRcPHwGmRXcWA.webp"
+      }
+    ]
+  }
+  

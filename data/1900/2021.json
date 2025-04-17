@@ -1,0 +1,151 @@
+{
+    "year": 2021,
+    "korean_age": 20,
+    "international_age": 19,
+    "zodiac": "소띠",
+    "generation": "Z세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "디지털 원주민으로 스마트폰, SNS를 적극적으로 활용",
+      "팬데믹 이후 비대면 활동과 온라인 쇼핑의 계속된 확산",
+      "환경 보호와 지속 가능성에 대한 관심 증가",
+      "온라인 콘텐츠와 스트리밍 서비스의 소비 급증",
+      "자기 계발과 개인적 성장을 중시하는 경향"
+    ],
+    "world_events": [
+      { "event": "COVID-19 백신 접종 시작", "date": "2021-01-01" },
+      { "event": "미국, 조 바이든 대통령 취임", "date": "2021-01-20" },
+      { "event": "2020 도쿄 올림픽, 2021년 개최", "date": "2021-07-23" },
+      { "event": "탈레반, 아프가니스탄 수도 카불 점령", "date": "2021-08-15" },
+      { "event": "미국, 글로벌 공급망 위기 발생", "date": "2021-10-01" }
+    ],
+    "korea_events": [
+      { "event": "코로나19 백신 접종 시작", "date": "2021-02-26" },
+      { "event": "2021 대한민국 대통령 선거 공식 캠페인 시작", "date": "2021-11-01" },
+      { "event": "한국, 탄소중립 선언", "date": "2021-10-28" },
+      { "event": "제4차 재난지원금 지급", "date": "2021-04-01" },
+      { "event": "수도권 거리두기 4단계 시행", "date": "2021-07-12" }
+    ],
+    "popular_music": [
+      { "title": "Butter", "artist": "BTS", "release_date": "2021-05-21", "poster_url": "" },
+      { "title": "Save Your Tears", "artist": "The Weeknd", "release_date": "2021-01-07", "poster_url": "" },
+      { "title": "Levitating", "artist": "Dua Lipa", "release_date": "2021-03-27", "poster_url": "" },
+      { "title": "Kiss Me More", "artist": "Doja Cat ft. SZA", "release_date": "2021-04-09", "poster_url": "" },
+      { "title": "Stay", "artist": "The Kid LAROI & Justin Bieber", "release_date": "2021-07-09", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "미나리",
+        "en_title": "Minari",
+        "country": "US",
+        "release_date": "2021-02-12",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "스파이더맨: 노 웨이 홈",
+        "en_title": "Spider-Man: No Way Home",
+        "country": "US",
+        "release_date": "2021-12-17",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "돈 룩 업",
+        "en_title": "Don't Look Up",
+        "country": "US",
+        "release_date": "2021-12-24",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "듄",
+        "en_title": "Dune",
+        "country": "US",
+        "release_date": "2021-10-22",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "이터널스",
+        "en_title": "Eternals",
+        "country": "US",
+        "release_date": "2021-11-05",
+        "poster_url": ""
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "지금, 우리 학교는",
+        "broadcast_network": "Netflix",
+        "start_date": "2021-01-28",
+        "end_date": "2021-01-28",
+        "poster_url": ""
+      },
+      {
+        "title": "오징어 게임",
+        "broadcast_network": "Netflix",
+        "start_date": "2021-09-17",
+        "end_date": "2021-09-17",
+        "poster_url": ""
+      },
+      {
+        "title": "불가살",
+        "broadcast_network": "tvN",
+        "start_date": "2021-02-20",
+        "end_date": "2021-04-25",
+        "poster_url": ""
+      },
+      {
+        "title": "슬기로운 의사생활 시즌2",
+        "broadcast_network": "tvN",
+        "start_date": "2021-06-17",
+        "end_date": "2021-09-16",
+        "poster_url": ""
+      }
+    ],
+    "fashion_trends": [
+      "스포츠 웨어와 캐주얼 의상의 지속적인 인기",
+      "슬림하고 간결한 실루엣의 스타일",
+      "지속 가능한 패션에 대한 관심 증가",
+      "디지털 패션과 가상 패션의 등장",
+      "미니멀리즘과 심플한 디자인 선호"
+    ],
+    "kids_toys": [
+      "스마트폰과 연동되는 교육용 장난감",
+      "다양한 기능을 갖춘 로봇 장난감",
+      "온라인 연동이 가능한 보드 게임",
+      "미니 마이크와 음악 장난감",
+      "자기 조정이 가능한 장난감 자동차"
+    ],
+    "technology": [
+      "5G 네트워크의 상용화",
+      "메타버스와 가상 현실(VR), 증강 현실(AR) 기술의 확장",
+      "AI와 머신러닝을 활용한 혁신적인 서비스",
+      "스마트홈 디바이스와 IoT 기술의 보편화",
+      "전자상거래와 온라인 쇼핑의 급증"
+    ],
+    "animation": [
+      {
+        "title": "소울",
+        "start_date": "2020-12-25",
+        "end_date": null,
+        "poster_url": ""
+      },
+      {
+        "title": "디즈니+ 스트리밍 서비스, 많은 애니메이션 콘텐츠 포함",
+        "start_date": "2020-11-12",
+        "end_date": null,
+        "poster_url": ""
+      },
+      {
+        "title": "루카",
+        "start_date": "2021-06-18",
+        "end_date": null,
+        "poster_url": ""
+      },
+      {
+        "title": "모아이",
+        "start_date": "2021-07-01",
+        "end_date": null,
+        "poster_url": ""
+      }
+    ]
+  }
+  

@@ -1,0 +1,123 @@
+{
+    "year": 2013,
+    "korean_age": 12,
+    "international_age": 11,
+    "zodiac": "뱀띠",
+    "generation": "Z세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "스마트폰 보급률 증가와 모바일 앱 사용 확대",
+      "SNS와 모바일 메신저를 통한 소통 증가",
+      "한류 콘텐츠의 세계적 인기 상승",
+      "청년 실업률 상승과 취업 경쟁 심화",
+      "대학생 등록금 문제로 인한 사회적 논의 확대"
+    ],
+    "world_events": [
+      { "event": "바티칸 교황 베네딕토 16세 퇴위 및 프란치스코 교황 선출", "date": "2013-02-28" },
+      { "event": "보스턴 마라톤 폭탄 테러 발생", "date": "2013-04-15" },
+      { "event": "에드워드 스노든, NSA 기밀 정보 유출", "date": "2013-06" },
+      { "event": "필리핀 태풍 하이옌 피해 발생", "date": "2013-11" },
+      { "event": "넬슨 만델라 사망", "date": "2013-12-05" }
+    ],
+    "korea_events": [
+      { "event": "박근혜 대통령 취임", "date": "2013-02-25" },
+      { "event": "남대문 복원 및 재개방", "date": "2013-05-05" },
+      { "event": "사이버 공격으로 인한 방송사 및 금융기관 마비", "date": "2013-03-20" },
+      { "event": "서울시, 무상급식 전면 확대", "date": "2013-03-01" }
+    ],
+    "popular_music": [
+      { "title": "Growl", "artist": "EXO", "release_date": "2013-08-05", "poster_url": "" },
+      { "title": "I Got a Boy", "artist": "소녀시대", "release_date": "2013-01-01", "poster_url": "" },
+      { "title": "What's Your Name?", "artist": "4Minute", "release_date": "2013-04-26", "poster_url": "" },
+      { "title": "Gentleman", "artist": "PSY", "release_date": "2013-04-12", "poster_url": "" },
+      { "title": "Bar Bar Bar", "artist": "Crayon Pop", "release_date": "2013-06-20", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "7번방의 선물",
+        "en_title": "Miracle in Cell No. 7",
+        "country": "KR",
+        "release_date": "2013-01-23",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "설국열차",
+        "en_title": "Snowpiercer",
+        "country": "KR",
+        "release_date": "2013-08-01",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "신세계",
+        "en_title": "New World",
+        "country": "KR",
+        "release_date": "2013-02-21",
+        "poster_url": ""
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "상속자들",
+        "broadcast_network": "SBS",
+        "start_date": "2013-10-09",
+        "end_date": "2013-12-12",
+        "poster_url": ""
+      },
+      {
+        "title": "너의 목소리가 들려",
+        "broadcast_network": "SBS",
+        "start_date": "2013-06-05",
+        "end_date": "2013-08-01",
+        "poster_url": ""
+      },
+      {
+        "title": "비밀",
+        "broadcast_network": "KBS2",
+        "start_date": "2013-09-25",
+        "end_date": "2013-11-14",
+        "poster_url": ""
+      }
+    ],
+    "fashion_trends": [
+      "컬러풀한 스키니진과 레깅스 유행",
+      "오버사이즈 티셔츠와 루즈핏 스타일",
+      "플랫폼 슈즈와 웨지힐 인기",
+      "빈티지 스타일 액세서리 활용",
+      "헤어밴드와 헤어핀 등의 헤어 액세서리 유행"
+    ],
+    "kids_toys": [
+      "터닝메카드",
+      "로보카 폴리",
+      "닌텐도 3DS",
+      "레고 닌자고 시리즈",
+      "뽀로로 캐릭터 상품"
+    ],
+    "technology": [
+      "스마트폰 보급률 급증과 모바일 앱 사용 확대",
+      "태블릿 PC 시장 확대",
+      "클라우드 컴퓨팅 서비스 도입 증가",
+      "소셜 미디어 플랫폼 다양화",
+      "모바일 게임 시장 성장"
+    ],
+    "animation": [
+      {
+        "title": "라바 시즌2",
+        "start_date": "2013-08-01",
+        "end_date": null,
+        "poster_url": ""
+      },
+      {
+        "title": "파워배틀 와치카",
+        "start_date": "2013-09-02",
+        "end_date": null,
+        "poster_url": ""
+      },
+      {
+        "title": "터닝메카드",
+        "start_date": "2013-05-03",
+        "end_date": null,
+        "poster_url": ""
+      }
+    ]
+  }
+  

@@ -1,0 +1,131 @@
+{
+    "year": 2017,
+    "korean_age": 16,
+    "international_age": 15,
+    "zodiac": "닭띠",
+    "generation": "Z세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "인공지능(AI)와 빅데이터 활용한 서비스 확장",
+      "SNS와 모바일 메신저의 활발한 사용",
+      "이모티콘과 GIF의 표현 방식 확산",
+      "스마트폰 중독과 모바일 게임 인기 증가",
+      "1인 미디어와 크리에이터 문화 강화"
+    ],
+    "world_events": [
+      { "event": "미국, 파리 기후협정 탈퇴 선언", "date": "2017-06-01" },
+      { "event": "트럼프 대통령, 북한과의 긴장 고조", "date": "2017-08-08" },
+      { "event": "그레타 툰베리, 기후변화 운동의 상징으로 떠오름", "date": "2017-12-01" },
+      { "event": "미국, ISIS 군사적으로 완전 격퇴 선언", "date": "2017-12-09" },
+      { "event": "유럽연합, 브렉시트 협상 진전", "date": "2017-12-13" }
+    ],
+    "korea_events": [
+      { "event": "대선, 문재인 당선", "date": "2017-05-09" },
+      { "event": "미세먼지 대기질 악화", "date": "2017-03-28" },
+      { "event": "북한, ICBM 시험 발사", "date": "2017-07-04" },
+      { "event": "국정 농단 사건 최종 판결", "date": "2017-02-28" },
+      { "event": "서울시, 평화의 소녀상 설치", "date": "2017-12-14" }
+    ],
+    "popular_music": [
+      { "title": "DNA", "artist": "BTS", "release_date": "2017-09-18", "poster_url": "" },
+      { "title": "Shape of You", "artist": "Ed Sheeran", "release_date": "2017-01-06", "poster_url": "" },
+      { "title": "That's What I Like", "artist": "Bruno Mars", "release_date": "2017-01-30", "poster_url": "" },
+      { "title": "Despacito", "artist": "Luis Fonsi, Daddy Yankee", "release_date": "2017-01-12", "poster_url": "" },
+      { "title": "Faded", "artist": "Alan Walker", "release_date": "2017-04-07", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "범죄도시",
+        "en_title": "The Outlaws",
+        "country": "KR",
+        "release_date": "2017-10-03",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "택시운전사",
+        "en_title": "A Taxi Driver",
+        "country": "KR",
+        "release_date": "2017-08-02",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "조작된 도시",
+        "en_title": "Fabricated City",
+        "country": "KR",
+        "release_date": "2017-02-09",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "어벤져스: 인피니티 워",
+        "en_title": "Avengers: Infinity War",
+        "country": "US",
+        "release_date": "2017-04-28",
+        "poster_url": ""
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "도깨비",
+        "broadcast_network": "tvN",
+        "start_date": "2016-12-02",
+        "end_date": "2017-01-21",
+        "poster_url": ""
+      },
+      {
+        "title": "시그널",
+        "broadcast_network": "tvN",
+        "start_date": "2016-01-22",
+        "end_date": "2016-03-12",
+        "poster_url": ""
+      },
+      {
+        "title": "히트맨",
+        "broadcast_network": "SBS",
+        "start_date": "2017-01-01",
+        "end_date": "2017-01-21",
+        "poster_url": ""
+      }
+    ],
+    "fashion_trends": [
+      "와이드 팬츠와 후디 스타일",
+      "슬로우 패션의 부상",
+      "넥라인이 강조된 옷",
+      "미니멀한 디자인의 인기",
+      "유니섹스 패션"
+    ],
+    "kids_toys": [
+      "레고 시리즈",
+      "헬로 카봇",
+      "디즈니 프린세스 인형",
+      "나이키 운동화",
+      "닌텐도 스위치"
+    ],
+    "technology": [
+      "AI 음성 인식 서비스의 보편화",
+      "스마트폰의 기술 혁신 (AR, VR 등)",
+      "자동차 자율주행 시스템의 발전",
+      "블록체인 기술의 상용화",
+      "스마트홈 기기와 IoT 서비스 확대"
+    ],
+    "animation": [
+      {
+        "title": "카봇 시즌5",
+        "start_date": "2017-03-01",
+        "end_date": null,
+        "poster_url": ""
+      },
+      {
+        "title": "미니언즈 시즌2",
+        "start_date": "2017-08-01",
+        "end_date": null,
+        "poster_url": ""
+      },
+      {
+        "title": "쿵푸 팬더 3",
+        "start_date": "2017-01-01",
+        "end_date": null,
+        "poster_url": ""
+      }
+    ]
+  }
+  

@@ -1,0 +1,126 @@
+{
+    "year": 2006,
+    "korean_age": 19,
+    "international_age": 18,
+    "zodiac": "개띠",
+    "generation": "Z세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "MP3 플레이어 대중화",
+      "싸이월드 미니홈피 전성기",
+      "문자 대신 메신저 사용 증가",
+      "대학로, 강남역 거리 문화 발달",
+      "TV 드라마 중심의 가족 시간",
+      "학원가의 팽창, 사교육 열풍",
+      "카페 문화의 시작"
+    ],
+    "world_events": [
+      { "event": "트위터(Twitter) 서비스 시작", "date": "2006-03-21" },
+      { "event": "닌텐도 Wii 출시", "date": "2006-11-19" },
+      { "event": "플루토, 행성에서 제외됨", "date": "2006-08-24" },
+      { "event": "이탈리아, 월드컵 우승 (독일 월드컵)", "date": "2006-07-09" },
+      { "event": "구글, 유튜브 인수", "date": "2006-11-13" }
+    ],
+    "korea_events": [
+      { "event": "신정 공휴일 폐지", "date": "2006-01-01" },
+      { "event": "청계천 복원 사업 완료", "date": "2006" },
+      { "event": "바다이야기 사태", "date": "2006-08" },
+      { "event": "지하철 9호선 착공", "date": "2006" }
+    ],
+    "popular_music": [
+      { "title": "비밀번호 486", "artist": "윤하", "release_date": "2006-03", "poster_url": "" },
+      { "title": "내 사람", "artist": "SG 워너비", "release_date": "2006-04", "poster_url": "" },
+      { "title": "U", "artist": "슈퍼주니어", "release_date": "2006-06", "poster_url": "" },
+      { "title": "눈의 꽃", "artist": "박효신", "release_date": "2006", "poster_url": "" },
+      { "title": "사랑했나봐", "artist": "윤도현", "release_date": "2006", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "괴물",
+        "en_title": "The Host",
+        "country": "KR",
+        "release_date": "2006-07-27",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/1/11/%EA%B4%B4%EB%AC%BC.jpg"
+      },
+      {
+        "kr_title": "다빈치 코드",
+        "en_title": "The Da Vinci Code",
+        "country": "US",
+        "release_date": "2006-05-19",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg"
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "궁",
+        "broadcast_network": "MBC",
+        "start_date": "2006-01-11",
+        "end_date": "2006-03-30",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/4/44/%EA%B6%81_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg"
+      },
+      {
+        "title": "환상의 커플",
+        "broadcast_network": "MBC",
+        "start_date": "2006-10-14",
+        "end_date": "2006-12-03",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/66/%ED%99%98%EC%83%81%EC%9D%98%EC%BB%A4%ED%94%8C.jpg"
+      }
+    ],
+    "fashion_trends": [
+      "스키니진 유행 시작",
+      "박시한 티셔츠와 후드티",
+      "야구 모자와 캡모자",
+      "컬러풀한 운동화",
+      "레깅스와 미니스커트 조합"
+    ],
+    "kids_toys": [
+      "다마고치 부활",
+      "포켓몬스터 피규어",
+      "레고 스타워즈 시리즈",
+      "닌텐도 DS",
+      "헬로키티 인형"
+    ],
+    "technology": [
+      "트위터 등장",
+      "유튜브 급성장",
+      "MP3 플레이어 보급 확대",
+      "블로그, 미니홈피 문화",
+      "광랜 보급과 인터넷 속도 향상",
+      "디지털카메라 대중화",
+      "스마트폰 이전 피처폰 기능 향상",
+      "포털 검색 시장 경쟁 격화"
+    ],
+    "animation": [
+      {
+        "title": "코드 기아스: 반역의 를르슈",
+        "start_date": "2006-10-05",
+        "end_date": "2007-07-28",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Code_Geass_DVD_volume_1.jpg"
+      },
+      {
+        "title": "데스노트",
+        "start_date": "2006-10-03",
+        "end_date": "2007-06-26",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Death_Note_Vol_1.jpg"
+      },
+      {
+        "title": "스즈미야 하루히의 우울",
+        "start_date": "2006-04-02",
+        "end_date": "2006-07-02",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e7/Suzumiya_Haruhi_light_novel_volume_1_cover.jpg"
+      },
+      {
+        "title": "블리치",
+        "start_date": "2004-10-05",
+        "end_date": "2012-03-27",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Bleachanime.png"
+      },
+      {
+        "title": "케로로 중사",
+        "start_date": "2004-04-03",
+        "end_date": "2011-04-03",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/bb/SGT_Keroro_DVD.jpg"
+      }
+    ]
+  }
+  

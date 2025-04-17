@@ -1,0 +1,113 @@
+{
+    "year": 2010,
+    "korean_age": 15,
+    "international_age": 14,
+    "zodiac": "호랑이띠",
+    "generation": "Z세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "스마트폰 대중화 시작 (갤럭시S 출시)",
+      "카카오톡 출시로 모바일 메신저 전환기",
+      "싸이월드에서 페이스북으로 세대 이동",
+      "무한도전, 1박2일 등의 예능 전성기",
+      "피시방과 학원 문화 공존",
+      "문자 대신 모바일 채팅 사용 증가"
+    ],
+    "world_events": [
+      { "event": "아이패드 1세대 발표", "date": "2010-01-27" },
+      { "event": "아이폰 4 발표", "date": "2010-06-07" },
+      { "event": "하이티 대지진 발생", "date": "2010-01-12" },
+      { "event": "구글 자율주행 자동차 시범 운행 시작", "date": "2010" },
+      { "event": "위키리크스 대규모 문서 유출", "date": "2010-11" }
+    ],
+    "korea_events": [
+      { "event": "천안함 피격 사건", "date": "2010-03-26" },
+      { "event": "연평도 포격 사건", "date": "2010-11-23" },
+      { "event": "스마트폰 가입자 500만명 돌파", "date": "2010" },
+      { "event": "카카오톡 출시", "date": "2010-03-18" }
+    ],
+    "popular_music": [
+      { "title": "Bad Girl Good Girl", "artist": "miss A", "release_date": "2010-07", "poster_url": "" },
+      { "title": "Oh!", "artist": "소녀시대", "release_date": "2010-01", "poster_url": "" },
+      { "title": "Can't Nobody", "artist": "2NE1", "release_date": "2010-09", "poster_url": "" },
+      { "title": "사랑 사랑 사랑", "artist": "FTIsland", "release_date": "2010-05", "poster_url": "" },
+      { "title": "죽어도 못 보내", "artist": "2AM", "release_date": "2010-01", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "인셉션",
+        "en_title": "Inception",
+        "country": "US",
+        "release_date": "2010-07-21",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/2/25/Inception_ver3.jpg"
+      },
+      {
+        "kr_title": "아저씨",
+        "en_title": "The Man from Nowhere",
+        "country": "KR",
+        "release_date": "2010-08-04",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/8/8a/%EC%95%84%EC%A0%80%EC%94%A8.jpg"
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "제빵왕 김탁구",
+        "broadcast_network": "KBS2",
+        "start_date": "2010-06-09",
+        "end_date": "2010-09-16",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/5/55/%EC%A0%9C%EB%B9%B5%EC%99%95%EA%B9%80%ED%83%81%EA%B5%AC.jpg"
+      },
+      {
+        "title": "시크릿 가든",
+        "broadcast_network": "SBS",
+        "start_date": "2010-11-13",
+        "end_date": "2011-01-16",
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/f/f4/%EC%8B%9C%ED%81%AC%EB%A6%BF_%EA%B0%80%EB%93%A0.jpg"
+      }
+    ],
+    "fashion_trends": [
+      "스키니진과 레깅스 유행",
+      "루즈핏 티셔츠와 오버사이즈 재킷",
+      "스냅백과 비니",
+      "유니클로 히트텍 열풍",
+      "컬러풀한 운동화 스타일"
+    ],
+    "kids_toys": [
+      "터닝메카드 초판 등장",
+      "로보카폴리 캐릭터 완구",
+      "닌텐도 DS와 Wii 게임기",
+      "포켓몬스터 카드 게임",
+      "빅뱅, 소녀시대 캐릭터 상품"
+    ],
+    "technology": [
+      "스마트폰의 대중화 (갤럭시S, 아이폰)",
+      "태블릿PC 등장 (아이패드)",
+      "3D 영화와 3D TV 관심 증가",
+      "모바일 앱 생태계 본격화",
+      "페이스북 한국 사용자 급증",
+      "트위터 한국 사용자 증가",
+      "초고속 인터넷 100Mbps 보급 확산",
+      "스마트워크 개념 확산"
+    ],
+    "animation": [
+      {
+        "title": "라푼젤",
+        "start_date": "2010-11-24",
+        "end_date": null,
+        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/thumb/5/5b/%EB%9D%BC%ED%91%91%EC%A0%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg/250px-%EB%9D%BC%ED%91%91%EC%A0%A4_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg"
+      },
+      {
+        "title": "하트캐치 프리큐어!",
+        "start_date": "2010-02-07",
+        "end_date": "2011-01-30",
+        "poster_url": ""
+      },
+      {
+        "title": "짱구는 못말려 극장판: 초시공! 태풍을 부르는 나의 신부",
+        "start_date": "2010-04-17",
+        "end_date": null,
+        "poster_url": ""
+      }
+    ]
+  }
+  

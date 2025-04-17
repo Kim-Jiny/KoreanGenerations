@@ -1,0 +1,145 @@
+{
+    "year": 2019,
+    "korean_age": 18,
+    "international_age": 17,
+    "zodiac": "돼지띠",
+    "generation": "Z세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "디지털 네이티브로 소셜미디어와 모바일 기술에 능숙함",
+      "온라인 쇼핑 및 모바일 결제 시스템의 보편화",
+      "환경 문제와 지속 가능성에 대한 높은 관심",
+      "인공지능(AI)과 자동화의 증가",
+      "젠더와 다양성에 대한 더 큰 인식과 대화"
+    ],
+    "world_events": [
+      { "event": "미국, 트럼프 탄핵 절차 개시", "date": "2019-12-18" },
+      { "event": "프랑스, 유럽 최대의 기후 변화 시위", "date": "2019-11-29" },
+      { "event": "인도, 달리 고속철도 개통", "date": "2019-12-01" },
+      { "event": "아마존 밀림 화재 국제 사회의 우려", "date": "2019-08-10" },
+      { "event": "홍콩 시위, 민주화 운동의 중요한 전환점", "date": "2019-06-09" }
+    ],
+    "korea_events": [
+      { "event": "문재인 대통령, '2020 국정운영' 연설", "date": "2019-01-10" },
+      { "event": "평양 공동선언 1주년 기념식", "date": "2019-09-19" },
+      { "event": "한국, 일본과 무역 갈등 시작", "date": "2019-07-01" },
+      { "event": "서울시, 전자담배 규제 강화", "date": "2019-10-01" },
+      { "event": "정경심 교수, 조국 장관의 논란에 대한 책임", "date": "2019-08-27" }
+    ],
+    "popular_music": [
+      { "title": "Boy With Luv", "artist": "BTS", "release_date": "2019-04-12", "poster_url": "" },
+      { "title": "Bad Guy", "artist": "Billie Eilish", "release_date": "2019-03-29", "poster_url": "" },
+      { "title": "Old Town Road", "artist": "Lil Nas X", "release_date": "2019-03-25", "poster_url": "" },
+      { "title": "Señorita", "artist": "Shawn Mendes, Camila Cabello", "release_date": "2019-06-21", "poster_url": "" },
+      { "title": "Sunflower", "artist": "Post Malone, Swae Lee", "release_date": "2019-10-18", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "극한직업",
+        "en_title": "Extreme Job",
+        "country": "KR",
+        "release_date": "2019-01-23",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "기생충",
+        "en_title": "Parasite",
+        "country": "KR",
+        "release_date": "2019-05-30",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "알라딘",
+        "en_title": "Aladdin",
+        "country": "US",
+        "release_date": "2019-05-24",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "어벤져스: 엔드게임",
+        "en_title": "Avengers: Endgame",
+        "country": "US",
+        "release_date": "2019-04-26",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "라이온 킹",
+        "en_title": "The Lion King",
+        "country": "US",
+        "release_date": "2019-07-19",
+        "poster_url": ""
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "호텔 델루나",
+        "broadcast_network": "tvN",
+        "start_date": "2019-07-13",
+        "end_date": "2019-09-01",
+        "poster_url": ""
+      },
+      {
+        "title": "동백꽃 필 무렵",
+        "broadcast_network": "KBS2",
+        "start_date": "2019-09-18",
+        "end_date": "2019-11-21",
+        "poster_url": ""
+      },
+      {
+        "title": "지금, 만나러 갑니다",
+        "broadcast_network": "tvN",
+        "start_date": "2019-03-24",
+        "end_date": "2019-05-19",
+        "poster_url": ""
+      },
+      {
+        "title": "청일전쟁",
+        "broadcast_network": "MBC",
+        "start_date": "2019-08-15",
+        "end_date": "2019-10-15",
+        "poster_url": ""
+      }
+    ],
+    "fashion_trends": [
+      "네온 색상과 레트로 스타일의 조화",
+      "스트릿 패션과 스포츠 룩의 결합",
+      "플랫폼 슈즈와 운동화의 유행",
+      "헤어와 메이크업에 대한 실험적인 변화",
+      "미니백과 캔버스 백의 인기"
+    ],
+    "kids_toys": [
+      "로보틱 장난감과 인공지능 기반 장난감",
+      "DIY 만들기 키트",
+      "레고 시리즈",
+      "닌텐도 스위치와 게임",
+      "인형과 액션 피규어"
+    ],
+    "technology": [
+      "AI 및 로봇의 상용화 확산",
+      "5G 네트워크 상용화 시작",
+      "무선 이어폰과 스마트워치의 대중화",
+      "클라우드 서비스의 발전",
+      "디지털 화폐와 블록체인 기술 활용 확대"
+    ],
+    "animation": [
+      {
+        "title": "겨울왕국 2",
+        "start_date": "2019-11-22",
+        "end_date": null,
+        "poster_url": ""
+      },
+      {
+        "title": "토이 스토리 4",
+        "start_date": "2019-06-21",
+        "end_date": null,
+        "poster_url": ""
+      },
+      {
+        "title": "도라와 잃어버린 황금 도시",
+        "start_date": "2019-08-15",
+        "end_date": null,
+        "poster_url": ""
+      }
+    ]
+  }
+  

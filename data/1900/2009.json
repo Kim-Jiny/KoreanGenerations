@@ -1,0 +1,127 @@
+{
+    "year": 2009,
+    "korean_age": 16,
+    "international_age": 15,
+    "zodiac": "소띠",
+    "generation": "Z세대",
+    "generation_group": "MZ세대",
+    "korean_characteristics": [
+      "스마트폰 보급 초기 단계",
+      "SNS 사용 증가 (싸이월드, 트위터 등)",
+      "온라인 게임과 PC방 문화 지속",
+      "학원가의 확장과 사교육 열풍",
+      "카페 문화의 확산",
+      "문자메시지와 메신저 사용 증가",
+      "대학생들의 노트북 사용 증가"
+    ],
+    "world_events": [
+      { "event": "오바마, 미국 대통령 취임", "date": "2009-01-20" },
+      { "event": "스와인 플루(H1N1) 세계적 유행 선언", "date": "2009-06-11" },
+      { "event": "노벨 평화상, 버락 오바마 수상", "date": "2009-10-09" },
+      { "event": "아이폰 3GS 출시", "date": "2009-06-19" },
+      { "event": "마이클 잭슨 사망", "date": "2009-06-25" }
+    ],
+    "korea_events": [
+      { "event": "용산 참사 발생", "date": "2009-01-20" },
+      { "event": "김연아, 세계 피겨 선수권 우승", "date": "2009-03-29" },
+      { "event": "노무현 전 대통령 서거", "date": "2009-05-23" },
+      { "event": "김대중 전 대통령 서거", "date": "2009-08-18" },
+      { "event": "50,000원권 지폐 발행", "date": "2009-06-23" },
+      { "event": "광화문 광장 개장", "date": "2009-08-01" }
+    ],
+    "popular_music": [
+      { "title": "Gee", "artist": "소녀시대", "release_date": "2009-01", "poster_url": "" },
+      { "title": "Abracadabra", "artist": "브라운 아이드 걸스", "release_date": "2009-07", "poster_url": "" },
+      { "title": "I Don't Care", "artist": "2NE1", "release_date": "2009-07", "poster_url": "" },
+      { "title": "Lollipop", "artist": "빅뱅 & 2NE1", "release_date": "2009-03", "poster_url": "" },
+      { "title": "Fire", "artist": "2NE1", "release_date": "2009-05", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "해운대",
+        "en_title": "Haeundae",
+        "country": "KR",
+        "release_date": "2009-07-22",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "국가대표",
+        "en_title": "Take Off",
+        "country": "KR",
+        "release_date": "2009-07-29",
+        "poster_url": ""
+      },
+      {
+        "kr_title": "마더",
+        "en_title": "Mother",
+        "country": "KR",
+        "release_date": "2009-05-28",
+        "poster_url": ""
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "꽃보다 남자",
+        "broadcast_network": "KBS2",
+        "start_date": "2009-01-05",
+        "end_date": "2009-03-31",
+        "poster_url": ""
+      },
+      {
+        "title": "찬란한 유산",
+        "broadcast_network": "SBS",
+        "start_date": "2009-04-25",
+        "end_date": "2009-07-26",
+        "poster_url": ""
+      },
+      {
+        "title": "선덕여왕",
+        "broadcast_network": "MBC",
+        "start_date": "2009-05-25",
+        "end_date": "2009-12-22",
+        "poster_url": ""
+      }
+    ],
+    "fashion_trends": [
+      "스키니진과 롱티셔츠 조합",
+      "레깅스와 미니스커트",
+      "큰 프레임의 선글라스",
+      "플랫 슈즈와 발레리나 슈즈",
+      "컬러풀한 액세서리"
+    ],
+    "kids_toys": [
+      "또봇",
+      "마이멜로디 인형",
+      "헬로키티 피규어",
+      "레고 시티 시리즈",
+      "포켓몬스터 카드 게임"
+    ],
+    "technology": [
+      "아이폰 3GS 출시로 스마트폰 시대 본격화",
+      "SNS의 확산 (페이스북, 트위터 등)",
+      "광랜 보급과 인터넷 속도 향상",
+      "디지털카메라의 대중화",
+      "모바일 앱 시장의 성장"
+    ],
+    "animation": [
+      {
+        "title": "엘리먼트 헌터",
+        "start_date": "2009-07-04",
+        "end_date": "2010-03-27",
+        "poster_url": ""
+      },
+      {
+        "title": "그린세이버",
+        "start_date": "2009-04-06",
+        "end_date": "2009-09-28",
+        "poster_url": ""
+      },
+      {
+        "title": "코코몽 시즌 2",
+        "start_date": "2009-05-04",
+        "end_date": "2009-10-26",
+        "poster_url": ""
+      }
+    ]
+  }
+  
