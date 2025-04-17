@@ -76,7 +76,7 @@ struct GenerationView: View {
                 
                 VStack {
                     // 연나이와 만나이 표시
-                    Text("만 나이: \(viewModel.calculateInternationalAge(from: selectedYear))세 / 연 나이: \(viewModel.calculateKoreanAge(from: selectedYear))세")
+                    Text("만 나이: \(viewModel.calculateInternationalAge(from: selectedYear))세 / 연 나이: \(viewModel.calculateKoreanAge(from: selectedYear))세 / \(viewModel.generation?.zodiac ?? "")")
                             .font(.headline)
                             .foregroundColor(.white)
                     if let generation = viewModel.generation {

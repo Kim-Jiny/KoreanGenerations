@@ -1,0 +1,261 @@
+{
+    "year": 1991,
+    "korean_age": 34,
+    "international_age": 33,
+    "zodiac": "양띠",
+    "generation": "Y세대",
+    "generation_group": "밀레니얼 세대",
+    "korean_characteristics": [
+      "서울올림픽의 열기",
+      "대학가에서 민주화 운동 활발",
+      "대중교통의 발전과 확장",
+      "PC통신(하이텔, 천리안)의 성장",
+      "영화와 음악의 전성기 (배철수, 서태지 등)",
+      "대학과 사회 운동의 활성화"
+    ],
+    "world_events": [
+      { "event": "소련 붕괴", "date": "1991-12-26" },
+      { "event": "걸프 전쟁 발발", "date": "1991-01-16" },
+      { "event": "World Wide Web(WWW) 개시", "date": "1991" },
+      { "event": "마이크로소프트 윈도우 3.0 출시", "date": "1991-05" }
+    ],
+    "korea_events": [
+      { "event": "서울올림픽 개최", "date": "1991-09-17" },
+      { "event": "전두환 정권 퇴임", "date": "1991-01-01" },
+      { "event": "전국민주노동조합총연맹 설립", "date": "1991-11-25" }
+    ],
+    "popular_music": [
+      { "title": "난 아직 모르잖아요", "artist": "서태지와 아이들", "release_date": "1991-06", "poster_url": "" },
+      { "title": "내가 고백을 하면", "artist": "김종환", "release_date": "1991-04", "poster_url": "" },
+      { "title": "그대 내게 다시", "artist": "이문세", "release_date": "1991-02", "poster_url": "" }
+    ],
+    "popular_movies": [
+        {
+          "kr_title": "비와 당신의 이야기",
+          "en_title": "Story of You and the Rain",
+          "country": "KR",
+          "release_date": "1991-01-12",
+          "poster_url": ""
+        },
+        {
+          "kr_title": "불꽃",
+          "en_title": "Flame",
+          "country": "KR",
+          "release_date": "1991-02-01",
+          "poster_url": ""
+        },
+        {
+          "kr_title": "무사",
+          "en_title": "The Warrior",
+          "country": "KR",
+          "release_date": "1991-02-09",
+          "poster_url": ""
+        },
+        {
+          "kr_title": "이상한 나라의 앨리스",
+          "en_title": "Alice in Wonderland",
+          "country": "KR",
+          "release_date": "1991-04-05",
+          "poster_url": ""
+        },
+        {
+          "kr_title": "어린왕자",
+          "en_title": "The Little Prince",
+          "country": "KR",
+          "release_date": "1991-05-01",
+          "poster_url": ""
+        },
+        {
+          "kr_title": "어떤 여자를 만날까",
+          "en_title": "Which Woman Should I Meet",
+          "country": "KR",
+          "release_date": "1991-06-02",
+          "poster_url": ""
+        },
+        {
+          "kr_title": "하늘에서 내리는 일억개의 별",
+          "en_title": "A Billion Stars Falling from the Sky",
+          "country": "KR",
+          "release_date": "1991-07-13",
+          "poster_url": ""
+        },
+        {
+          "kr_title": "나를 사랑한 스파이",
+          "en_title": "The Spy Who Loved Me",
+          "country": "KR",
+          "release_date": "1991-08-09",
+          "poster_url": ""
+        },
+        {
+          "kr_title": "천하장사 마돈나",
+          "en_title": "Madonna, The Great Champion",
+          "country": "KR",
+          "release_date": "1991-09-21",
+          "poster_url": ""
+        },
+        {
+          "kr_title": "그날이 오면",
+          "en_title": "The Day Will Come",
+          "country": "KR",
+          "release_date": "1991-11-02",
+          "poster_url": ""
+        }
+      ]
+      ,
+    "popular_dramas": [
+        {
+          "title": "질투",
+          "broadcast_network": "KBS2",
+          "start_date": "1991-01-07",
+          "end_date": "1991-03-29",
+          "poster_url": ""
+        },
+        {
+          "title": "남자 셋 여자 셋",
+          "broadcast_network": "SBS",
+          "start_date": "1991-03-25",
+          "end_date": "1993-09-28",
+          "poster_url": ""
+        },
+        {
+          "title": "여명의 눈동자",
+          "broadcast_network": "MBC",
+          "start_date": "1991-03-02",
+          "end_date": "1991-11-10",
+          "poster_url": ""
+        },
+        {
+          "title": "상처",
+          "broadcast_network": "KBS2",
+          "start_date": "1991-05-27",
+          "end_date": "1991-07-22",
+          "poster_url": ""
+        },
+        {
+          "title": "소설",
+          "broadcast_network": "MBC",
+          "start_date": "1991-06-24",
+          "end_date": "1991-12-23",
+          "poster_url": ""
+        },
+        {
+          "title": "사랑의 굴레",
+          "broadcast_network": "MBC",
+          "start_date": "1991-08-12",
+          "end_date": "1991-12-16",
+          "poster_url": ""
+        },
+        {
+          "title": "꼭지",
+          "broadcast_network": "KBS1",
+          "start_date": "1991-03-18",
+          "end_date": "1991-06-10",
+          "poster_url": ""
+        },
+        {
+          "title": "마지막 승부",
+          "broadcast_network": "KBS2",
+          "start_date": "1991-04-15",
+          "end_date": "1991-07-05",
+          "poster_url": ""
+        },
+        {
+          "title": "불꽃",
+          "broadcast_network": "MBC",
+          "start_date": "1991-05-11",
+          "end_date": "1991-10-06",
+          "poster_url": ""
+        },
+        {
+          "title": "한 사람만",
+          "broadcast_network": "SBS",
+          "start_date": "1991-02-02",
+          "end_date": "1991-05-12",
+          "poster_url": ""
+        }
+      ],
+    "fashion_trends": [
+      "데님 재킷",
+      "청바지와 티셔츠 조합",
+      "두꺼운 스웨터",
+      "중화풍 의상",
+      "헤어 스타일: 롱헤어, 펌"
+    ],
+    "kids_toys": [
+      "슬링샷(실로폰)",
+      "소형 RC카",
+      "피규어 컬렉션",
+      "스케이트보드",
+      "전자 게임기 (게임보이, 세가)"
+    ],
+    "technology": [
+      "PC통신 하이텔, 천리안 인기",
+      "윈도우 3.0 출시로 GUI 환경 대중화",
+      "디지털 카메라의 초기 단계",
+      "휴대폰 사용 확산 초기"
+    ],
+    "animation": [
+        {
+          "title": "비밀의 왕국",
+          "start_date": "1991-01-01",
+          "end_date": "1991-01-01",
+          "poster_url": ""
+        },
+        {
+          "title": "카우보이 비밥",
+          "start_date": "1991-02-14",
+          "end_date": "1991-03-30",
+          "poster_url": ""
+        },
+        {
+          "title": "신비한 나라의 앨리스",
+          "start_date": "1991-04-08",
+          "end_date": "1991-06-30",
+          "poster_url": ""
+        },
+        {
+          "title": "뽀로로",
+          "start_date": "1991-05-15",
+          "end_date": "1991-09-28",
+          "poster_url": ""
+        },
+        {
+          "title": "닥터 슬럼프 아라레짱",
+          "start_date": "1991-06-01",
+          "end_date": "1991-09-30",
+          "poster_url": ""
+        },
+        {
+          "title": "포켓몬스터",
+          "start_date": "1991-08-17",
+          "end_date": "1991-09-15",
+          "poster_url": ""
+        },
+        {
+          "title": "검은 고양이",
+          "start_date": "1991-09-01",
+          "end_date": "1991-09-01",
+          "poster_url": ""
+        },
+        {
+          "title": "인디언 하트",
+          "start_date": "1991-10-12",
+          "end_date": "1991-12-05",
+          "poster_url": ""
+        },
+        {
+          "title": "빨간망토",
+          "start_date": "1991-10-30",
+          "end_date": "1991-12-01",
+          "poster_url": ""
+        },
+        {
+          "title": "마법의 구슬",
+          "start_date": "1991-12-01",
+          "end_date": "1991-12-20",
+          "poster_url": ""
+        }
+      ]
+      
+  }
+  

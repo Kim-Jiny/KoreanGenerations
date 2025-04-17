@@ -1,0 +1,75 @@
+{
+    "year": 1997,
+    "korean_age": 28,
+    "international_age": 27,
+    "zodiac": "소띠",
+    "generation": "Z세대",
+    "generation_group": "Z세대",
+    "korean_characteristics": [
+      "IMF 위기 시작",
+      "디지털 혁명과 인터넷 사용 확산",
+      "한국 최초의 CDMA 휴대폰 출시",
+      "방송 채널 다양화 (케이블 TV 활성화)",
+      "무선인터넷과 벤처 붐 시작"
+    ],
+    "world_events": [
+      { "event": "일본 아시아경제위기 시작", "date": "1997-07-02" },
+      { "event": "영국의 홍콩 반환", "date": "1997-07-01" },
+      { "event": "세계 최초의 DVD 출시", "date": "1997-03-24" }
+    ],
+    "korea_events": [
+      { "event": "IMF 구제금융 요청", "date": "1997-12-03" },
+      { "event": "삼성전자, 세계 최초 CDMA폰 출시", "date": "1997-06" },
+      { "event": "국제통화기금(IMF) 가입", "date": "1997-12-03" }
+    ],
+    "popular_music": [
+      { "title": "To You", "artist": "김종환", "release_date": "1997-04", "poster_url": "" },
+      { "title": "사랑할수록", "artist": "양파", "release_date": "1997-12", "poster_url": "" },
+      { "title": "라라라", "artist": "김건모", "release_date": "1997-10", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "타이타닉",
+        "en_title": "Titanic",
+        "country": "US",
+        "release_date": "1997-12-19",
+        "poster_url": "https://i.namu.wiki/i/Y8gElrBrPz5o2hhIW_vWlg6kdyXYjAqzdy44zFB9E1l7wBULxw1r2Bq4OhZWGF1f0AzJiqi9BFFxZYdoISvdzD2bHkNbgdhXLQ0EOY3d2B_oPxvmKl8jw2WlgOW0__DgpaU5g8zIuq3z6XfCSfDNFErgHZo2N0A.webp"
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "별은 내 가슴에",
+        "broadcast_network": "KBS2",
+        "start_date": "1997-03-03",
+        "end_date": "1997-05-27",
+        "poster_url": "https://i.namu.wiki/i/DAZp_1BXz9ghLlgLP9Fzn9vN0IM2jBvOrRUy8ZlDeiP-P8unmBpo6RR5pP43OCpdOX4_PkP6AKs6WZVrjQ.jpg"
+      }
+    ],
+    "fashion_trends": [
+      "미니스커트와 망사 스타킹",
+      "커버업 코트",
+      "헤어 컬러와 스타일 변화 (빨강, 블루 등)",
+      "반팔 셔츠와 청바지"
+    ],
+    "kids_toys": [
+      "디즈니 캐릭터 인형",
+      "팽이와 요요",
+      "버즈 라이트이어 장난감",
+      "포켓몬 카드"
+    ],
+    "technology": [
+      "인터넷과 PC 사용 급증",
+      "CD-ROM과 CD-RW의 대중화",
+      "디지털 카메라 사용 증가",
+      "휴대폰 사용 증가 (특히 삼성전자, LG전자 등 국내 기업 선도)"
+    ],
+    "animation": [
+      {
+        "title": "에반게리온",
+        "start_date": "1997-03-15",
+        "end_date": "1997-08-15",
+        "poster_url": ""
+      }
+    ]
+  }
+  

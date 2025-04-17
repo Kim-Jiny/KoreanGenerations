@@ -1,0 +1,83 @@
+{
+    "year": 1992,
+    "korean_age": 34,
+    "international_age": 33,
+    "zodiac": "원숭이띠",
+    "generation": "Y세대",
+    "generation_group": "밀레니얼 세대",
+    "korean_characteristics": [
+      "PC방의 대중화 초입",
+      "전화기, 팩스, 인터넷 초창기 사용",
+      "한정된 미디어 환경",
+      "비디오 테이프 대여 문화",
+      "게임기와 오락실 인기가 절정",
+      "장난감 가게에서 마케팅이 활발",
+      "통신사들이 휴대폰 보급 시작"
+    ],
+    "world_events": [
+      { "event": "사우디 아라비아, 걸프전 개시", "date": "1992-01-17" },
+      { "event": "부시 대통령, 재선 성공", "date": "1992-11-03" },
+      { "event": "Bill Clinton 미국 대통령 선거에서 당선", "date": "1992-11-03" },
+      { "event": "인류 첫 재사용 가능한 우주선, 우주로 발사", "date": "1992-04-01" }
+    ],
+    "korea_events": [
+      { "event": "서울올림픽 10주년 기념", "date": "1992-10-25" },
+      { "event": "김영삼 대통령 당선", "date": "1992-12-18" },
+      { "event": "수입차 열풍", "date": "1992" },
+      { "event": "KT, 인터넷 서비스 시작", "date": "1992" }
+    ],
+    "popular_music": [
+      { "title": "사랑이야", "artist": "조용필", "release_date": "1992-01", "poster_url": "" },
+      { "title": "이젠", "artist": "김건모", "release_date": "1992-05", "poster_url": "" },
+      { "title": "희망", "artist": "김종환", "release_date": "1992-10", "poster_url": "" },
+      { "title": "비밀번호", "artist": "이문세", "release_date": "1992-06", "poster_url": "" },
+      { "title": "사랑과 우정사이", "artist": "김건모", "release_date": "1992-03", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "죽은 시인의 사회",
+        "en_title": "Dead Poets Society",
+        "country": "US",
+        "release_date": "1992-06-02",
+        "poster_url": "https://i.namu.wiki/i/clkeC2bp3wMX2TvrGeDDAQN6c_oLcER3Urp3vl-ES_7WvUhC9jqQ2HkX4-L_bh5OznUXKca4vZ1KXx52zylVZmB6FEzgOyEGAq_hKLp65Sg_waoC9LoYijMm6co25u7YKTcg3nMfuelDzTtTo63uCA.webp"
+      }
+    ],
+    "popular_dramas": [
+      { 
+        "title": "아스팔트 사나이", 
+        "broadcast_network": "SBS", 
+        "start_date": "1992-05-16", 
+        "end_date": "1992-07-19",
+        "poster_url": "https://i.namu.wiki/i/evh9QF4ehcxbB0xKsN19d8eO4AsFP35bCIBzwaJ9rGuFJv8hPdE3uqdAgcIaOg3t_54jX_mZTjqWEgSXqfAgAgMS6uXRie0aDaPs5yQ_kWNsiFKJER5mItBwoFKOsGBKQtFuqN7u7xOFYJBTVmpAjA.webp" 
+      }
+    ],
+    "fashion_trends": [
+      "후드티와 농구 팬츠",
+      "반바지와 스니커즈",
+      "중앙에 로고가 크게 박힌 티셔츠",
+      "청바지와 스니커즈"
+    ],
+    "kids_toys": [
+      "슬램덩크 카드",
+      "초코송이",
+      "디지몬카드",
+      "굽이없는 스케이트보드"
+    ],
+    "technology": [
+      "PC통신(천리안, 하이텔) 인기",
+      "PC의 보급화",
+      "플로피 디스크 사용",
+      "윈도우 3.1 대중화",
+      "전화기, 팩스와 함께 인터넷 사용 증가",
+      "전국적으로 휴대폰 보급 시작"
+    ],
+    "animation": [
+      {
+        "title": "드래곤볼 Z",
+        "start_date": "1989-04-26",
+        "end_date": "1992-01-31",
+        "poster_url": ""
+      }
+    ]
+  }
+  

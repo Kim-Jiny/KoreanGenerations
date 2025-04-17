@@ -1,0 +1,75 @@
+{
+    "year": 1998,
+    "korean_age": 29,
+    "international_age": 28,
+    "zodiac": "호랑이띠",
+    "generation": "Z세대",
+    "generation_group": "Z세대",
+    "korean_characteristics": [
+      "IMF 경제위기 계속됨",
+      "국민은행 통합과 은행 구조조정",
+      "디지털화된 생활 환경",
+      "PC방과 인터넷 카페의 급성장",
+      "지하철과 버스에 TV방송 송출"
+    ],
+    "world_events": [
+      { "event": "러시아 경제위기", "date": "1998-08-17" },
+      { "event": "Google 설립", "date": "1998-09-04" },
+      { "event": "영국, 화폐 단위 도입", "date": "1998-04-01" }
+    ],
+    "korea_events": [
+      { "event": "김대중 대통령 취임", "date": "1998-02-25" },
+      { "event": "IMF 구제금융 탈출", "date": "1998-08-12" },
+      { "event": "한국 경제 구조 개혁", "date": "1998" }
+    ],
+    "popular_music": [
+      { "title": "One more chance", "artist": "김경호", "release_date": "1998-09", "poster_url": "" },
+      { "title": "천년의 사랑", "artist": "양수경", "release_date": "1998-11", "poster_url": "" },
+      { "title": "인형의 꿈", "artist": "신화", "release_date": "1998-06", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "미션 임파서블",
+        "en_title": "Mission: Impossible",
+        "country": "US",
+        "release_date": "1998-05-22",
+        "poster_url": "https://i.namu.wiki/i/mD0-Ghz5ocvXJHf6sOPO4r5JkP3Wmy5hWBHL7mAxkKHOkZoCEqAw5BGO4Cgsxzjz3eqd1Q5swOB-j_b3m1jL5Sg1yJr96h08Da49rKRYIE1-V_l6vGVGz5__VeJ2_O9gnJge1SFiwPYGG7u9EFXw4o7Zq7DWrrg68x55tbDBpgH0KlwTnp8VpsjsmTWe_0A.webp"
+      }
+    ],
+    "popular_dramas": [
+      {
+        "title": "가을동화",
+        "broadcast_network": "KBS2",
+        "start_date": "1998-09-18",
+        "end_date": "1998-11-27",
+        "poster_url": "https://i.namu.wiki/i/WkwqznTzqwncYyMQck7fq8xj7Al8C0rBZqA9v0Tvhmi0mW8GBg8t63cg_4MvryziOfV3GfmrqBbqEGddxt5ceRlGgP_wCuYUEdAtV17N4s5p5lruFFPgjbciJ5OESXNR2eqxhGxtqOl6hu6l9y02dQTg.webp"
+      }
+    ],
+    "fashion_trends": [
+      "패디드 자켓",
+      "넥타이와 정장",
+      "로고가 박힌 티셔츠",
+      "바지와 셔츠를 함께 매치한 스타일"
+    ],
+    "kids_toys": [
+      "헬로카봇",
+      "포켓몬 카드",
+      "디즈니 캐릭터 피규어",
+      "슬램덩크 만화책"
+    ],
+    "technology": [
+      "휴대폰 전파망 확대",
+      "인터넷의 빠른 속도 확장",
+      "PC방 문화 활성화",
+      "DVD 플레이어의 급성장"
+    ],
+    "animation": [
+      {
+        "title": "디지몬",
+        "start_date": "1998-03-07",
+        "end_date": "1998-07-27",
+        "poster_url": ""
+      }
+    ]
+  }
+  

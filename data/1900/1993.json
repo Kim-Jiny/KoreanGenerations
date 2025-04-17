@@ -1,0 +1,84 @@
+{
+    "year": 1993,
+    "korean_age": 32,
+    "international_age": 31,
+    "zodiac": "닭띠",
+    "generation": "Y세대",
+    "generation_group": "밀레니얼 세대",
+    "korean_characteristics": [
+      "1992 서울올림픽 여파로 스포츠 붐",
+      "PC방과 비디오 게임 인기 상승",
+      "카세트 테이프에서 CD로 전환",
+      "일본 애니메이션 유입, 드래곤볼 인기",
+      "드라마와 예능 프로그램의 황금기",
+      "TV와 비디오의 인기",
+      "직장인의 휴대폰 사용 증가"
+    ],
+    "world_events": [
+      { "event": "유럽연합(EU) 출범", "date": "1993-11-01" },
+      { "event": "영화 '쥬라기 공원' 개봉", "date": "1993-06-11" },
+      { "event": "NASA의 우주왕복선 콜럼비아 발사", "date": "1993-04-06" },
+      { "event": "마드리드 대항해 박람회 개막", "date": "1993-04-09" }
+    ],
+    "korea_events": [
+      { "event": "김영삼 대통령 임기 시작", "date": "1993-02-25" },
+      { "event": "LG전자, 첫 휴대폰 출시", "date": "1993" },
+      { "event": "한국 최초의 전자상거래 사이트 등장", "date": "1993" },
+      { "event": "IMF 준비기 시작", "date": "1993" }
+    ],
+    "popular_music": [
+      { "title": "다시 시작", "artist": "김건모", "release_date": "1993-01", "poster_url": "" },
+      { "title": "서울 서울 서울", "artist": "김정민", "release_date": "1993-05", "poster_url": "" },
+      { "title": "나는 너를", "artist": "이문세", "release_date": "1993-06", "poster_url": "" },
+      { "title": "그대는 모르죠", "artist": "김범수", "release_date": "1993-07", "poster_url": "" },
+      { "title": "사랑할수록", "artist": "이승철", "release_date": "1993-09", "poster_url": "" }
+    ],
+    "popular_movies": [
+      {
+        "kr_title": "쥬라기 공원",
+        "en_title": "Jurassic Park",
+        "country": "US",
+        "release_date": "1993-06-11",
+        "poster_url": "https://i.namu.wiki/i/2W2UwTLilVByC9drU9uIu6tFl7Rxx5QNkSo0eEjdkzYgsxCge-dT0waF0VfFZ3gqkELeY9KZKLm9pE39gWnsZToHi-6J_aPAF7JPL5w8OZ5mchhHpJZ9Z6C-VNTlGdEPH4-NEa4faA0EpNNxQsVkl11VTeHKNITg9YfmIiK_kvXOxGpHwM4mnImH_7VrGz_UF82wWKdfYrsPgtwHOBPmdFCYvFvlf5mA.webp"
+      }
+    ],
+    "popular_dramas": [
+      { 
+        "title": "그대 그리고 나", 
+        "broadcast_network": "MBC", 
+        "start_date": "1993-09-03", 
+        "end_date": "1993-10-29",
+        "poster_url": "https://i.namu.wiki/i/evh9QF4ehcxbB0xKsN19d8eO4AsFP35bCIBzwaJ9rGuFJv8hPdE3uqdAgcIaOg3t_54jX_mZTjqWEgSXqfAgAgMS6uXRie0aDaPs5yQ_kWNsiFKJER5mItBwoFKOsGBKQtFuqN7u7xOFYJBTVmpAjA.webp" 
+      }
+    ],
+    "fashion_trends": [
+      "백팩 패션",
+      "청청 패션",
+      "플란넬 셔츠",
+      "니트 스웨터",
+      "화려한 색상의 운동화"
+    ],
+    "kids_toys": [
+      "리틀포니 인형",
+      "디지털 게임기 (게임보이, PSP 등)",
+      "비디오 게임기 (세가, 슈퍼 패미컴 등)",
+      "프라모델"
+    ],
+    "technology": [
+      "인터넷 초창기 사용 확대",
+      "휴대폰의 대중화",
+      "윈도우 3.1 보급",
+      "CD-ROM 사용 증가",
+      "가정용 비디오카메라 보급",
+      "게임기, 비디오 게임의 대중화"
+    ],
+    "animation": [
+      {
+        "title": "카우보이 비밥",
+        "start_date": "1993-04-03",
+        "end_date": "1994-04-04",
+        "poster_url": ""
+      }
+    ]
+  }
+  

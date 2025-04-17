@@ -1,0 +1,258 @@
+{
+  "year": 1990,
+  "korean_age": 35,
+  "international_age": 34,
+  "zodiac": "말띠",
+  "generation": "Y세대",
+  "generation_group": "밀레니얼 세대",
+  "korean_characteristics": [
+    "IMF 이전의 경제 성장기",
+    "컬러 TV의 보급 확대",
+    "비디오 대여점의 전성기",
+    "PC통신의 시작",
+    "문방구에서 게임기 대여",
+    "만화방과 비디오방의 인기",
+    "대중교통의 확장과 이용 증가"
+  ],
+  "world_events": [
+    { "event": "독일 통일", "date": "1990-10-03" },
+    { "event": "리투아니아, 소련으로부터 독립 선언", "date": "1990-03-11" },
+    { "event": "Hubble 우주망원경 발사", "date": "1990-04-24" },
+    { "event": "Nelson Mandela 석방", "date": "1990-02-11" },
+    { "event": "월드 와이드 웹(WWW) 개발 시작", "date": "1990-12-20" }
+  ],
+  "korea_events": [
+    { "event": "3당 합당으로 민주자유당 출범", "date": "1990-01-22" },
+    { "event": "KBS 2TV 컬러 방송 확대", "date": "1990" },
+    { "event": "지하철 2호선 전 구간 개통", "date": "1990" },
+    { "event": "서울시민 1천만 돌파", "date": "1990" }
+  ],
+  "popular_music": [
+    { "title": "그대 그리고 나", "artist": "이문세", "release_date": "1990-03", "poster_url": "" },
+    { "title": "날개 잃은 천사", "artist": "김완선", "release_date": "1990-06", "poster_url": "" },
+    { "title": "기억 속의 먼 그대에게", "artist": "이승환", "release_date": "1990-07", "poster_url": "" },
+    { "title": "비처럼 음악처럼", "artist": "김현식", "release_date": "1990-09", "poster_url": "" },
+    { "title": "그녀를 만나는 곳 100m 전", "artist": "이상우", "release_date": "1990-05", "poster_url": "" },
+    { "title": "소녀와 가로등", "artist": "변진섭", "release_date": "1990-04", "poster_url": "" },
+    { "title": "하늘을 달리다", "artist": "윤도현", "release_date": "1990-12", "poster_url": "" },
+    { "title": "어떤 이의 꿈", "artist": "봄여름가을겨울", "release_date": "1990-08", "poster_url": "" },
+    { "title": "사랑일뿐야", "artist": "김민우", "release_date": "1990-06", "poster_url": "" },
+    { "title": "슬픈 언약식", "artist": "김정민", "release_date": "1990-10", "poster_url": "" }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "남부군",
+      "en_title": "Nambugun",
+      "country": "KR",
+      "release_date": "1990-09-15",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "나의 사랑, 나의 신부",
+      "en_title": "My Love, My Bride",
+      "country": "KR",
+      "release_date": "1990-12-01",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "꿈",
+      "en_title": "The Dream",
+      "country": "KR",
+      "release_date": "1990-05-05",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "그대 눈물이 마를 때까지",
+      "en_title": "Until Your Tears Dry",
+      "country": "KR",
+      "release_date": "1990-07-21",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "단지 그대가 여자라는 이유만으로",
+      "en_title": "Because You Are a Woman",
+      "country": "KR",
+      "release_date": "1990-10-13",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "그들도 우리처럼",
+      "en_title": "They Also Are Like Us",
+      "country": "KR",
+      "release_date": "1990-06-02",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "그래 가끔 하늘을 보자",
+      "en_title": "Yes, Let's Look at the Sky Sometimes",
+      "country": "KR",
+      "release_date": "1990-08-25",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "검은 도시",
+      "en_title": "Black City",
+      "country": "KR",
+      "release_date": "1990-04-07",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "마유미",
+      "en_title": "Mayumi",
+      "country": "KR",
+      "release_date": "1990-11-17",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "로보트 태권 V 90",
+      "en_title": "Robot Taekwon V 90",
+      "country": "KR",
+      "release_date": "1990-12-22",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "우리들의 천국",
+      "broadcast_network": "MBC",
+      "start_date": "1990-10-26",
+      "end_date": "1994-02-18",
+      "poster_url": ""
+    },
+    {
+      "title": "대추나무 사랑걸렸네",
+      "broadcast_network": "MBC",
+      "start_date": "1990-09-09",
+      "end_date": "2002-12-29",
+      "poster_url": ""
+    },
+    {
+      "title": "서울 뚝배기",
+      "broadcast_network": "KBS2",
+      "start_date": "1990-09-03",
+      "end_date": "1991-02-22",
+      "poster_url": ""
+    },
+    {
+      "title": "몽실언니",
+      "broadcast_network": "KBS1",
+      "start_date": "1990-09-01",
+      "end_date": "1990-10-28",
+      "poster_url": ""
+    },
+    {
+      "title": "여자는 무엇으로 사는가",
+      "broadcast_network": "KBS2",
+      "start_date": "1990-02-05",
+      "end_date": "1990-04-24",
+      "poster_url": ""
+    },
+    {
+      "title": "김형사 강형사",
+      "broadcast_network": "KBS2",
+      "start_date": "1990-05-14",
+      "end_date": "1990-07-31",
+      "poster_url": ""
+    },
+    {
+      "title": "그대 아직도 꿈꾸고 있는가",
+      "broadcast_network": "KBS2",
+      "start_date": "1990-07-02",
+      "end_date": "1990-09-18",
+      "poster_url": ""
+    },
+    {
+      "title": "그 여자",
+      "broadcast_network": "KBS2",
+      "start_date": "1990-10-01",
+      "end_date": "1990-11-20",
+      "poster_url": ""
+    },
+    {
+      "title": "꽃 피고 새 울면",
+      "broadcast_network": "KBS1",
+      "start_date": "1990-04-02",
+      "end_date": "1990-06-29",
+      "poster_url": ""
+    },
+    {
+      "title": "기다리는 사람들",
+      "broadcast_network": "KBS2",
+      "start_date": "1990-01-01",
+      "end_date": "1990-02-20",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "바지에 셔츠 집어넣기",
+    "단발머리와 곱창 머리끈",
+    "와이셔츠에 멜빵바지",
+    "운동화에 루즈삭스",
+    "형광색 티셔츠 유행",
+    "통 넓은 청바지",
+    "스냅백 스타일의 모자"
+  ],
+  "kids_toys": [
+    "종이 인형놀이",
+    "플라스틱 로봇 장난감",
+    "변신 자동차",
+    "딱지, 구슬치기",
+    "슬라임 초창기 유행",
+    "고무줄 놀이",
+    "수수께끼 카드",
+    "공기놀이",
+    "조립식 비행기",
+    "문방구 뽑기"
+  ],
+  "technology": [
+    "흑백에서 컬러 TV로 전환 가속",
+    "가정용 비디오 플레이어 보급 확대",
+    "CD 플레이어와 오디오 시스템 확산",
+    "휴대용 카세트 플레이어 인기",
+    "PC 보급 초기 단계",
+    "PC통신(하이텔, 천리안 등) 등장",
+    "삐삐(무선호출기) 등장",
+    "가정용 전화기와 유선전화 보급 확대",
+    "디지털 시계, 계산기 보급",
+    "팩시밀리 사용 증가"
+  ],
+  "animation": [
+    {
+      "title": "머털도사와 108요괴",
+      "start_date": "1990-01-01",
+      "end_date": "1990-01-01",
+      "poster_url": ""
+    },
+    {
+      "title": "배추도사 무도사의 옛날 옛적에",
+      "start_date": "1990-01-05",
+      "end_date": "1990-03-30",
+      "poster_url": ""
+    },
+    {
+      "title": "머털도사와 또매",
+      "start_date": "1990-05-05",
+      "end_date": "1990-05-05",
+      "poster_url": ""
+    },
+    {
+      "title": "날아라 슈퍼보드",
+      "start_date": "1990-08-15",
+      "end_date": "1990-08-15",
+      "poster_url": ""
+    },
+    {
+      "title": "영심이",
+      "start_date": "1990-10-05",
+      "end_date": "1990-12-28",
+      "poster_url": ""
+    },
+    {
+      "title": "머털도사와 108요괴 2",
+      "start_date": "1990-11-10",
+      "end_date": "1990-11-10",
+      "poster_url": ""
+    }
+  ]
+}
+
