@@ -10,14 +10,38 @@ import Combine
 
 class GenerationViewModel: ObservableObject {
     private let generationUseCase: GenerationUseCaseProtocol
+    private let supportUseCase: SupportUseCaseProtocol
     private var cancellables = Set<AnyCancellable>()
 
     @Published var generation: Generation?
     @Published var isLoading = false
     @Published var error: Error?
+    @Published var supportYears: [Int] = []
+    @Published var dataVersion: String = ""
     
-    init(useCase: GenerationUseCaseProtocol) {
+    init(useCase: GenerationUseCaseProtocol, supportUseCase: SupportUseCaseProtocol) {
         self.generationUseCase = useCase
+        self.supportUseCase = supportUseCase
+    }
+    
+    func fetchSupportYears() {
+        supportUseCase.getSupportYearData()
+            .sink(receiveCompletion: { completion in
+                switch completion {
+                case .failure(let err):
+                    DispatchQueue.main.async {
+                        print("지원 연도를 가지고오는데 실패했습니다.")
+                    }
+                case .finished:
+                    break
+                }
+            }, receiveValue: { support in
+                DispatchQueue.main.async {
+                    self.supportYears = support.supportYears
+                    self.dataVersion = support.dataVersion
+                }
+            })
+            .store(in: &cancellables)
     }
     
     func loadGenerationData(for year: Int) {

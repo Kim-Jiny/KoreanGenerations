@@ -9,16 +9,21 @@ import SwiftUI
 
 struct GenerationView: View {
     @StateObject private var viewModel: GenerationViewModel
+    @State private var dataVersion: String = ""
+    @State private var supportYears: [Int] = [1995]
     @State private var selectedYear: Int = 1995
     @State private var showYearPicker: Bool = false // 연도 선택 여부를 관리
     @State private var expandedSections: Set<String> = []
     
-    let years: [Int] = Array(1900...2025) // 선택 가능한 연도 목록
-    
     init() {
-        let repository = GenerationRepositoryImpl(apiClient: APIClient())
+        let apiClient = APIClient()
+        
+        let repository = GenerationRepositoryImpl(apiClient: apiClient)
         let useCase = GenerationUseCaseImpl(generationRepository: repository)
-        _viewModel = StateObject(wrappedValue: GenerationViewModel(useCase: useCase))
+        
+        let supportRepository = SupportYearRepositoryImpl(apiClient: apiClient)
+        let supportUseCase = SupportUseCaseImpl(supportYearRepository: supportRepository)
+        _viewModel = StateObject(wrappedValue: GenerationViewModel(useCase: useCase, supportUseCase: supportUseCase))
     }
 
     var body: some View {
@@ -128,16 +133,43 @@ struct GenerationView: View {
                 }
                 
                 if showYearPicker {
-                    YearPickerView(selectedYear: $selectedYear, showYearPicker: $showYearPicker, years: years)
+                    YearPickerView(selectedYear: $selectedYear, showYearPicker: $showYearPicker, years: supportYears)
                         .background(Color.clear)
                 }
+                
+                // 좌측 하단에 dataVersion 텍스트 표시
+                
+                HStack {
+                    Spacer()
+                    Text("Data Version: \(dataVersion)")
+                        .font(.caption2)
+                        .foregroundColor(.white)
+                        .padding(.trailing, 16)
+                }
+                .padding(.top, -10)
+                .frame(height: 0)
+                .lineLimit(1)
+                .truncationMode(.tail)
             }
         }
         .onAppear {
+            fetchSupportYears()
             loadGenerationData()
+        }
+        .onReceive(viewModel.$supportYears) { newSupportYears in
+            // ViewModel의 supportYears가 변경되면 해당 배열을 업데이트
+            self.supportYears = newSupportYears
+        }
+        .onReceive(viewModel.$dataVersion) { newDataVersion in
+            // ViewModel의 dataVersion이 변경되면 해당 배열을 업데이트
+            self.dataVersion = newDataVersion
         }
     }
 
+    private func fetchSupportYears() {
+        viewModel.fetchSupportYears()
+    }
+    
     private func loadGenerationData() {
         viewModel.loadGenerationData(for: selectedYear)
     }
