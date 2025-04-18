@@ -1,85 +1,94 @@
 {
-    "year": 1996,
-    "korean_age": 31,
-    "international_age": 30,
-    "zodiac": "쥐띠",
+    "year": 1995,
+    "korean_age": 30,
+    "international_age": 29,
+    "zodiac": "돼지띠",
     "generation": "밀레니얼 세대",
     "generation_group": "MZ세대",
     "korean_characteristics": [
-      "IMF 이후 경제 위기 시작",
-      "PC방이 폭발적으로 증가",
-      "인터넷 카페 등장",
-      "휴대폰의 보급 확대",
-      "디지털 카메라의 일반화",
-      "게임기와 콘솔의 대중화",
-      "애니메이션과 만화방 인기"
+      "IMF 이전 마지막 안정기",
+      "PC방의 시작",
+      "삐삐(무선호출기) 유행",
+      "친구들과 오락실 가는 것이 일상",
+      "만화방, 비디오방 전성기",
+      "지하철, 버스 등 대중교통의 대중화",
+      "학교 앞 문방구에서 군것질과 장난감 구매"
     ],
     "world_events": [
-      { "event": "구소련 붕괴", "date": "1996-01-01" },
-      { "event": "노벨 평화상 수상 – 김대중", "date": "1996-10-15" },
-      { "event": "한국, 1996년 하계 올림픽 개최지 선정", "date": "1996-09-19" },
-      { "event": "HTML 2.0 발표", "date": "1996-11-14" },
-      { "event": "프린터의 일반화와 보급 확대", "date": "1996" }
+      { "event": "Windows 95 출시", "date": "1995-08-24" },
+      { "event": "DVD 공식 발표", "date": "1995-03" },
+      { "event": "아마존(Amazon) 설립", "date": "1995-07-05" },
+      { "event": "Yahoo! 정식 서비스 시작", "date": "1995-03" },
+      { "event": "일본 고베 대지진 발생", "date": "1995-01-17" }
     ],
     "korea_events": [
-      { "event": "한국철도공사(KORAIL) 출범", "date": "1996-01-01" },
-      { "event": "인터넷 쇼핑몰 등장 (인터파크 등)", "date": "1996" },
-      { "event": "서울올림픽 유산 활용한 국가 이미지 제고", "date": "1996" },
-      { "event": "한미 자유무역협정(FTA) 협상 개시", "date": "1996" }
+      { "event": "삼풍백화점 붕괴 사고", "date": "1995-06-29" },
+      { "event": "서울 지하철 5호선 개통", "date": "1995-11-15" },
+      { "event": "전국민주노동조합총연맹(민주노총) 출범", "date": "1995-11-11" },
+      { "event": "한국 최초의 인터넷 포털 등장 (천리안, 하이텔 중심)", "date": "1995" }
     ],
     "popular_music": [
-      { "title": "친구", "artist": "이승철", "release_date": "1996-03" },
-      { "title": "지금 이 순간", "artist": "김경호", "release_date": "1996-02" },
-      { "title": "나 항상 그대를", "artist": "한영애", "release_date": "1996-07" },
-      { "title": "슬픈 사랑", "artist": "이문세", "release_date": "1996-06" },
-      { "title": "어떻게 사랑이 그래요", "artist": "김정민", "release_date": "1996-05" }
-    ],
+      { "title": "잘못된 만남", "artist": "김건모", "release_date": "1995-01", "poster_url": "" },
+      { "title": "3! 4!", "artist": "룰라", "release_date": "1995-04", "poster_url": "" },
+      { "title": "겨울 이야기", "artist": "DJ DOC", "release_date": "1995-12", "poster_url": "" },
+      { "title": "단발머리", "artist": "015B", "release_date": "1995-06", "poster_url": "" },
+      { "title": "Come Back Home", "artist": "서태지와 아이들", "release_date": "1995-10", "poster_url": "" },
+      { "title": "잊을 수 없어", "artist": "이문세", "release_date": "1995-05", "poster_url": "" },
+      { "title": "너를 사랑해", "artist": "김현정", "release_date": "1995-09", "poster_url": "" },
+      { "title": "사랑하고 싶어", "artist": "김민종", "release_date": "1995-08", "poster_url": "" },
+      { "title": "행복을 주는 사람", "artist": "김종환", "release_date": "1995-03", "poster_url": "" },
+      { "title": "슬픈 사람", "artist": "이승철", "release_date": "1995-11", "poster_url": "" }
+  ],
     "popular_movies": [
-        {
-          "kr_title": "뽕",
-          "en_title": "Ppong",
-          "country": "KR",
-          "release_date": "1996-10-04",
-          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/3/3f/Ppong_poster.jpg"
+    {
+      "kr_title": "다이 하드 3",
+      "en_title": "Die Hard with a Vengeance",
+      "country": "US",
+      "release_date": "1995-05-19",
+      "poster_url": "https://i.namu.wiki/i/clkeC2bp3wMX2TvrGeDDAQN6c_oLcER3Urp3vl-ES_7WvUhC9jqQ2HkX4-L_bh5OznUXKca4vZ1KXx52zylVZmB6FEzgOyEGAq_hKLp65Sg_waoC9LoYijMm6co25u7YKTcg3nMfuelDzTtTo63uCA.webp"
+    }
+  ],
+    "popular_dramas": [{ 
+            "title": "모래시계", 
+            "broadcast_network": "SBS", 
+            "start_date": "1995-01-09", 
+            "end_date": "1995-02-28",
+            "poster_url": "https://i.namu.wiki/i/evh9QF4ehcxbB0xKsN19d8eO4AsFP35bCIBzwaJ9rGuFJv8hPdE3uqdAgcIaOg3t_54jX_mZTjqWEgSXqfAgAgMS6uXRie0aDaPs5yQ_kWNsiFKJER5mItBwoFKOsGBKQtFuqN7u7xOFYJBTVmpAjA.webp" 
         }
-      ],
-    "popular_dramas": [
-      { "title": "결혼작사 이혼작곡", "broadcast_network": "SBS", "start_date": "1995-03-27", "end_date": "1995-05-30" },
-      { "title": "내 마음의 풍금", "broadcast_network": "KBS2", "start_date": "1995-04-06", "end_date": "1995-06-15" },
-      { "title": "남자 대 남자", "broadcast_network": "MBC", "start_date": "1995-07-24", "end_date": "1995-09-12" },
-      { "title": "청춘의 덫", "broadcast_network": "MBC", "start_date": "1996-02-10", "end_date": "1996-05-10" },
-      { "title": "사랑과 야망", "broadcast_network": "KBS2", "start_date": "1996-05-02", "end_date": "1996-11-07" }
     ],
     "fashion_trends": [
-      "초커 목걸이",
-      "더블브레스트 코트",
-      "청바지와 크롭 탑",
-      "디스코 펌 헤어스타일",
-      "탠디 스타일",
-      "바지부츠컷 유행"
+      "통 큰 청바지",
+      "벙거지 모자",
+      "체크 셔츠와 힙합 패션",
+      "나이키 에어맥스와 아디다스 삼선 슬리퍼",
+      "밀리터리룩",
+      "큰 로고가 박힌 티셔츠"
     ],
     "kids_toys": [
-      "디지털 피아노",
-      "반지 인형",
-      "빅 마마",
-      "게임보이와 닌텐도 64",
-      "캐릭터 봉제 인형"
+      "타이니탄 인형 (비공식적 등장)",
+      "스티커북 수집",
+      "슬램덩크 캐릭터 카드",
+      "요요 유행",
+      "탑블레이드(초기)와 딱지놀이"
     ],
     "technology": [
-      "모바일 인터넷 서비스의 확장",
-      "디지털 카메라와 게임 콘솔 대중화",
-      "초기 Wi-Fi 기술 등장",
-      "모바일 뮤직 플레이어 보급",
-      "인터넷 검색엔진의 발전 (예: AltaVista, Yahoo!)",
-      "MP3 파일 포맷의 대중화",
-      "브라우저 사용 대중화 (특히 인터넷 익스플로러, 넷스케이프)"
-    ],
+      "PC통신 하이텔, 천리안 인기",
+      "윈도우 95 출시로 GUI 환경 대중화",
+      "일반 가정에서 컴퓨터 사용 증가",
+      "인터넷이 대중에게 처음 소개되기 시작",
+      "디지털 카메라와 캠코더의 대중화",
+      "휴대폰 사용 증가 (특히 '삐삐'와 '휴대폰'의 보급)",
+      "DVD 플레이어와 초기 DVD 상영 개시",
+      "온라인 쇼핑몰, 전자상거래 활성화",
+      "핸드폰의 문자메시지 기능이 대중화",
+      "디지털 텔레비전 (DTV) 방송 시작"
+  ],
     "animation": [
       {
-          "title": "슬램덩크",
-          "start_date": "1993-10-16",
-          "end_date": "1996-03-23",
-          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d6/Slamdunk.jpg"
+          "title": "세일러문S",
+          "start_date": "1994-03-19",
+          "end_date": "1995-03-04",
+          "poster_url": ""
       }
     ]
   }

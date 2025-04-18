@@ -41,6 +41,8 @@
 		307B3DC72DB089F800BEE959 /* Support.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3DC62DB089F800BEE959 /* Support.swift */; };
 		307B3DC92DB08A8300BEE959 /* SupportUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3DC82DB08A8300BEE959 /* SupportUseCase.swift */; };
 		307B3DD22DB0905500BEE959 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 307B3DD12DB0905500BEE959 /* InfoPlist.strings */; };
+		307B3DD82DB1E9C500BEE959 /* AdmobBannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307B3DD72DB1E9C500BEE959 /* AdmobBannerView.swift */; };
+		307B3DDB2DB1EA9A00BEE959 /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = 307B3DDA2DB1EA9A00BEE959 /* GoogleMobileAds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -93,6 +95,8 @@
 		307B3DC82DB08A8300BEE959 /* SupportUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupportUseCase.swift; sourceTree = "<group>"; };
 		307B3DD02DB0905500BEE959 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		307B3DD32DB090EF00BEE959 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		307B3DD72DB1E9C500BEE959 /* AdmobBannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdmobBannerView.swift; sourceTree = "<group>"; };
+		307B3DDC2DB1EAAE00BEE959 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,7 @@
 				307B3DB62DAF9DD500BEE959 /* FirebaseDatabase in Frameworks */,
 				307B3DB02DAF9DD500BEE959 /* FirebaseAnalytics in Frameworks */,
 				307B3DBA2DAF9DD500BEE959 /* FirebaseStorage in Frameworks */,
+				307B3DDB2DB1EA9A00BEE959 /* GoogleMobileAds in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,6 +154,8 @@
 		307B3D2D2DAF4C6A00BEE959 /* KoreanGenerations */ = {
 			isa = PBXGroup;
 			children = (
+				307B3DDC2DB1EAAE00BEE959 /* Info.plist */,
+				307B3DD62DB1E9B100BEE959 /* Ads */,
 				307B3DCA2DB08FF700BEE959 /* Resources */,
 				307B3DAC2DAF9D2800BEE959 /* GoogleService-Info.plist */,
 				307B3D9E2DAF669F00BEE959 /* Presentation */,
@@ -339,6 +346,14 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
+		307B3DD62DB1E9B100BEE959 /* Ads */ = {
+			isa = PBXGroup;
+			children = (
+				307B3DD72DB1E9C500BEE959 /* AdmobBannerView.swift */,
+			);
+			path = Ads;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -362,6 +377,7 @@
 				307B3DB52DAF9DD500BEE959 /* FirebaseDatabase */,
 				307B3DB72DAF9DD500BEE959 /* FirebaseFunctions */,
 				307B3DB92DAF9DD500BEE959 /* FirebaseStorage */,
+				307B3DDA2DB1EA9A00BEE959 /* GoogleMobileAds */,
 			);
 			productName = KoreanGenerations;
 			productReference = 307B3D2B2DAF4C6A00BEE959 /* KoreanGenerations.app */;
@@ -437,6 +453,7 @@
 			mainGroup = 307B3D222DAF4C6A00BEE959;
 			packageReferences = (
 				307B3DAE2DAF9DD500BEE959 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				307B3DD92DB1EA9A00BEE959 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */,
 			);
 			productRefGroup = 307B3D2C2DAF4C6A00BEE959 /* Products */;
 			projectDirPath = "";
@@ -482,6 +499,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				307B3DD82DB1E9C500BEE959 /* AdmobBannerView.swift in Sources */,
 				307B3D9A2DAF4F9000BEE959 /* APIClient.swift in Sources */,
 				307B3DC72DB089F800BEE959 /* Support.swift in Sources */,
 				307B3DC92DB08A8300BEE959 /* SupportUseCase.swift in Sources */,
@@ -678,11 +696,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"KoreanGenerations/Preview Content\"";
 				DEVELOPMENT_TEAM = HW9XJ9J5M2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = KoreanGenerations/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -692,7 +711,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.jiny.swiftui.KoreanGenerations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -707,11 +726,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"KoreanGenerations/Preview Content\"";
 				DEVELOPMENT_TEAM = HW9XJ9J5M2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = KoreanGenerations/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -721,7 +741,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.jiny.swiftui.KoreanGenerations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -856,6 +876,14 @@
 				minimumVersion = 11.11.0;
 			};
 		};
+		307B3DD92DB1EA9A00BEE959 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.3.0;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -888,6 +916,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 307B3DAE2DAF9DD500BEE959 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseStorage;
+		};
+		307B3DDA2DB1EA9A00BEE959 /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 307B3DD92DB1EA9A00BEE959 /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

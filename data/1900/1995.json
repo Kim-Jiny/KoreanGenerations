@@ -3,8 +3,8 @@
   "korean_age": 30,
   "international_age": 29,
   "zodiac": "돼지띠",
-  "generation": "밀레니얼 세대",
-  "generation_group": "MZ세대",
+  "generation": "Y세대",
+  "generation_group": "밀레니얼 세대",
   "korean_characteristics": [
     "IMF 이전 마지막 안정기",
     "PC방의 시작",
@@ -409,7 +409,7 @@
         "title": "꼬마 자동차 붕붕",
         "start_date": "1995-01-01",
         "end_date": "1995-12-31",
-        "poster_url": "g"
+        "poster_url": ""
     },
     {
         "title": "이누야사 (시범 영상)",

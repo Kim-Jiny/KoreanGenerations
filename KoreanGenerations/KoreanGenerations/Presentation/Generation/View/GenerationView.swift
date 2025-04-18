@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import GoogleMobileAds
 
 struct GenerationView: View {
     @StateObject private var viewModel: GenerationViewModel
@@ -14,6 +15,12 @@ struct GenerationView: View {
     @State private var selectedYear: Int = 1995
     @State private var showYearPicker: Bool = false // 연도 선택 여부를 관리
     @State private var expandedSections: Set<String> = []
+    @State private var isAdLoaded: Bool = false
+    
+    @ViewBuilder func admob() -> some View {
+          // admob
+        AdmobBannerView(isAdLoaded: $isAdLoaded, adType: .mainBN).frame(width: AdSizeBanner.size.width, height: AdSizeBanner.size.height)
+    }
     
     init() {
         let apiClient = APIClient()
@@ -89,34 +96,49 @@ struct GenerationView: View {
                                 .font(.headline)
                                 .foregroundColor(.white)
                     }
-                    
                 }
                 
                 if let _ = viewModel.error {
                        // 에러 메시지
-                       Text("데이터를 업데이트 할 예정입니다. :)")
-                           .foregroundColor(.white)
-                           .padding()
-                           .background(Color.white.opacity(0.2))
-                           .cornerRadius(12)
-                           .padding(.horizontal)
+                   Text("데이터를 업데이트 할 예정입니다. :)")
+                       .foregroundColor(.white)
+                       .padding()
+                       .background(Color.white.opacity(0.2))
+                       .cornerRadius(12)
+                       .padding(.horizontal)
                 } else {
                     // 데이터 테이블 섹션 뷰
                     ScrollView {
                         if let generation = viewModel.generation {
-                            VStack(spacing: 12) {
+                            VStack(spacing: 0) {
                                 generationSection(title: "특징", content: generation.koreanCharacteristics)
+                                    .padding(.bottom, 12)
                                 generationSection(title: "기술", content: generation.technology)
+                                    .padding(.bottom, 12)
                                 generationSection(title: "패션 트렌드", content: generation.fashionTrends)
+                                    .padding(.bottom, 12)
                                 generationSection(title: "장난감", content: generation.kidsToys)
+                                    .padding(.bottom, 12)
                                 
                                 eventSection(title: "세계 사건", events: generation.worldEvents)
+                                    .padding(.bottom, 12)
                                 eventSection(title: "한국 사건", events: generation.koreaEvents)
+                                    .padding(.bottom, isAdLoaded ? 12 : 6)
+                                
+                                admob()
+                                    .frame(width: 320, height: isAdLoaded ? 50 : 0)
+                                    .clipped()
+                                    .padding(.bottom, isAdLoaded ? 12 : 6)
+                                    .animation(.easeInOut, value: isAdLoaded)
                                 
                                 musicSection(title: "인기 음악", musics: generation.popularMusic)
+                                    .padding(.bottom, 12)
                                 dramaSection(title: "인기 드라마", dramas: generation.popularDramas)
+                                    .padding(.bottom, 12)
                                 movieSection(title: "인기 영화", movies: generation.popularMovies)
+                                    .padding(.bottom, 12)
                                 animationSection(title: "애니메이션", animations: generation.animation)
+                                    .padding(.bottom, 12)
                             }
                             .padding(.horizontal)
                             .padding(.bottom, 100)

@@ -3,8 +3,8 @@
     "korean_age": 31,
     "international_age": 30,
     "zodiac": "쥐띠",
-    "generation": "밀레니얼 세대",
-    "generation_group": "MZ세대",
+    "generation": "Y세대",
+    "generation_group": "밀레니얼 세대",
     "korean_characteristics": [
       "IMF 이후 경제 위기 시작",
       "PC방이 폭발적으로 증가",
@@ -300,36 +300,36 @@
       "브라우저 사용 대중화 (특히 인터넷 익스플로러, 넷스케이프)"
     ],
     "animation": [
-      {
+        {
           "title": "슬램덩크",
           "start_date": "1993-10-16",
           "end_date": "1996-03-23",
-          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d6/Slamdunk.jpg"
-      },
-      {
+          "poster_url": ""
+        },
+        {
           "title": "드래곤볼 Z",
           "start_date": "1989-04-26",
           "end_date": "1996-01-31",
-          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/6f/DragonBallZ.jpg"
-      },
-      {
+          "poster_url": ""
+        },
+        {
           "title": "짱구는 못말려",
           "start_date": "1992-04-13",
           "end_date": "present",
-          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/0/05/Crayon_Shin-chan.jpg"
-      },
-      {
+          "poster_url": ""
+        },
+        {
           "title": "마법기사 레이어스",
           "start_date": "1994-10-17",
           "end_date": "1995-11-13",
-          "poster_url": "https://upload.wikimedia.org/wikipedia/ko/d/d8/Rayearth.jpg"
-      },
-      {
+          "poster_url": ""
+        },
+        {
           "title": "테니스의 왕자",
           "start_date": "1996-10-10",
           "end_date": "2001-03-26",
-          "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/9f/PrinceofTennis.jpg"
-      }
-    ]
+          "poster_url": ""
+        }
+    ]     
   }
   
