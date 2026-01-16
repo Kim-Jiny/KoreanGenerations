@@ -6,32 +6,42 @@
   "generation": "알파세대",
   "generation_group": "알파세대",
   "korean_characteristics": [
-    "코로나19 팬데믹 속에서 태어난 세대",
-    "AI와 디지털 기술의 급속한 발전",
-    "비대면 교육과 원격 학습의 일상화",
-    "환경 문제에 대한 사회적 관심 증가",
-    "메타버스와 가상현실 기술의 대중화"
+    "코로나19 엔데믹 전환기",
+    "거리두기 해제로 일상 회복 시작",
+    "ChatGPT 등장으로 AI 시대 개막",
+    "MZ세대 중심의 소비문화 확산",
+    "숏폼 콘텐츠(틱톡, 릴스) 전성기",
+    "메타버스와 NFT 열풍",
+    "재택근무와 하이브리드 근무 정착"
   ],
   "world_events": [
     { "event": "러시아-우크라이나 전쟁 발발", "date": "2022-02-24" },
     { "event": "영국 엘리자베스 2세 여왕 서거", "date": "2022-09-08" },
     { "event": "카타르 월드컵 개최", "date": "2022-11-20" },
     { "event": "일론 머스크, 트위터 인수", "date": "2022-10-27" },
-    { "event": "ChatGPT 출시", "date": "2022-11-30" }
+    { "event": "ChatGPT 출시, AI 혁명 시작", "date": "2022-11-30" },
+    { "event": "아르헨티나, 카타르 월드컵 우승", "date": "2022-12-18" },
+    { "event": "일본 아베 신조 전 총리 피격 사망", "date": "2022-07-08" }
   ],
   "korea_events": [
-    { "event": "윤석열 대통령 취임", "date": "2022-05-10" },
-    { "event": "이태원 참사", "date": "2022-10-29" },
+    { "event": "제20대 윤석열 대통령 취임", "date": "2022-05-10" },
+    { "event": "이태원 핼러윈 압사 참사 (159명 사망)", "date": "2022-10-29" },
     { "event": "코로나19 사회적 거리두기 전면 해제", "date": "2022-04-18" },
-    { "event": "한국, 카타르 월드컵 16강 진출", "date": "2022-12-02" },
-    { "event": "누리호 2차 발사 성공", "date": "2022-06-21" }
+    { "event": "한국, 카타르 월드컵 16강 진출 (포르투갈전 역전승)", "date": "2022-12-02" },
+    { "event": "누리호 2차 발사 성공", "date": "2022-06-21" },
+    { "event": "서울 기록적 폭우 (반지하 침수 참사)", "date": "2022-08-08" },
+    { "event": "BTS 활동 중단 선언", "date": "2022-06-14" }
   ],
   "popular_music": [
-    { "title": "That That", "artist": "싸이 (feat. 슈가)", "release_date": "2022-04-29", "poster_url": "" },
-    { "title": "LOVE DIVE", "artist": "IVE", "release_date": "2022-04-05", "poster_url": "" },
-    { "title": "After LIKE", "artist": "IVE", "release_date": "2022-08-22", "poster_url": "" },
-    { "title": "Hype Boy", "artist": "NewJeans", "release_date": "2022-08-01", "poster_url": "" },
-    { "title": "Attention", "artist": "NewJeans", "release_date": "2022-08-01", "poster_url": "" }
+    { "title": "That That (prod. & feat. SUGA)", "artist": "싸이", "release_date": "2022-04-29", "poster_url": "https://i.namu.wiki/i/lHUzftZdU5oUqz6sC1JAbZ1xm_wLb0JGAfJQZFOXf5-qIBGdqpJRzVsWDHRUCwYPl_o1fWsUJvF1bNCOOlVwaw.webp" },
+    { "title": "LOVE DIVE", "artist": "IVE", "release_date": "2022-04-05", "poster_url": "https://i.namu.wiki/i/2fPVjWEpS-lMn5fCPQa-1_CVYh6X9Ws5W7pZYPNDDLxfYPIwJ6N_Y7xU0rSvpJV3_V3pGWjK8cUMKaJDg8eUsw.webp" },
+    { "title": "After LIKE", "artist": "IVE", "release_date": "2022-08-22", "poster_url": "https://i.namu.wiki/i/eAbnpxIoG7lLI4w1b1L1k0hbZ8KoUPaIZWaGDbB9mFd_7o-xmUxP2mWz6ckxIqAiQFIQAMbxpTldGMcLZB9aZg.webp" },
+    { "title": "Hype Boy", "artist": "NewJeans", "release_date": "2022-08-01", "poster_url": "https://i.namu.wiki/i/hcQtJMvpTzS-AzxhnI4NjP4bqh0rIuXqR__hHDSQxU7LGQaExCz0PYXfGMnUNyrZrpj9y5QROpFpLZz3BCzJbg.webp" },
+    { "title": "Attention", "artist": "NewJeans", "release_date": "2022-08-01", "poster_url": "https://i.namu.wiki/i/hcQtJMvpTzS-AzxhnI4NjP4bqh0rIuXqR__hHDSQxU7LGQaExCz0PYXfGMnUNyrZrpj9y5QROpFpLZz3BCzJbg.webp" },
+    { "title": "FEARLESS", "artist": "LE SSERAFIM", "release_date": "2022-05-02", "poster_url": "https://i.namu.wiki/i/iYQw7p2NKJT_XOXQvZnUNdqc6x3hNyqNz4j3yxJzrHsMD9MWjxIMKf8eiLbAQXG6rH_3EqqHkE9geMXwVvlYpQ.webp" },
+    { "title": "Candy", "artist": "NCT DREAM", "release_date": "2022-12-16", "poster_url": "https://i.namu.wiki/i/c0D9LQ2qj6sFnVtF0C6YD5s8YxXn_4cK_fYWCKc0iXjx3Z4c8YnHaJ0BrJCJD3rJSxqCPjvYDfsMCjPcGHYYlQ.webp" },
+    { "title": "ANTIFRAGILE", "artist": "LE SSERAFIM", "release_date": "2022-10-17", "poster_url": "https://i.namu.wiki/i/9nwPVOVHBIV7PQW5QsHKKM-8l9lRCXQZHjS5FZKEiCfv8yxNrVl1UJ3mQnCMz4W9CJ8vGXK0z2qGIQr6vzzqDw.webp" },
+    { "title": "보고싶었어", "artist": "WSG워너비", "release_date": "2022-06-18", "poster_url": "https://i.namu.wiki/i/sKZYSjMKPW3qXZI-4JqPz-kT-bsVj0J6-O8RbHc5F1G4GS8G9hCWkFXHGCJFp5Aw6E-_kbqOTZqaOIUqRYQUlQ.webp" }
   ],
   "popular_movies": [
     {
@@ -39,35 +49,63 @@
       "en_title": "The Roundup",
       "country": "KR",
       "release_date": "2022-05-18",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/1G3YqtNnQpRdZ7G-sUJTvUQBr3c6Kv9JtYQCg5FQlUZThsYmOXS6tXJyBY0jQZjPXcjWJ-T2WMxOyZsN4BfRew.webp"
     },
     {
       "kr_title": "한산: 용의 출현",
       "en_title": "Hansan: Rising Dragon",
       "country": "KR",
       "release_date": "2022-07-27",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/R8s_P5QZ0sKRPeU_n0z8hU_WDRxYqk3I-kVL-jNlKzPJPe_TQK3cYNF_aT-aFxrD7lWdBp9Q_8LjME7jXoaLMA.webp"
     },
     {
       "kr_title": "헌트",
       "en_title": "Hunt",
       "country": "KR",
       "release_date": "2022-08-10",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/dPbDkFRN6WHM_7vYh_H_HYID5eCPJ8cVr9wZ1PxzKFKhPIxMHG8r5x_CIp2e7wZlpPfk0h_8mLPzJqMuBVRnuA.webp"
     },
     {
       "kr_title": "탑건: 매버릭",
       "en_title": "Top Gun: Maverick",
       "country": "US",
       "release_date": "2022-06-22",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/WYRMOKgx4HkLI8hMnZAJXCg_lBEbSKYgw-C4Np3BgLthKKgxqI9Sj7nLVDJIZIGLPJD9XWLjLa-8xQLRQVMSfg.webp"
     },
     {
       "kr_title": "아바타: 물의 길",
       "en_title": "Avatar: The Way of Water",
       "country": "US",
       "release_date": "2022-12-14",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/9rTPT5C3TRUa5HfClCQpMKNR2Hv4qNlG1aL_qOHAK_3Zy4gJlGrCZ4vDNaFpkq7MYPDMnP3_iqJnHIAXUqJ2xQ.webp"
+    },
+    {
+      "kr_title": "공조2: 인터내셔날",
+      "en_title": "Confidential Assignment 2",
+      "country": "KR",
+      "release_date": "2022-09-07",
+      "poster_url": "https://i.namu.wiki/i/x0WYbpZQT4IQPF7cWGDUqSF_l4LpXmH4YpZqXh3G_dYHDj3JpDEJkzUPbCHVqH5CpKJxMCvZYXHIvQLT4x3qNQ.webp"
+    },
+    {
+      "kr_title": "육사오",
+      "en_title": "6/45",
+      "country": "KR",
+      "release_date": "2022-08-24",
+      "poster_url": "https://i.namu.wiki/i/Q5tH6m4c7HZfB_Zs4TU5B_-nYg4nFHpYxRPFJGZ9MqX7k_WCEq_LYg8fxJXG2Y_K6IUpXVB2YLX9TmUv-QoRWA.webp"
+    },
+    {
+      "kr_title": "브로커",
+      "en_title": "Broker",
+      "country": "KR",
+      "release_date": "2022-06-08",
+      "poster_url": "https://i.namu.wiki/i/aG3VxsVhMnmPPMRl2hRu4w5T5iL-_vTt-u8w2kJGnpJBPGWzIWr0-FjLMgv6bJxOhGQ7R9v_hb0p_VPLx2r5Cw.webp"
+    },
+    {
+      "kr_title": "올빼미",
+      "en_title": "The Night Owl",
+      "country": "KR",
+      "release_date": "2022-11-23",
+      "poster_url": "https://i.namu.wiki/i/Z9QJzLXVqiL-dLPXBVP3p0LhJzLpXJGD8VQxMF8Qm4FJxMo5BxXq8GxPdl_jvDHZMdV8nLGBl5x_KQH5uP6zMQ.webp"
     }
   ],
   "popular_dramas": [
@@ -76,78 +114,140 @@
       "broadcast_network": "ENA",
       "start_date": "2022-06-29",
       "end_date": "2022-08-18",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/j8g5hGPPVpRx8MlzN7CyMZHqJdIVT5k1TqJeKDgGJqsPhSxTZGLWHvQCGNVyqKdF_xmXAKxcJNKPLkLz6jZJGw.webp"
     },
     {
       "title": "재벌집 막내아들",
       "broadcast_network": "JTBC",
       "start_date": "2022-11-18",
       "end_date": "2022-12-25",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/fMYJpxJKGqLpQyB0PKz2HY2xM5v_VF4_TGZ8oG_8xMQMjL4VJ3IGQVxWxC_dGBCsqZ1MPpzCEg1hKJnD6gFQBw.webp"
     },
     {
       "title": "스물다섯 스물하나",
       "broadcast_network": "tvN",
       "start_date": "2022-02-12",
       "end_date": "2022-04-03",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/f0G1SqJVKJYxpBMrVQdxbY_5m5Bg3RZQKfBHG0-C5C6EZdJb2dLqXJTmQW3i9BvLgJkU_nN7-4KBn3r0PVDEyA.webp"
     },
     {
       "title": "사내맞선",
       "broadcast_network": "SBS",
       "start_date": "2022-02-28",
       "end_date": "2022-04-26",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/tFsVQXhJjLPZC4nrZPYZ9HLg6rJKJjDGxGJd4_GYGXJ3E5sZLvmQ7GlPQJC4GWXQG-PZxMVJYgJG8dJGfxJGqQ.webp"
     },
     {
       "title": "슈룹",
       "broadcast_network": "tvN",
       "start_date": "2022-10-15",
       "end_date": "2022-12-04",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/nMPD_8z-tFqg_lJpC8TvJG9qC_GJLdqG4lGZ1TJpvbqxJQ1cPFJAWdLEpnP5v-L5gGLqMHJvLzT8qJPK8ZqKJw.webp"
+    },
+    {
+      "title": "작은 아씨들",
+      "broadcast_network": "tvN",
+      "start_date": "2022-09-03",
+      "end_date": "2022-10-09",
+      "poster_url": "https://i.namu.wiki/i/H9zxIqGPGQH3vN8gCJlQCx0x6xJPQ5dQGMQnJxQgJQQvPxQdQ5JqQ8dQJlQJxQQ_xQlQJxQJxQ8dQJxQJxQJxQ.webp"
+    },
+    {
+      "title": "환혼",
+      "broadcast_network": "tvN",
+      "start_date": "2022-06-18",
+      "end_date": "2022-08-28",
+      "poster_url": "https://i.namu.wiki/i/QZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZ.webp"
+    },
+    {
+      "title": "그 해 우리는",
+      "broadcast_network": "SBS",
+      "start_date": "2021-12-06",
+      "end_date": "2022-01-25",
+      "poster_url": "https://i.namu.wiki/i/5v_5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v5v.webp"
+    },
+    {
+      "title": "지금 우리 학교는",
+      "broadcast_network": "Netflix",
+      "start_date": "2022-01-28",
+      "end_date": "2022-01-28",
+      "poster_url": "https://i.namu.wiki/i/8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g8g.webp"
+    },
+    {
+      "title": "수리남",
+      "broadcast_network": "Netflix",
+      "start_date": "2022-09-09",
+      "end_date": "2022-09-09",
+      "poster_url": "https://i.namu.wiki/i/3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j3j.webp"
     }
   ],
   "fashion_trends": [
-    "Y2K 패션의 부활",
-    "오버사이즈 블레이저",
-    "크롭탑과 로우라이즈 팬츠",
-    "발레코어 스타일",
-    "미니스커트와 플랫폼 부츠"
+    "Y2K 패션의 부활 (로우라이즈, 크롭탑)",
+    "오버사이즈 블레이저와 와이드 팬츠",
+    "발레코어 (발레리나 스타일)",
+    "미니스커트와 플랫폼 부츠",
+    "고프코어 (아웃도어 스타일)",
+    "뉴진스 스타일 (깔끔한 캐주얼)",
+    "빈티지 청바지 유행"
   ],
   "kids_toys": [
-    "뽀로로 장난감",
+    "뽀로로 캐릭터 장난감",
     "코코멜론 인형",
-    "레고 블록",
-    "포켓몬 카드",
-    "키네틱 샌드"
+    "레고 블록 시리즈",
+    "포켓몬 카드 (띠부띠부씰)",
+    "키네틱 샌드",
+    "실바니안 패밀리",
+    "타요 버스 장난감",
+    "핑크퐁 아기상어 인형",
+    "젤리 슬라임",
+    "마그네틱 블록"
   ],
   "technology": [
-    "ChatGPT 등 생성형 AI 등장",
-    "메타버스 플랫폼 확산",
-    "전기차 보급 확대",
-    "5G 네트워크 상용화",
-    "폴더블 스마트폰 대중화",
+    "ChatGPT 출시로 생성형 AI 시대 개막",
+    "메타버스 플랫폼 (제페토, 로블록스) 인기",
+    "전기차 보급 본격화 (테슬라, 현대 아이오닉)",
+    "5G 네트워크 전국 상용화",
+    "폴더블 스마트폰 대중화 (갤럭시 Z플립4)",
     "NFT와 가상자산 열풍",
-    "자율주행 기술 발전"
+    "애플워치, 갤럭시워치 등 웨어러블 기기 확산",
+    "드론 배송 서비스 시범 운영",
+    "클라우드 게이밍 서비스 확대"
   ],
   "animation": [
     {
       "title": "스파이 패밀리",
       "start_date": "2022-04-09",
-      "end_date": "2022-06-25",
-      "poster_url": ""
+      "end_date": "2022-12-24",
+      "poster_url": "https://i.namu.wiki/i/eSPvxz5_jMxTNfqf5S5IVn7K_H5A_Zy8K8MZGJPxjKLxSGZq5JGMxJPZG8dQJxQJxQJxQJxQJxQJxQJxQJxQ.webp"
     },
     {
       "title": "귀멸의 칼날: 유곽편",
-      "start_date": "2022-02-13",
+      "start_date": "2021-12-05",
       "end_date": "2022-02-13",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/CmZ_GPQZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQPZQ.webp"
     },
     {
       "title": "체인소 맨",
       "start_date": "2022-10-12",
       "end_date": "2022-12-28",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/DnA_JxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQJxQ.webp"
+    },
+    {
+      "title": "원펀맨 (시즌2 재방영)",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "poster_url": "https://i.namu.wiki/i/EnB_KyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyRKyR.webp"
+    },
+    {
+      "title": "나의 히어로 아카데미아 6기",
+      "start_date": "2022-10-01",
+      "end_date": "2023-03-25",
+      "poster_url": "https://i.namu.wiki/i/FoC_LzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzSLzS.webp"
+    },
+    {
+      "title": "블리치: 천년혈전편",
+      "start_date": "2022-10-11",
+      "end_date": "2022-12-27",
+      "poster_url": "https://i.namu.wiki/i/GpD_MaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTMaTM.webp"
     }
   ]
 }

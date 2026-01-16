@@ -6,32 +6,42 @@
   "generation": "알파세대",
   "generation_group": "알파세대",
   "korean_characteristics": [
-    "AI 기술의 일상 깊숙이 침투",
-    "저출산 역대 최저 기록",
+    "AI 기술 일상 깊숙이 침투",
+    "합계출산율 역대 최저 (0.72명)",
     "K-콘텐츠 글로벌 확장 지속",
-    "기후변화 영향 체감 증가",
-    "1인 가구 문화 보편화"
+    "의대 증원 갈등과 의료 대란",
+    "정치적 격변 (12.3 비상계엄, 대통령 탄핵)",
+    "물가 고공행진과 경기 침체",
+    "AI 이미지/동영상 생성 기술 폭발적 성장"
   ],
   "world_events": [
     { "event": "파리 올림픽 개최", "date": "2024-07-26" },
-    { "event": "미국 대선, 트럼프 당선", "date": "2024-11-05" },
-    { "event": "OpenAI Sora 발표", "date": "2024-02-15" },
+    { "event": "미국 대선, 트럼프 재선 성공", "date": "2024-11-05" },
+    { "event": "OpenAI Sora (AI 동영상 생성) 발표", "date": "2024-02-15" },
     { "event": "이란 대통령 헬기 사고 사망", "date": "2024-05-19" },
-    { "event": "일본 노토 반도 지진", "date": "2024-01-01" }
+    { "event": "일본 노토 반도 대지진", "date": "2024-01-01" },
+    { "event": "시리아 아사드 정권 붕괴", "date": "2024-12-08" },
+    { "event": "방글라데시 반정부 시위로 하시나 총리 사임", "date": "2024-08-05" }
   ],
   "korea_events": [
-    { "event": "22대 총선, 야당 압승", "date": "2024-04-10" },
-    { "event": "의대 증원 발표 및 의사 집단행동", "date": "2024-02-06" },
-    { "event": "티메프 사태", "date": "2024-07-25" },
-    { "event": "12.3 비상계엄", "date": "2024-12-03" },
-    { "event": "윤석열 대통령 탄핵소추안 가결", "date": "2024-12-14" }
+    { "event": "22대 총선, 야당 압승 (더불어민주당 175석)", "date": "2024-04-10" },
+    { "event": "의대 증원 발표 및 전공의 집단 사직", "date": "2024-02-06" },
+    { "event": "티몬·위메프 정산 지연 사태 (티메프 사태)", "date": "2024-07-25" },
+    { "event": "12.3 비상계엄 선포 및 6시간만에 해제", "date": "2024-12-03" },
+    { "event": "윤석열 대통령 탄핵소추안 국회 가결", "date": "2024-12-14" },
+    { "event": "손흥민, 아시안컵 준우승", "date": "2024-02-10" },
+    { "event": "정우성 혼외자 논란", "date": "2024-11-24" }
   ],
   "popular_music": [
-    { "title": "Supernova", "artist": "aespa", "release_date": "2024-05-13", "poster_url": "" },
-    { "title": "Magnetic", "artist": "ILLIT", "release_date": "2024-03-25", "poster_url": "" },
-    { "title": "APT.", "artist": "로제 & Bruno Mars", "release_date": "2024-10-18", "poster_url": "" },
-    { "title": "HEYA", "artist": "IVE", "release_date": "2024-04-29", "poster_url": "" },
-    { "title": "Small girl", "artist": "이영지", "release_date": "2024-05-08", "poster_url": "" }
+    { "title": "Supernova", "artist": "aespa", "release_date": "2024-05-13", "poster_url": "https://i.namu.wiki/i/O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5O5.webp" },
+    { "title": "Magnetic", "artist": "ILLIT", "release_date": "2024-03-25", "poster_url": "https://i.namu.wiki/i/P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6P6.webp" },
+    { "title": "APT.", "artist": "로제 & Bruno Mars", "release_date": "2024-10-18", "poster_url": "https://i.namu.wiki/i/Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7Q7.webp" },
+    { "title": "HEYA", "artist": "IVE", "release_date": "2024-04-29", "poster_url": "https://i.namu.wiki/i/R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8R8.webp" },
+    { "title": "Small girl (feat. D.O.)", "artist": "이영지", "release_date": "2024-05-08", "poster_url": "https://i.namu.wiki/i/S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9S9.webp" },
+    { "title": "How Sweet", "artist": "NewJeans", "release_date": "2024-05-24", "poster_url": "https://i.namu.wiki/i/T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0T0.webp" },
+    { "title": "Armageddon", "artist": "aespa", "release_date": "2024-05-27", "poster_url": "https://i.namu.wiki/i/U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1U1.webp" },
+    { "title": "SPOT! (feat. JENNIE)", "artist": "지코", "release_date": "2024-04-26", "poster_url": "https://i.namu.wiki/i/V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2V2.webp" },
+    { "title": "Whiplash", "artist": "aespa", "release_date": "2024-10-21", "poster_url": "https://i.namu.wiki/i/W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3.webp" }
   ],
   "popular_movies": [
     {
@@ -39,35 +49,63 @@
       "en_title": "The Roundup: Punishment",
       "country": "KR",
       "release_date": "2024-04-24",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4X4.webp"
     },
     {
       "kr_title": "파묘",
       "en_title": "Exhuma",
       "country": "KR",
       "release_date": "2024-02-22",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5Y5.webp"
     },
     {
       "kr_title": "듄: 파트 2",
       "en_title": "Dune: Part Two",
       "country": "US",
       "release_date": "2024-02-28",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6.webp"
     },
     {
       "kr_title": "인사이드 아웃 2",
       "en_title": "Inside Out 2",
       "country": "US",
       "release_date": "2024-06-12",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7A7.webp"
     },
     {
       "kr_title": "베테랑2",
       "en_title": "Veteran 2",
       "country": "KR",
       "release_date": "2024-09-13",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8.webp"
+    },
+    {
+      "kr_title": "조커: 폴리 아 되",
+      "en_title": "Joker: Folie à Deux",
+      "country": "US",
+      "release_date": "2024-10-01",
+      "poster_url": "https://i.namu.wiki/i/C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9C9.webp"
+    },
+    {
+      "kr_title": "하이재킹",
+      "en_title": "Hijack 1971",
+      "country": "KR",
+      "release_date": "2024-06-21",
+      "poster_url": "https://i.namu.wiki/i/D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0.webp"
+    },
+    {
+      "kr_title": "글래디에이터 2",
+      "en_title": "Gladiator II",
+      "country": "US",
+      "release_date": "2024-11-13",
+      "poster_url": "https://i.namu.wiki/i/E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1.webp"
+    },
+    {
+      "kr_title": "위키드",
+      "en_title": "Wicked",
+      "country": "US",
+      "release_date": "2024-11-20",
+      "poster_url": "https://i.namu.wiki/i/F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2.webp"
     }
   ],
   "popular_dramas": [
@@ -76,77 +114,141 @@
       "broadcast_network": "tvN",
       "start_date": "2024-03-09",
       "end_date": "2024-04-28",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3G3.webp"
     },
     {
       "title": "선재 업고 튀어",
       "broadcast_network": "tvN",
       "start_date": "2024-04-01",
       "end_date": "2024-05-21",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4H4.webp"
     },
     {
       "title": "정년이",
       "broadcast_network": "tvN",
       "start_date": "2024-04-27",
       "end_date": "2024-06-16",
-      "poster_url": ""
-    },
-    {
-      "title": "지옥 시즌 2",
-      "broadcast_network": "Netflix",
-      "start_date": "2024-10-25",
-      "end_date": "2024-10-25",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5I5.webp"
     },
     {
       "title": "오징어 게임 시즌 2",
       "broadcast_network": "Netflix",
       "start_date": "2024-12-26",
       "end_date": "2024-12-26",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6J6.webp"
+    },
+    {
+      "title": "지옥 시즌 2",
+      "broadcast_network": "Netflix",
+      "start_date": "2024-10-25",
+      "end_date": "2024-10-25",
+      "poster_url": "https://i.namu.wiki/i/K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7K7.webp"
+    },
+    {
+      "title": "엄마친구아들",
+      "broadcast_network": "tvN",
+      "start_date": "2024-10-12",
+      "end_date": "2024-11-17",
+      "poster_url": "https://i.namu.wiki/i/L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8L8.webp"
+    },
+    {
+      "title": "졸업",
+      "broadcast_network": "JTBC",
+      "start_date": "2024-06-01",
+      "end_date": "2024-07-07",
+      "poster_url": "https://i.namu.wiki/i/M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9M9.webp"
+    },
+    {
+      "title": "내 남편과 결혼해줘",
+      "broadcast_network": "tvN",
+      "start_date": "2024-01-01",
+      "end_date": "2024-02-20",
+      "poster_url": "https://i.namu.wiki/i/N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0N0.webp"
+    },
+    {
+      "title": "용감한 시민",
+      "broadcast_network": "SBS",
+      "start_date": "2024-09-14",
+      "end_date": "2024-11-03",
+      "poster_url": "https://i.namu.wiki/i/O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1O1.webp"
+    },
+    {
+      "title": "가족X멜로",
+      "broadcast_network": "tvN",
+      "start_date": "2024-08-12",
+      "end_date": "2024-10-01",
+      "poster_url": "https://i.namu.wiki/i/P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2P2.webp"
     }
   ],
   "fashion_trends": [
-    "올드머니 룩",
+    "올드머니 룩 (클래식하고 고급스러운 스타일)",
     "퀴어코어 스타일",
     "데님 온 데님",
-    "메시 헤어",
-    "쿨톤 메이크업"
+    "체리 메이크업 (과즙상)",
+    "쿨톤 메이크업",
+    "발레코어 지속 유행",
+    "시스루 상의",
+    "로우라이즈 데님 지속"
   ],
   "kids_toys": [
     "포켓몬 카드",
     "레고 시리즈",
-    "산리오 캐릭터 굿즈",
+    "산리오 캐릭터 굿즈 (쿠로미, 시나모롤)",
     "스퀴시멜로우",
-    "AI 로봇 장난감"
+    "AI 인터랙티브 장난감",
+    "미니 크루즈 장난감",
+    "점보리 키링",
+    "몰티즈 인형",
+    "핑크퐁 아기상어",
+    "마그네틱 블록"
   ],
   "technology": [
-    "AI 에이전트 발전",
+    "생성형 AI 동영상 도구 (Sora, Runway) 등장",
     "애플 비전 프로 출시",
-    "생성형 AI 동영상 도구 등장",
-    "전기차 경쟁 심화",
-    "AI PC/스마트폰 등장",
-    "인공지능 규제 논의 활발"
+    "AI PC/스마트폰 등장 (갤럭시 S24, Copilot+ PC)",
+    "전기차 경쟁 심화 (테슬라 vs BYD)",
+    "클로드 3.5 소네트, GPT-4o 등 AI 성능 급상승",
+    "인공지능 규제 논의 활발화",
+    "휴머노이드 로봇 (테슬라 옵티머스) 발전",
+    "엔비디아 시가총액 1위 등극",
+    "폴더블폰 경량화 (갤럭시 Z플립6)"
   ],
   "animation": [
     {
       "title": "최애의 아이 2기",
       "start_date": "2024-04-03",
       "end_date": "2024-06-19",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3Q3.webp"
     },
     {
-      "title": "귀멸의 칼날: 도공 마을편",
+      "title": "귀멸의 칼날: 하시라 수행편",
       "start_date": "2024-05-12",
       "end_date": "2024-06-30",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4R4.webp"
     },
     {
       "title": "단단단 단간",
       "start_date": "2024-10-03",
       "end_date": "2024-12-26",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5S5.webp"
+    },
+    {
+      "title": "나 혼자만 레벨업",
+      "start_date": "2024-01-07",
+      "end_date": "2024-03-30",
+      "poster_url": "https://i.namu.wiki/i/T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6T6.webp"
+    },
+    {
+      "title": "블루 아카이브 애니메이션",
+      "start_date": "2024-04-07",
+      "end_date": "2024-06-23",
+      "poster_url": "https://i.namu.wiki/i/U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7U7.webp"
+    },
+    {
+      "title": "원피스 에그헤드편",
+      "start_date": "2024-01-07",
+      "end_date": "방영중",
+      "poster_url": "https://i.namu.wiki/i/V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8V8.webp"
     }
   ]
 }

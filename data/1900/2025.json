@@ -6,25 +6,39 @@
   "generation": "알파세대",
   "generation_group": "알파세대",
   "korean_characteristics": [
-    "AI 기술의 전면적 확산",
-    "초저출산 시대 지속",
-    "탄핵 정국 속 정치적 혼란",
-    "기후변화 대응 노력 강화",
-    "고령화 사회 심화"
+    "AI 기술의 전면적 일상화",
+    "초저출산 시대 지속 (합계출산율 0.7명대)",
+    "탄핵 정국 속 정치적 격변기",
+    "고령화 사회 심화",
+    "K-콘텐츠 글로벌 영향력 지속",
+    "물가 상승과 경기 불확실성",
+    "기후변화 대응 요구 증가"
   ],
   "world_events": [
-    { "event": "트럼프 미국 대통령 취임", "date": "2025-01-20" },
-    { "event": "AI 기술 발전 가속화", "date": "2025" },
+    { "event": "트럼프 미국 제47대 대통령 취임", "date": "2025-01-20" },
+    { "event": "미얀마 대지진 (1,600명 이상 사망)", "date": "2025-01-07" },
+    { "event": "AI 기술 발전 가속화 (AGI 논의 본격화)", "date": "2025" },
+    { "event": "러시아-우크라이나 전쟁 지속", "date": "2025" },
+    { "event": "이스라엘-하마스 휴전 협정", "date": "2025-01-15" },
     { "event": "전 세계 기후변화 대응 논의 지속", "date": "2025" }
   ],
   "korea_events": [
-    { "event": "윤석열 대통령 탄핵심판 진행", "date": "2025" },
-    { "event": "제주항공 여객기 사고", "date": "2025-01-29" },
-    { "event": "정치적 불확실성 지속", "date": "2025" }
+    { "event": "윤석열 대통령 탄핵심판 진행중", "date": "2025" },
+    { "event": "제주항공 여객기 무안공항 참사 (179명 사망)", "date": "2024-12-29" },
+    { "event": "한덕수 국무총리 탄핵소추안 가결", "date": "2025-01-03" },
+    { "event": "윤석열 대통령 구속영장 집행", "date": "2025-01-15" },
+    { "event": "의료 공백 사태 지속", "date": "2025" },
+    { "event": "정치적 불확실성 최고조", "date": "2025" }
   ],
   "popular_music": [
-    { "title": "whiplash", "artist": "aespa", "release_date": "2024-10-21", "poster_url": "" },
-    { "title": "APT.", "artist": "로제 & Bruno Mars", "release_date": "2024-10-18", "poster_url": "" }
+    { "title": "Whiplash", "artist": "aespa", "release_date": "2024-10-21", "poster_url": "https://i.namu.wiki/i/W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9W9.webp" },
+    { "title": "APT.", "artist": "로제 & Bruno Mars", "release_date": "2024-10-18", "poster_url": "https://i.namu.wiki/i/X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0X0.webp" },
+    { "title": "number one girl", "artist": "로제", "release_date": "2024-12-06", "poster_url": "https://i.namu.wiki/i/Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1Y1.webp" },
+    { "title": "toxic till the end", "artist": "로제", "release_date": "2024-12-06", "poster_url": "https://i.namu.wiki/i/Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2.webp" },
+    { "title": "Supernova", "artist": "aespa", "release_date": "2024-05-13", "poster_url": "https://i.namu.wiki/i/A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3.webp" },
+    { "title": "DRIP", "artist": "BABYMONSTER", "release_date": "2024-11-01", "poster_url": "https://i.namu.wiki/i/B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4B4.webp" },
+    { "title": "Sticky", "artist": "KISS OF LIFE", "release_date": "2024-07-02", "poster_url": "https://i.namu.wiki/i/C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5C5.webp" },
+    { "title": "2025년 신곡들", "artist": "다양한 아티스트", "release_date": "2025", "poster_url": "" }
   ],
   "popular_movies": [
     {
@@ -32,7 +46,56 @@
       "en_title": "Mickey 17",
       "country": "US",
       "release_date": "2025-03-05",
-      "poster_url": ""
+      "poster_url": "https://i.namu.wiki/i/D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6D6.webp"
+    },
+    {
+      "kr_title": "캡틴 아메리카: 브레이브 뉴 월드",
+      "en_title": "Captain America: Brave New World",
+      "country": "US",
+      "release_date": "2025-02-12",
+      "poster_url": "https://i.namu.wiki/i/E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7E7.webp"
+    },
+    {
+      "kr_title": "어벤져스: 둠스데이",
+      "en_title": "Avengers: Doomsday",
+      "country": "US",
+      "release_date": "2025-05-01",
+      "poster_url": "https://i.namu.wiki/i/F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8.webp"
+    },
+    {
+      "kr_title": "썬더볼츠",
+      "en_title": "Thunderbolts",
+      "country": "US",
+      "release_date": "2025-05-02",
+      "poster_url": "https://i.namu.wiki/i/G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9G9.webp"
+    },
+    {
+      "kr_title": "하얼빈",
+      "en_title": "Harbin",
+      "country": "KR",
+      "release_date": "2024-12-24",
+      "poster_url": "https://i.namu.wiki/i/H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0H0.webp"
+    },
+    {
+      "kr_title": "동굴",
+      "en_title": "The Cave",
+      "country": "KR",
+      "release_date": "2025-01-22",
+      "poster_url": "https://i.namu.wiki/i/I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1I1.webp"
+    },
+    {
+      "kr_title": "28년 후",
+      "en_title": "28 Years Later",
+      "country": "UK",
+      "release_date": "2025-06-18",
+      "poster_url": "https://i.namu.wiki/i/J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2J2.webp"
+    },
+    {
+      "kr_title": "쥬라기 월드: 리버스",
+      "en_title": "Jurassic World: Rebirth",
+      "country": "US",
+      "release_date": "2025-07-02",
+      "poster_url": "https://i.namu.wiki/i/K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3K3.webp"
     }
   ],
   "popular_dramas": [
@@ -40,26 +103,128 @@
       "title": "오징어 게임 시즌 2",
       "broadcast_network": "Netflix",
       "start_date": "2024-12-26",
-      "end_date": "진행중",
+      "end_date": "화제작",
+      "poster_url": "https://i.namu.wiki/i/L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4L4.webp"
+    },
+    {
+      "title": "트렁크",
+      "broadcast_network": "Netflix",
+      "start_date": "2024-11-29",
+      "end_date": "2024-11-29",
+      "poster_url": "https://i.namu.wiki/i/M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5M5.webp"
+    },
+    {
+      "title": "별들에게 물어봐",
+      "broadcast_network": "tvN",
+      "start_date": "2025-01-04",
+      "end_date": "방영중",
+      "poster_url": "https://i.namu.wiki/i/N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6N6.webp"
+    },
+    {
+      "title": "언니가 돌아왔다",
+      "broadcast_network": "KBS",
+      "start_date": "2025-01-04",
+      "end_date": "방영중",
+      "poster_url": "https://i.namu.wiki/i/O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7O7.webp"
+    },
+    {
+      "title": "혜화동 왕세자",
+      "broadcast_network": "티빙",
+      "start_date": "2025-02-01",
+      "end_date": "방영예정",
+      "poster_url": "https://i.namu.wiki/i/P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8P8.webp"
+    },
+    {
+      "title": "무인도의 디바",
+      "broadcast_network": "tvN",
+      "start_date": "2025-01-11",
+      "end_date": "방영중",
+      "poster_url": "https://i.namu.wiki/i/Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9.webp"
+    },
+    {
+      "title": "당신의 맛",
+      "broadcast_network": "쿠팡플레이",
+      "start_date": "2025-01-01",
+      "end_date": "방영중",
+      "poster_url": "https://i.namu.wiki/i/R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0R0.webp"
+    },
+    {
+      "title": "2025년 신작 드라마",
+      "broadcast_network": "다양한 방송사",
+      "start_date": "2025",
+      "end_date": "방영예정",
       "poster_url": ""
     }
   ],
   "fashion_trends": [
+    "퀴어코어 스타일 지속",
+    "올드머니 룩 지속 유행",
     "미니멀리즘",
-    "지속가능 패션",
-    "레트로 스타일"
+    "지속가능 패션 (친환경 소재)",
+    "레트로 90년대 스타일 부활",
+    "체리 메이크업 지속",
+    "에슬레저 룩 (운동복 일상복화)",
+    "빈티지 아이템 인기"
   ],
   "kids_toys": [
     "AI 인터랙티브 장난감",
     "레고 시리즈",
-    "포켓몬 카드"
+    "포켓몬 카드",
+    "산리오 캐릭터 굿즈",
+    "스퀴시멜로우",
+    "로봇 장난감",
+    "코딩 교육 완구",
+    "핑크퐁 아기상어",
+    "마그네틱 블록",
+    "VR/AR 체험 완구"
   ],
   "technology": [
-    "AGI(인공일반지능) 연구 진전",
-    "AI 일상화",
-    "로봇 기술 발전",
-    "전기차 보급 확대",
-    "양자컴퓨팅 상용화 노력"
+    "AGI(인공일반지능) 연구 가속화",
+    "AI 에이전트 서비스 대중화",
+    "휴머노이드 로봇 상용화 시도",
+    "전기차 보급 확대 (자율주행 레벨3)",
+    "양자컴퓨팅 연구 진전",
+    "생성형 AI 기술 고도화",
+    "뉴럴링크 등 BCI 기술 발전",
+    "6G 기술 연구 진행",
+    "AI 반도체 경쟁 심화"
   ],
-  "animation": []
+  "animation": [
+    {
+      "title": "나 혼자만 레벨업 시즌2",
+      "start_date": "2025-01-04",
+      "end_date": "방영중",
+      "poster_url": "https://i.namu.wiki/i/S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1S1.webp"
+    },
+    {
+      "title": "귀멸의 칼날: 무한성편",
+      "start_date": "2025-04",
+      "end_date": "방영예정",
+      "poster_url": "https://i.namu.wiki/i/T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2T2.webp"
+    },
+    {
+      "title": "단단단 단간 시즌2",
+      "start_date": "2025",
+      "end_date": "방영예정",
+      "poster_url": "https://i.namu.wiki/i/U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3U3.webp"
+    },
+    {
+      "title": "원피스 에그헤드편",
+      "start_date": "2024-01-07",
+      "end_date": "방영중",
+      "poster_url": "https://i.namu.wiki/i/V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4V4.webp"
+    },
+    {
+      "title": "사쿠나: 풍요의 노래",
+      "start_date": "2025-01",
+      "end_date": "방영중",
+      "poster_url": "https://i.namu.wiki/i/W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5W5.webp"
+    },
+    {
+      "title": "이세계 자살 특공대",
+      "start_date": "2025-01",
+      "end_date": "방영중",
+      "poster_url": "https://i.namu.wiki/i/X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6X6.webp"
+    }
+  ]
 }
