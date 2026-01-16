@@ -1,123 +1,174 @@
 {
-    "year": 2015,
-    "korean_age": 14,
-    "international_age": 13,
-    "zodiac": "양띠",
-    "generation": "Z세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "모바일 인터넷의 완전한 보급",
-      "스마트폰 사용이 일상화",
-      "온라인 쇼핑과 배달 문화 확산",
-      "인스타그램, 유튜브 등의 SNS 인프라 확장",
-      "디지털 콘텐츠의 소비 증가"
-    ],
-    "world_events": [
-      { "event": "파리 기후 협약 체결", "date": "2015-12-12" },
-      { "event": "ISIS 파리 테러", "date": "2015-11-13" },
-      { "event": "중국, 첫 항모 '랴오닝' 취역", "date": "2015-09-25" },
-      { "event": "미국, 금리 0.25% 인상", "date": "2015-12-16" },
-      { "event": "아프리카에서 에볼라 확산 종료 선언", "date": "2015-12-29" }
-    ],
-    "korea_events": [
-      { "event": "세월호 참사 1주기 추모", "date": "2015-04-16" },
-      { "event": "박근혜 대통령, 한일 위안부 합의 발표", "date": "2015-12-28" },
-      { "event": "메르스 발병", "date": "2015-05-20" },
-      { "event": "일본, 한국인 대상 비자 면제 시행", "date": "2015-11-01" }
-    ],
-    "popular_music": [
-      { "title": "Cheer Up", "artist": "TWICE", "release_date": "2015-04-25", "poster_url": "" },
-      { "title": "I Need U", "artist": "BTS", "release_date": "2015-04-29", "poster_url": "" },
-      { "title": "Bad Blood", "artist": "Taylor Swift", "release_date": "2015-05-17", "poster_url": "" },
-      { "title": "Hello", "artist": "Adele", "release_date": "2015-10-23", "poster_url": "" },
-      { "title": "Lion Heart", "artist": "Girls' Generation", "release_date": "2015-08-18", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "암살",
-        "en_title": "Assassination",
-        "country": "KR",
-        "release_date": "2015-07-22",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "국제시장",
-        "en_title": "Oasis",
-        "country": "KR",
-        "release_date": "2015-12-17",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "스타워즈: 깨어난 포스",
-        "en_title": "Star Wars: The Force Awakens",
-        "country": "US",
-        "release_date": "2015-12-18",
-        "poster_url": ""
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "응답하라 1988",
-        "broadcast_network": "tvN",
-        "start_date": "2015-11-06",
-        "end_date": "2016-01-16",
-        "poster_url": ""
-      },
-      {
-        "title": "디어 마이 프렌즈",
-        "broadcast_network": "tvN",
-        "start_date": "2016-05-13",
-        "end_date": "2016-07-09",
-        "poster_url": ""
-      },
-      {
-        "title": "별에서 온 그대",
-        "broadcast_network": "SBS",
-        "start_date": "2013-12-18",
-        "end_date": "2014-02-27",
-        "poster_url": ""
-      }
-    ],
-    "fashion_trends": [
-      "레트로 트렌드와 빈티지 패션의 부활",
-      "체크무늬와 타탄 체크 패턴 유행",
-      "스포티한 의상과 운동화 스타일의 인기",
-      "청바지와 상의의 레이어드 스타일",
-      "롱코트와 패딩을 활용한 보온 스타일"
-    ],
-    "kids_toys": [
-      "헬로 카봇",
-      "레고",
-      "닌텐도 3DS",
-      "아이언맨 마스크",
-      "큐브토이"
-    ],
-    "technology": [
-      "스마트폰과 태블릿 사용의 보편화",
-      "모바일 앱과 게임의 활성화",
-      "디지털 컨텐츠 소비 증가",
-      "드론과 자율주행차 기술 발전",
-      "가상 현실(VR) 기술의 실험적 사용"
-    ],
-    "animation": [
-      {
-        "title": "라바 시즌4",
-        "start_date": "2015-04-01",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "헬로 카봇",
-        "start_date": "2015-01-01",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "뽀로로와 크롱의 음악 여행",
-        "start_date": "2015-12-25",
-        "end_date": null,
-        "poster_url": ""
-      }
-    ]
-  }
-  
+  "year": 2015,
+  "korean_age": 12,
+  "international_age": 11,
+  "zodiac": "양띠",
+  "generation": "Z세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "모바일 인터넷의 완전한 보급",
+    "스마트폰 사용이 일상화",
+    "온라인 쇼핑과 배달 문화 확산",
+    "인스타그램, 유튜브 등의 SNS 인프라 확장",
+    "디지털 콘텐츠의 소비 증가"
+  ],
+  "world_events": [
+    {
+      "event": "파리 기후 협약 체결",
+      "date": "2015-12-12"
+    },
+    {
+      "event": "ISIS 파리 테러",
+      "date": "2015-11-13"
+    },
+    {
+      "event": "중국, 첫 항모 '랴오닝' 취역",
+      "date": "2015-09-25"
+    },
+    {
+      "event": "미국, 금리 0.25% 인상",
+      "date": "2015-12-16"
+    },
+    {
+      "event": "아프리카에서 에볼라 확산 종료 선언",
+      "date": "2015-12-29"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "세월호 참사 1주기 추모",
+      "date": "2015-04-16"
+    },
+    {
+      "event": "박근혜 대통령, 한일 위안부 합의 발표",
+      "date": "2015-12-28"
+    },
+    {
+      "event": "메르스 발병",
+      "date": "2015-05-20"
+    },
+    {
+      "event": "일본, 한국인 대상 비자 면제 시행",
+      "date": "2015-11-01"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "Cheer Up",
+      "artist": "TWICE",
+      "release_date": "2015-04-25",
+      "poster_url": ""
+    },
+    {
+      "title": "I Need U",
+      "artist": "BTS",
+      "release_date": "2015-04-29",
+      "poster_url": ""
+    },
+    {
+      "title": "Bad Blood",
+      "artist": "Taylor Swift",
+      "release_date": "2015-05-17",
+      "poster_url": ""
+    },
+    {
+      "title": "Hello",
+      "artist": "Adele",
+      "release_date": "2015-10-23",
+      "poster_url": ""
+    },
+    {
+      "title": "Lion Heart",
+      "artist": "Girls' Generation",
+      "release_date": "2015-08-18",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "암살",
+      "en_title": "Assassination",
+      "country": "KR",
+      "release_date": "2015-07-22",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "국제시장",
+      "en_title": "Oasis",
+      "country": "KR",
+      "release_date": "2015-12-17",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "스타워즈: 깨어난 포스",
+      "en_title": "Star Wars: The Force Awakens",
+      "country": "US",
+      "release_date": "2015-12-18",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "응답하라 1988",
+      "broadcast_network": "tvN",
+      "start_date": "2015-11-06",
+      "end_date": "2016-01-16",
+      "poster_url": ""
+    },
+    {
+      "title": "디어 마이 프렌즈",
+      "broadcast_network": "tvN",
+      "start_date": "2016-05-13",
+      "end_date": "2016-07-09",
+      "poster_url": ""
+    },
+    {
+      "title": "별에서 온 그대",
+      "broadcast_network": "SBS",
+      "start_date": "2013-12-18",
+      "end_date": "2014-02-27",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "레트로 트렌드와 빈티지 패션의 부활",
+    "체크무늬와 타탄 체크 패턴 유행",
+    "스포티한 의상과 운동화 스타일의 인기",
+    "청바지와 상의의 레이어드 스타일",
+    "롱코트와 패딩을 활용한 보온 스타일"
+  ],
+  "kids_toys": [
+    "헬로 카봇",
+    "레고",
+    "닌텐도 3DS",
+    "아이언맨 마스크",
+    "큐브토이"
+  ],
+  "technology": [
+    "스마트폰과 태블릿 사용의 보편화",
+    "모바일 앱과 게임의 활성화",
+    "디지털 컨텐츠 소비 증가",
+    "드론과 자율주행차 기술 발전",
+    "가상 현실(VR) 기술의 실험적 사용"
+  ],
+  "animation": [
+    {
+      "title": "라바 시즌4",
+      "start_date": "2015-04-01",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "헬로 카봇",
+      "start_date": "2015-01-01",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "뽀로로와 크롱의 음악 여행",
+      "start_date": "2015-12-25",
+      "end_date": null,
+      "poster_url": ""
+    }
+  ]
+}

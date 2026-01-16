@@ -1,138 +1,192 @@
 {
-    "year": 2018,
-    "korean_age": 17,
-    "international_age": 16,
-    "zodiac": "개띠",
-    "generation": "Z세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "디지털화된 사회에 더 익숙하고, 모바일 기기와 SNS 활용도가 더욱 높음",
-      "1인 미디어와 개인화된 콘텐츠 소비",
-      "지속 가능성과 친환경적인 소비에 대한 관심 증대",
-      "온라인 쇼핑과 배달 서비스의 급성장",
-      "이모티콘, GIF, 영상 콘텐츠를 통한 의사소통 선호"
-    ],
-    "world_events": [
-      { "event": "미국, 트럼프와 김정은, 첫 역사적 회담", "date": "2018-06-12" },
-      { "event": "브렉시트 협상 난항", "date": "2018-03-19" },
-      { "event": "파리에서 교황 프란치스코, 세계 종교 간 대화 행사", "date": "2018-05-23" },
-      { "event": "유럽에서 난민 위기 악화", "date": "2018-08-02" },
-      { "event": "영국, 인공지능 기술 활용한 보건의료 시스템 개발", "date": "2018-12-13" }
-    ],
-    "korea_events": [
-      { "event": "평창 동계 올림픽 개최", "date": "2018-02-09" },
-      { "event": "미국과 북한의 정상 회담", "date": "2018-06-12" },
-      { "event": "남북정상회담", "date": "2018-04-27" },
-      { "event": "단통법 시행 5년, 스마트폰 가격 안정화", "date": "2018-10-01" },
-      { "event": "서울시장, 박원순 재선", "date": "2018-06-13" }
-    ],
-    "popular_music": [
-      { "title": "IDOL", "artist": "BTS", "release_date": "2018-08-24", "poster_url": "" },
-      { "title": "Thank U, Next", "artist": "Ariana Grande", "release_date": "2018-11-03", "poster_url": "" },
-      { "title": "Bad Guy", "artist": "Billie Eilish", "release_date": "2018-03-29", "poster_url": "" },
-      { "title": "Havana", "artist": "Camila Cabello", "release_date": "2018-01-12", "poster_url": "" },
-      { "title": "Shallow", "artist": "Lady Gaga, Bradley Cooper", "release_date": "2018-09-27", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "1987",
-        "en_title": "1987: When the Day Comes",
-        "country": "KR",
-        "release_date": "2018-12-27",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "신과함께-인과연",
-        "en_title": "Along with the Gods: The Last 49 Days",
-        "country": "KR",
-        "release_date": "2018-08-01",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "기생충",
-        "en_title": "Parasite",
-        "country": "KR",
-        "release_date": "2018-05-30",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "어벤져스: 인피니티 워",
-        "en_title": "Avengers: Infinity War",
-        "country": "US",
-        "release_date": "2018-04-27",
-        "poster_url": ""
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "미스터 션샤인",
-        "broadcast_network": "tvN",
-        "start_date": "2018-07-07",
-        "end_date": "2018-09-30",
-        "poster_url": ""
-      },
-      {
-        "title": "김비서가 왜 그럴까",
-        "broadcast_network": "tvN",
-        "start_date": "2018-06-06",
-        "end_date": "2018-07-26",
-        "poster_url": ""
-      },
-      {
-        "title": "라이프",
-        "broadcast_network": "tvN",
-        "start_date": "2018-07-23",
-        "end_date": "2018-09-11",
-        "poster_url": ""
-      },
-      {
-        "title": "스카이캐슬",
-        "broadcast_network": "JTBC",
-        "start_date": "2018-11-23",
-        "end_date": "2019-02-09",
-        "poster_url": ""
-      }
-    ],
-    "fashion_trends": [
-      "애슬레저 룩의 유행",
-      "흰색 운동화와 캐주얼 스타일",
-      "오버사이즈 재킷과 넉넉한 핏",
-      "과감한 컬러 믹스",
-      "밀리터리 스타일의 복고풍"
-    ],
-    "kids_toys": [
-      "로보틱 장난감 (예: 레고 부스터)",
-      "피규어와 액션 피규어",
-      "VR 기기와 연동된 게임",
-      "헬로 카봇 시리즈",
-      "닌텐도 스위치와 관련 게임들"
-    ],
-    "technology": [
-      "AI 및 머신러닝 기술의 본격적인 상용화",
-      "5G 통신망의 상용화 준비",
-      "스마트폰 카메라의 기술 혁신",
-      "AR, VR 기기의 활용 증가",
-      "디지털 화폐와 블록체인 기술의 발전"
-    ],
-    "animation": [
-      {
-        "title": "리틀 빅 히어로",
-        "start_date": "2018-02-16",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "도리를 찾아서",
-        "start_date": "2018-06-01",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "신비아파트",
-        "start_date": "2018-07-21",
-        "end_date": null,
-        "poster_url": ""
-      }
-    ]
-  }
-  
+  "year": 2018,
+  "korean_age": 9,
+  "international_age": 8,
+  "zodiac": "개띠",
+  "generation": "Z세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "디지털화된 사회에 더 익숙하고, 모바일 기기와 SNS 활용도가 더욱 높음",
+    "1인 미디어와 개인화된 콘텐츠 소비",
+    "지속 가능성과 친환경적인 소비에 대한 관심 증대",
+    "온라인 쇼핑과 배달 서비스의 급성장",
+    "이모티콘, GIF, 영상 콘텐츠를 통한 의사소통 선호"
+  ],
+  "world_events": [
+    {
+      "event": "미국, 트럼프와 김정은, 첫 역사적 회담",
+      "date": "2018-06-12"
+    },
+    {
+      "event": "브렉시트 협상 난항",
+      "date": "2018-03-19"
+    },
+    {
+      "event": "파리에서 교황 프란치스코, 세계 종교 간 대화 행사",
+      "date": "2018-05-23"
+    },
+    {
+      "event": "유럽에서 난민 위기 악화",
+      "date": "2018-08-02"
+    },
+    {
+      "event": "영국, 인공지능 기술 활용한 보건의료 시스템 개발",
+      "date": "2018-12-13"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "평창 동계 올림픽 개최",
+      "date": "2018-02-09"
+    },
+    {
+      "event": "미국과 북한의 정상 회담",
+      "date": "2018-06-12"
+    },
+    {
+      "event": "남북정상회담",
+      "date": "2018-04-27"
+    },
+    {
+      "event": "단통법 시행 5년, 스마트폰 가격 안정화",
+      "date": "2018-10-01"
+    },
+    {
+      "event": "서울시장, 박원순 재선",
+      "date": "2018-06-13"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "IDOL",
+      "artist": "BTS",
+      "release_date": "2018-08-24",
+      "poster_url": ""
+    },
+    {
+      "title": "Thank U, Next",
+      "artist": "Ariana Grande",
+      "release_date": "2018-11-03",
+      "poster_url": ""
+    },
+    {
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "release_date": "2018-03-29",
+      "poster_url": ""
+    },
+    {
+      "title": "Havana",
+      "artist": "Camila Cabello",
+      "release_date": "2018-01-12",
+      "poster_url": ""
+    },
+    {
+      "title": "Shallow",
+      "artist": "Lady Gaga, Bradley Cooper",
+      "release_date": "2018-09-27",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "1987",
+      "en_title": "1987: When the Day Comes",
+      "country": "KR",
+      "release_date": "2018-12-27",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "신과함께-인과연",
+      "en_title": "Along with the Gods: The Last 49 Days",
+      "country": "KR",
+      "release_date": "2018-08-01",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "기생충",
+      "en_title": "Parasite",
+      "country": "KR",
+      "release_date": "2018-05-30",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "어벤져스: 인피니티 워",
+      "en_title": "Avengers: Infinity War",
+      "country": "US",
+      "release_date": "2018-04-27",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "미스터 션샤인",
+      "broadcast_network": "tvN",
+      "start_date": "2018-07-07",
+      "end_date": "2018-09-30",
+      "poster_url": ""
+    },
+    {
+      "title": "김비서가 왜 그럴까",
+      "broadcast_network": "tvN",
+      "start_date": "2018-06-06",
+      "end_date": "2018-07-26",
+      "poster_url": ""
+    },
+    {
+      "title": "라이프",
+      "broadcast_network": "tvN",
+      "start_date": "2018-07-23",
+      "end_date": "2018-09-11",
+      "poster_url": ""
+    },
+    {
+      "title": "스카이캐슬",
+      "broadcast_network": "JTBC",
+      "start_date": "2018-11-23",
+      "end_date": "2019-02-09",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "애슬레저 룩의 유행",
+    "흰색 운동화와 캐주얼 스타일",
+    "오버사이즈 재킷과 넉넉한 핏",
+    "과감한 컬러 믹스",
+    "밀리터리 스타일의 복고풍"
+  ],
+  "kids_toys": [
+    "로보틱 장난감 (예: 레고 부스터)",
+    "피규어와 액션 피규어",
+    "VR 기기와 연동된 게임",
+    "헬로 카봇 시리즈",
+    "닌텐도 스위치와 관련 게임들"
+  ],
+  "technology": [
+    "AI 및 머신러닝 기술의 본격적인 상용화",
+    "5G 통신망의 상용화 준비",
+    "스마트폰 카메라의 기술 혁신",
+    "AR, VR 기기의 활용 증가",
+    "디지털 화폐와 블록체인 기술의 발전"
+  ],
+  "animation": [
+    {
+      "title": "리틀 빅 히어로",
+      "start_date": "2018-02-16",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "도리를 찾아서",
+      "start_date": "2018-06-01",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "신비아파트",
+      "start_date": "2018-07-21",
+      "end_date": null,
+      "poster_url": ""
+    }
+  ]
+}

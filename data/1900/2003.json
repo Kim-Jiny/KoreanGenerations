@@ -1,116 +1,169 @@
 {
-    "year": 2003,
-    "korean_age": 22,
-    "international_age": 21,
-    "zodiac": "양띠",
-    "generation": "밀레니얼 세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "싸이월드 미니홈피 꾸미기 열풍",
-      "‘일촌’과 ‘파도타기’ 문화",
-      "2G 폴더폰으로 벨소리·배경화면 커스터마이징",
-      "PC방에서 서든어택, 카운터스트라이크",
-      "중고등학생 사이 하이틴 패션 유행",
-      "애니콜, 스카이 등 피쳐폰 광고 기억",
-      "도토리로 음악과 사진 구매하던 시대"
-    ],
-    "world_events": [
-      { "event": "이라크 전쟁 발발", "date": "2003-03-20" },
-      { "event": "유럽연합, 10개국 추가 가입 확정", "date": "2003-04-16" },
-      { "event": "콘코드 여객기 공식 퇴역", "date": "2003-10-24" },
-      { "event": "중국, 유인 우주선 선저우 5호 발사 성공", "date": "2003-10-15" }
-    ],
-    "korea_events": [
-      { "event": "노무현 대통령 취임", "date": "2003-02-25" },
-      { "event": "대구 지하철 화재 참사", "date": "2003-02-18" },
-      { "event": "카드대란 발생", "date": "2003" },
-      { "event": "SARS 위기 대응 강화", "date": "2003" }
-    ],
-    "popular_music": [
-      { "title": "천생연분", "artist": "문희준", "release_date": "2003-01", "poster_url": "" },
-      { "title": "슬픈 인연", "artist": "이수영", "release_date": "2003-03", "poster_url": "" },
-      { "title": "Bounce", "artist": "조성모", "release_date": "2003-04", "poster_url": "" },
-      { "title": "눈의 꽃", "artist": "박효신", "release_date": "2003-11", "poster_url": "" },
-      { "title": "I'm still loving you", "artist": "비", "release_date": "2003-12", "poster_url": "" },
-      { "title": "10 minutes", "artist": "이효리", "release_date": "2003-08", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "실미도",
-        "en_title": "Silmido",
-        "country": "KR",
-        "release_date": "2003-12-24",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/5/57/Silmido_movie.jpg"
-      },
-      {
-        "kr_title": "올드보이",
-        "en_title": "Oldboy",
-        "country": "KR",
-        "release_date": "2003-11-21",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Oldboy_%282003_film%29_poster.jpg"
-      },
-      {
-        "kr_title": "해리 포터와 비밀의 방",
-        "en_title": "Harry Potter and the Chamber of Secrets",
-        "country": "US/UK",
-        "release_date": "2002-11-15 (KR 개봉: 2003-01)",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Harry_Potter_and_the_Chamber_of_Secrets_movie.jpg"
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "올인",
-        "broadcast_network": "SBS",
-        "start_date": "2003-01-15",
-        "end_date": "2003-04-03",
-        "poster_url": "https://i.namu.wiki/i/I0AGhrc6hdL_PwtyEYbFTdcKO1W9JGihxzM6lHTFXu0sVXREvwRwKzrEjDW4vRZtEZ1e4p8tHzxuAf3oME6zqg.webp"
-      },
-      {
-        "title": "다모",
-        "broadcast_network": "MBC",
-        "start_date": "2003-07-28",
-        "end_date": "2003-09-09",
-        "poster_url": "https://i.namu.wiki/i/i8y7PkmOunWjEJyswAOgWocRWKLRngL4T9WyCx0aU-fNH0UE4FHzGFeN4HbQPPWxA0Iat23hRdoYjKzStEk3eQ.webp"
-      }
-    ],
-    "fashion_trends": [
-      "청치마와 레이어드 스타일",
-      "벨트가 강조된 힙합 바지",
-      "오프숄더와 망사스타킹 스타일",
-      "피쉬넷, 메시 스타일 탑",
-      "짧은 점퍼와 웨지힐",
-      "나비핀과 컬러풀 헤어 액세서리"
-    ],
-    "kids_toys": [
-      "클레이 점토와 슬라임",
-      "RC 자동차와 비행기",
-      "포켓몬 카드와 칩",
-      "스티커 앨범 교환",
-      "닌텐도 게임보이 어드밴스",
-      "팽이형 완구와 레고 바이오니클"
-    ],
-    "technology": [
-      "카메라폰 보급 본격화",
-      "MP3 플레이어 대중화 가속",
-      "인터넷 쇼핑몰 급성장",
-      "미니홈피 배경음악 구매 시작",
-      "2G에서 2.5G로의 과도기",
-      "넷북, PDA와 PMP 보급 증가",
-      "디지털 TV 전환 초기"
-    ],
-    "animation": [
-      {
-        "title": "포켓몬스터 AG",
-        "start_date": "2003-11-21",
-        "end_date": "2006-09-14",
-        "poster_url": "https://i.namu.wiki/i/UsnykUlnYzMNx7l-FNzNptt8hCuEDEUumCB9MmK3-Q-eZjXhGfKXMxXspRy4wB3kzYq7cW8P0a2OqNk5uRdnfg.webp"
-      },
-      {
-        "title": "아따맘마",
-        "start_date": "2001-10-29",
-        "end_date": "2009-02-23",
-        "poster_url": "https://i.namu.wiki/i/cmfOEpwiOvPDDpJfA_UaQhF__8kEZ_6gB2VoLnyul9mJPAYDMhQoPGqny5J9AzU8wbZKx7CDz_p2Guc0BheqJQ.webp"
-      }
-    ]
-  }
-  
+  "year": 2003,
+  "korean_age": 24,
+  "international_age": 23,
+  "zodiac": "양띠",
+  "generation": "밀레니얼 세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "싸이월드 미니홈피 꾸미기 열풍",
+    "‘일촌’과 ‘파도타기’ 문화",
+    "2G 폴더폰으로 벨소리·배경화면 커스터마이징",
+    "PC방에서 서든어택, 카운터스트라이크",
+    "중고등학생 사이 하이틴 패션 유행",
+    "애니콜, 스카이 등 피쳐폰 광고 기억",
+    "도토리로 음악과 사진 구매하던 시대"
+  ],
+  "world_events": [
+    {
+      "event": "이라크 전쟁 발발",
+      "date": "2003-03-20"
+    },
+    {
+      "event": "유럽연합, 10개국 추가 가입 확정",
+      "date": "2003-04-16"
+    },
+    {
+      "event": "콘코드 여객기 공식 퇴역",
+      "date": "2003-10-24"
+    },
+    {
+      "event": "중국, 유인 우주선 선저우 5호 발사 성공",
+      "date": "2003-10-15"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "노무현 대통령 취임",
+      "date": "2003-02-25"
+    },
+    {
+      "event": "대구 지하철 화재 참사",
+      "date": "2003-02-18"
+    },
+    {
+      "event": "카드대란 발생",
+      "date": "2003"
+    },
+    {
+      "event": "SARS 위기 대응 강화",
+      "date": "2003"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "천생연분",
+      "artist": "문희준",
+      "release_date": "2003-01",
+      "poster_url": ""
+    },
+    {
+      "title": "슬픈 인연",
+      "artist": "이수영",
+      "release_date": "2003-03",
+      "poster_url": ""
+    },
+    {
+      "title": "Bounce",
+      "artist": "조성모",
+      "release_date": "2003-04",
+      "poster_url": ""
+    },
+    {
+      "title": "눈의 꽃",
+      "artist": "박효신",
+      "release_date": "2003-11",
+      "poster_url": ""
+    },
+    {
+      "title": "I'm still loving you",
+      "artist": "비",
+      "release_date": "2003-12",
+      "poster_url": ""
+    },
+    {
+      "title": "10 minutes",
+      "artist": "이효리",
+      "release_date": "2003-08",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "실미도",
+      "en_title": "Silmido",
+      "country": "KR",
+      "release_date": "2003-12-24",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/5/57/Silmido_movie.jpg"
+    },
+    {
+      "kr_title": "올드보이",
+      "en_title": "Oldboy",
+      "country": "KR",
+      "release_date": "2003-11-21",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Oldboy_%282003_film%29_poster.jpg"
+    },
+    {
+      "kr_title": "해리 포터와 비밀의 방",
+      "en_title": "Harry Potter and the Chamber of Secrets",
+      "country": "US/UK",
+      "release_date": "2002-11-15 (KR 개봉: 2003-01)",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Harry_Potter_and_the_Chamber_of_Secrets_movie.jpg"
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "올인",
+      "broadcast_network": "SBS",
+      "start_date": "2003-01-15",
+      "end_date": "2003-04-03",
+      "poster_url": "https://i.namu.wiki/i/I0AGhrc6hdL_PwtyEYbFTdcKO1W9JGihxzM6lHTFXu0sVXREvwRwKzrEjDW4vRZtEZ1e4p8tHzxuAf3oME6zqg.webp"
+    },
+    {
+      "title": "다모",
+      "broadcast_network": "MBC",
+      "start_date": "2003-07-28",
+      "end_date": "2003-09-09",
+      "poster_url": "https://i.namu.wiki/i/i8y7PkmOunWjEJyswAOgWocRWKLRngL4T9WyCx0aU-fNH0UE4FHzGFeN4HbQPPWxA0Iat23hRdoYjKzStEk3eQ.webp"
+    }
+  ],
+  "fashion_trends": [
+    "청치마와 레이어드 스타일",
+    "벨트가 강조된 힙합 바지",
+    "오프숄더와 망사스타킹 스타일",
+    "피쉬넷, 메시 스타일 탑",
+    "짧은 점퍼와 웨지힐",
+    "나비핀과 컬러풀 헤어 액세서리"
+  ],
+  "kids_toys": [
+    "클레이 점토와 슬라임",
+    "RC 자동차와 비행기",
+    "포켓몬 카드와 칩",
+    "스티커 앨범 교환",
+    "닌텐도 게임보이 어드밴스",
+    "팽이형 완구와 레고 바이오니클"
+  ],
+  "technology": [
+    "카메라폰 보급 본격화",
+    "MP3 플레이어 대중화 가속",
+    "인터넷 쇼핑몰 급성장",
+    "미니홈피 배경음악 구매 시작",
+    "2G에서 2.5G로의 과도기",
+    "넷북, PDA와 PMP 보급 증가",
+    "디지털 TV 전환 초기"
+  ],
+  "animation": [
+    {
+      "title": "포켓몬스터 AG",
+      "start_date": "2003-11-21",
+      "end_date": "2006-09-14",
+      "poster_url": "https://i.namu.wiki/i/UsnykUlnYzMNx7l-FNzNptt8hCuEDEUumCB9MmK3-Q-eZjXhGfKXMxXspRy4wB3kzYq7cW8P0a2OqNk5uRdnfg.webp"
+    },
+    {
+      "title": "아따맘마",
+      "start_date": "2001-10-29",
+      "end_date": "2009-02-23",
+      "poster_url": "https://i.namu.wiki/i/cmfOEpwiOvPDDpJfA_UaQhF__8kEZ_6gB2VoLnyul9mJPAYDMhQoPGqny5J9AzU8wbZKx7CDz_p2Guc0BheqJQ.webp"
+    }
+  ]
+}

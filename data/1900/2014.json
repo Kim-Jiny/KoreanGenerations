@@ -1,123 +1,174 @@
 {
-    "year": 2014,
-    "korean_age": 13,
-    "international_age": 12,
-    "zodiac": "말띠",
-    "generation": "Z세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "스마트폰 사용 증가와 모바일 인터넷 보급",
-      "SNS와 모바일 메신저의 활발한 사용",
-      "한류 콘텐츠의 글로벌 확장",
-      "청년층의 창업 열풍 증가",
-      "온라인 쇼핑의 급성장과 오프라인 쇼핑의 위축"
-    ],
-    "world_events": [
-      { "event": "우크라이나 크림반도 합병", "date": "2014-03-18" },
-      { "event": "말레이시아 항공 370편 실종", "date": "2014-03-08" },
-      { "event": "에볼라 바이러스 발생", "date": "2014-03-01" },
-      { "event": "ISIS, 이라크에서 테러 공격 시작", "date": "2014-06" },
-      { "event": "얼음물 던지기(ALS Ice Bucket Challenge) 캠페인 확산", "date": "2014-07-01" }
-    ],
-    "korea_events": [
-      { "event": "세월호 참사 발생", "date": "2014-04-16" },
-      { "event": "제2차 국가정보화기본계획 발표", "date": "2014-06-25" },
-      { "event": "박근혜 대통령, 한일 위안부 문제 합의 발표", "date": "2014-12-28" },
-      { "event": "장기기증 캠페인 '유나의 기적' 시작", "date": "2014-07-01" }
-    ],
-    "popular_music": [
-      { "title": "The 2nd Mini Album", "artist": "EXO", "release_date": "2014-04-15", "poster_url": "" },
-      { "title": "I Am the Best", "artist": "2NE1", "release_date": "2014-01-01", "poster_url": "" },
-      { "title": "Happy", "artist": "Pharrell Williams", "release_date": "2014-06-26", "poster_url": "" },
-      { "title": "MAMACITA", "artist": "Super Junior", "release_date": "2014-08-29", "poster_url": "" },
-      { "title": "Call Me Baby", "artist": "EXO", "release_date": "2014-03-27", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "명량",
-        "en_title": "The Admiral: Roaring Currents",
-        "country": "KR",
-        "release_date": "2014-07-30",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "인터스텔라",
-        "en_title": "Interstellar",
-        "country": "US",
-        "release_date": "2014-11-06",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "변호인",
-        "en_title": "The Attorney",
-        "country": "KR",
-        "release_date": "2014-12-18",
-        "poster_url": ""
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "피노키오",
-        "broadcast_network": "SBS",
-        "start_date": "2014-10-22",
-        "end_date": "2015-01-15",
-        "poster_url": ""
-      },
-      {
-        "title": "괜찮아, 사랑이야",
-        "broadcast_network": "SBS",
-        "start_date": "2014-07-23",
-        "end_date": "2014-09-11",
-        "poster_url": ""
-      },
-      {
-        "title": "별에서 온 그대",
-        "broadcast_network": "SBS",
-        "start_date": "2013-12-18",
-        "end_date": "2014-02-27",
-        "poster_url": ""
-      }
-    ],
-    "fashion_trends": [
-      "디지털 프린트와 그래픽 티셔츠 유행",
-      "키치한 패턴과 색상 조합",
-      "청바지와 레더 자켓의 믹스 매치",
-      "펑크 스타일과 빈티지 스타일의 융합",
-      "스니커즈와 운동화 스타일의 인기"
-    ],
-    "kids_toys": [
-      "헬로 카봇",
-      "레고",
-      "닌텐도 3DS",
-      "아이언맨 마스크",
-      "큐브토이"
-    ],
-    "technology": [
-      "스마트폰과 태블릿의 보급률 상승",
-      "클라우드 서비스와 빅데이터 기술의 성장",
-      "IoT(사물인터넷) 기술의 발전",
-      "3D 프린터 기술 상용화",
-      "자율주행차 개발이 활발해짐"
-    ],
-    "animation": [
-      {
-        "title": "라바 시즌3",
-        "start_date": "2014-04-01",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "헬로 카봇",
-        "start_date": "2014-01-01",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "뽀로로와 노래하는 세계여행",
-        "start_date": "2014-12-25",
-        "end_date": null,
-        "poster_url": ""
-      }
-    ]
-  }
-  
+  "year": 2014,
+  "korean_age": 13,
+  "international_age": 12,
+  "zodiac": "말띠",
+  "generation": "Z세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "스마트폰 사용 증가와 모바일 인터넷 보급",
+    "SNS와 모바일 메신저의 활발한 사용",
+    "한류 콘텐츠의 글로벌 확장",
+    "청년층의 창업 열풍 증가",
+    "온라인 쇼핑의 급성장과 오프라인 쇼핑의 위축"
+  ],
+  "world_events": [
+    {
+      "event": "우크라이나 크림반도 합병",
+      "date": "2014-03-18"
+    },
+    {
+      "event": "말레이시아 항공 370편 실종",
+      "date": "2014-03-08"
+    },
+    {
+      "event": "에볼라 바이러스 발생",
+      "date": "2014-03-01"
+    },
+    {
+      "event": "ISIS, 이라크에서 테러 공격 시작",
+      "date": "2014-06"
+    },
+    {
+      "event": "얼음물 던지기(ALS Ice Bucket Challenge) 캠페인 확산",
+      "date": "2014-07-01"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "세월호 참사 발생",
+      "date": "2014-04-16"
+    },
+    {
+      "event": "제2차 국가정보화기본계획 발표",
+      "date": "2014-06-25"
+    },
+    {
+      "event": "박근혜 대통령, 한일 위안부 문제 합의 발표",
+      "date": "2014-12-28"
+    },
+    {
+      "event": "장기기증 캠페인 '유나의 기적' 시작",
+      "date": "2014-07-01"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "The 2nd Mini Album",
+      "artist": "EXO",
+      "release_date": "2014-04-15",
+      "poster_url": ""
+    },
+    {
+      "title": "I Am the Best",
+      "artist": "2NE1",
+      "release_date": "2014-01-01",
+      "poster_url": ""
+    },
+    {
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "release_date": "2014-06-26",
+      "poster_url": ""
+    },
+    {
+      "title": "MAMACITA",
+      "artist": "Super Junior",
+      "release_date": "2014-08-29",
+      "poster_url": ""
+    },
+    {
+      "title": "Call Me Baby",
+      "artist": "EXO",
+      "release_date": "2014-03-27",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "명량",
+      "en_title": "The Admiral: Roaring Currents",
+      "country": "KR",
+      "release_date": "2014-07-30",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "인터스텔라",
+      "en_title": "Interstellar",
+      "country": "US",
+      "release_date": "2014-11-06",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "변호인",
+      "en_title": "The Attorney",
+      "country": "KR",
+      "release_date": "2014-12-18",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "피노키오",
+      "broadcast_network": "SBS",
+      "start_date": "2014-10-22",
+      "end_date": "2015-01-15",
+      "poster_url": ""
+    },
+    {
+      "title": "괜찮아, 사랑이야",
+      "broadcast_network": "SBS",
+      "start_date": "2014-07-23",
+      "end_date": "2014-09-11",
+      "poster_url": ""
+    },
+    {
+      "title": "별에서 온 그대",
+      "broadcast_network": "SBS",
+      "start_date": "2013-12-18",
+      "end_date": "2014-02-27",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "디지털 프린트와 그래픽 티셔츠 유행",
+    "키치한 패턴과 색상 조합",
+    "청바지와 레더 자켓의 믹스 매치",
+    "펑크 스타일과 빈티지 스타일의 융합",
+    "스니커즈와 운동화 스타일의 인기"
+  ],
+  "kids_toys": [
+    "헬로 카봇",
+    "레고",
+    "닌텐도 3DS",
+    "아이언맨 마스크",
+    "큐브토이"
+  ],
+  "technology": [
+    "스마트폰과 태블릿의 보급률 상승",
+    "클라우드 서비스와 빅데이터 기술의 성장",
+    "IoT(사물인터넷) 기술의 발전",
+    "3D 프린터 기술 상용화",
+    "자율주행차 개발이 활발해짐"
+  ],
+  "animation": [
+    {
+      "title": "라바 시즌3",
+      "start_date": "2014-04-01",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "헬로 카봇",
+      "start_date": "2014-01-01",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "뽀로로와 노래하는 세계여행",
+      "start_date": "2014-12-25",
+      "end_date": null,
+      "poster_url": ""
+    }
+  ]
+}

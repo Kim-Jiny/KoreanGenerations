@@ -1,0 +1,153 @@
+{
+  "year": 2022,
+  "korean_age": 5,
+  "international_age": 4,
+  "zodiac": "호랑이띠",
+  "generation": "알파세대",
+  "generation_group": "알파세대",
+  "korean_characteristics": [
+    "코로나19 팬데믹 속에서 태어난 세대",
+    "AI와 디지털 기술의 급속한 발전",
+    "비대면 교육과 원격 학습의 일상화",
+    "환경 문제에 대한 사회적 관심 증가",
+    "메타버스와 가상현실 기술의 대중화"
+  ],
+  "world_events": [
+    { "event": "러시아-우크라이나 전쟁 발발", "date": "2022-02-24" },
+    { "event": "영국 엘리자베스 2세 여왕 서거", "date": "2022-09-08" },
+    { "event": "카타르 월드컵 개최", "date": "2022-11-20" },
+    { "event": "일론 머스크, 트위터 인수", "date": "2022-10-27" },
+    { "event": "ChatGPT 출시", "date": "2022-11-30" }
+  ],
+  "korea_events": [
+    { "event": "윤석열 대통령 취임", "date": "2022-05-10" },
+    { "event": "이태원 참사", "date": "2022-10-29" },
+    { "event": "코로나19 사회적 거리두기 전면 해제", "date": "2022-04-18" },
+    { "event": "한국, 카타르 월드컵 16강 진출", "date": "2022-12-02" },
+    { "event": "누리호 2차 발사 성공", "date": "2022-06-21" }
+  ],
+  "popular_music": [
+    { "title": "That That", "artist": "싸이 (feat. 슈가)", "release_date": "2022-04-29", "poster_url": "" },
+    { "title": "LOVE DIVE", "artist": "IVE", "release_date": "2022-04-05", "poster_url": "" },
+    { "title": "After LIKE", "artist": "IVE", "release_date": "2022-08-22", "poster_url": "" },
+    { "title": "Hype Boy", "artist": "NewJeans", "release_date": "2022-08-01", "poster_url": "" },
+    { "title": "Attention", "artist": "NewJeans", "release_date": "2022-08-01", "poster_url": "" }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "범죄도시2",
+      "en_title": "The Roundup",
+      "country": "KR",
+      "release_date": "2022-05-18",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "한산: 용의 출현",
+      "en_title": "Hansan: Rising Dragon",
+      "country": "KR",
+      "release_date": "2022-07-27",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "헌트",
+      "en_title": "Hunt",
+      "country": "KR",
+      "release_date": "2022-08-10",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "탑건: 매버릭",
+      "en_title": "Top Gun: Maverick",
+      "country": "US",
+      "release_date": "2022-06-22",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "아바타: 물의 길",
+      "en_title": "Avatar: The Way of Water",
+      "country": "US",
+      "release_date": "2022-12-14",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "이상한 변호사 우영우",
+      "broadcast_network": "ENA",
+      "start_date": "2022-06-29",
+      "end_date": "2022-08-18",
+      "poster_url": ""
+    },
+    {
+      "title": "재벌집 막내아들",
+      "broadcast_network": "JTBC",
+      "start_date": "2022-11-18",
+      "end_date": "2022-12-25",
+      "poster_url": ""
+    },
+    {
+      "title": "스물다섯 스물하나",
+      "broadcast_network": "tvN",
+      "start_date": "2022-02-12",
+      "end_date": "2022-04-03",
+      "poster_url": ""
+    },
+    {
+      "title": "사내맞선",
+      "broadcast_network": "SBS",
+      "start_date": "2022-02-28",
+      "end_date": "2022-04-26",
+      "poster_url": ""
+    },
+    {
+      "title": "슈룹",
+      "broadcast_network": "tvN",
+      "start_date": "2022-10-15",
+      "end_date": "2022-12-04",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "Y2K 패션의 부활",
+    "오버사이즈 블레이저",
+    "크롭탑과 로우라이즈 팬츠",
+    "발레코어 스타일",
+    "미니스커트와 플랫폼 부츠"
+  ],
+  "kids_toys": [
+    "뽀로로 장난감",
+    "코코멜론 인형",
+    "레고 블록",
+    "포켓몬 카드",
+    "키네틱 샌드"
+  ],
+  "technology": [
+    "ChatGPT 등 생성형 AI 등장",
+    "메타버스 플랫폼 확산",
+    "전기차 보급 확대",
+    "5G 네트워크 상용화",
+    "폴더블 스마트폰 대중화",
+    "NFT와 가상자산 열풍",
+    "자율주행 기술 발전"
+  ],
+  "animation": [
+    {
+      "title": "스파이 패밀리",
+      "start_date": "2022-04-09",
+      "end_date": "2022-06-25",
+      "poster_url": ""
+    },
+    {
+      "title": "귀멸의 칼날: 유곽편",
+      "start_date": "2022-02-13",
+      "end_date": "2022-02-13",
+      "poster_url": ""
+    },
+    {
+      "title": "체인소 맨",
+      "start_date": "2022-10-12",
+      "end_date": "2022-12-28",
+      "poster_url": ""
+    }
+  ]
+}

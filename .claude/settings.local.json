@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for:*)",
+      "Bash(do echo -n \"$f: \")",
+      "Bash(if [ -s \"$f\" ])",
+      "Bash(then python3 -c \"import json; json.load\\(open\\(''$f''\\)\\)\")",
+      "Bash(else echo \"EMPTY\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(do echo \"=== $f ===\")",
+      "Bash(python3:*)"
+    ]
+  }
+}

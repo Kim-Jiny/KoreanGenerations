@@ -1,98 +1,146 @@
 {
-    "year": 1994,
-    "korean_age": 31,
-    "international_age": 30,
-    "zodiac": "개띠",
-    "generation": "Y세대",
-    "generation_group": "밀레니얼 세대",
-    "korean_characteristics": [
-      "IMF 전의 마지막 경제 성장기",
-      "PC방 전성기, '오락실' 문화의 인기를 끌다",
-      "스포츠와 오락이 대중화됨",
-      "MTV와 음악 방송이 큰 인기를 얻음",
-      "홈쇼핑의 초창기 등장",
-      "김영삼 정부 하의 정치적 변화"
-    ],
-    "world_events": [
-      { "event": "넷스케이프 내비게이터 첫 출시", "date": "1994-10-13" },
-      { "event": "플로리다 마이애미에서 구소련 공화국 및 유고슬라비아 해체", "date": "1994" },
-      { "event": "세계 최초의 디지털 카메라 출시", "date": "1994-06-22" },
-      { "event": "1994년 세계컵 (축구 월드컵) 개최", "date": "1994-06-17" }
-    ],
-    "korea_events": [
-      { "event": "한성대회", "date": "1994-07-01" },
-      { "event": "삼풍백화점 붕괴 사고 발생", "date": "1994-06-29" },
-      { "event": "월드컵 대표팀 1994년 월드컵 출전", "date": "1994" },
-      { "event": "선진시스템 도입 (후기경제학적 시점)", "date": "1994" }
-    ],
-    "popular_music": [
-      { "title": "보고싶다", "artist": "김범수", "release_date": "1994-11", "poster_url": "" },
-      { "title": "사랑하기 때문에", "artist": "김종환", "release_date": "1994-03", "poster_url": "" },
-      { "title": "헤어진 다음날", "artist": "김완선", "release_date": "1994-08", "poster_url": "" },
-      { "title": "살아있네", "artist": "이상은", "release_date": "1994-06", "poster_url": "" },
-      { "title": "비 오는 날의 수채화", "artist": "이문세", "release_date": "1994-09", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "터미네이터 2: Judgment Day",
-        "en_title": "Terminator 2: Judgment Day",
-        "country": "US",
-        "release_date": "1994-07-03",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Terminator_2_Judgment_Day_theatrical_poster.jpg/220px-Terminator_2_Judgment_Day_theatrical_poster.jpg"
-      },
-      {
-        "kr_title": "포레스트 검프",
-        "en_title": "Forrest Gump",
-        "country": "US",
-        "release_date": "1994-07-06",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Forrest_Gump_poster.jpg/220px-Forrest_Gump_poster.jpg"
-      },
-      {
-        "kr_title": "라이온 킹",
-        "en_title": "The Lion King",
-        "country": "US",
-        "release_date": "1994-06-24",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/The_Lion_King_%281994_film%29_poster.jpg/220px-The_Lion_King_%281994_film%29_poster.jpg"
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "모래시계",
-        "broadcast_network": "SBS",
-        "start_date": "1994-09-26",
-        "end_date": "1994-12-13",
-        "poster_url": "https://i.namu.wiki/i/evh9QF4ehcxbB0xKsN19d8eO4AsFP35bCIBzwaJ9rGuFJv8hPdE3uqdAgcIaOg3t_54jX_mZTjqWEgSXqfAgAgMS6uXRie0aDaPs5yQ_kWNsiFKJER5mItBwoFKOsGBKQtFuqN7u7xOFYJBTVmpAjA.webp"
-      }
-    ],
-    "fashion_trends": [
-      "스키니진",
-      "밝은 색상의 재킷",
-      "중간길이 블레이저",
-      "롱부츠와 하이탑 운동화",
-      "체크무늬 셔츠",
-      "베레모와 코트"
-    ],
-    "kids_toys": [
-      "슬램덩크 피규어",
-      "배트맨 장난감",
-      "디즈니 캐릭터 인형",
-      "말하는 인형",
-      "카드 게임"
-    ],
-    "technology": [
-      "PC방과 인터넷의 급성장",
-      "인터넷 서비스 제공업체(ISP) 본격화",
-      "모바일 전화기의 대중화",
-      "게임 콘솔의 성능 향상",
-      "디지털 카메라와 DVD 플레이어 인기"
-    ],
-    "animation": [
-      {
-        "title": "피노키오",
-        "start_date": "1994-11-15",
-        "end_date": "1995-01-08",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Pinochio_1994_animated_film.jpg"
-      }
-    ]
-  }
-  
+  "year": 1994,
+  "korean_age": 33,
+  "international_age": 32,
+  "zodiac": "개띠",
+  "generation": "Y세대",
+  "generation_group": "밀레니얼 세대",
+  "korean_characteristics": [
+    "IMF 전의 마지막 경제 성장기",
+    "PC방 전성기, '오락실' 문화의 인기를 끌다",
+    "스포츠와 오락이 대중화됨",
+    "MTV와 음악 방송이 큰 인기를 얻음",
+    "홈쇼핑의 초창기 등장",
+    "김영삼 정부 하의 정치적 변화"
+  ],
+  "world_events": [
+    {
+      "event": "넷스케이프 내비게이터 첫 출시",
+      "date": "1994-10-13"
+    },
+    {
+      "event": "플로리다 마이애미에서 구소련 공화국 및 유고슬라비아 해체",
+      "date": "1994"
+    },
+    {
+      "event": "세계 최초의 디지털 카메라 출시",
+      "date": "1994-06-22"
+    },
+    {
+      "event": "1994년 세계컵 (축구 월드컵) 개최",
+      "date": "1994-06-17"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "한성대회",
+      "date": "1994-07-01"
+    },
+    {
+      "event": "삼풍백화점 붕괴 사고 발생",
+      "date": "1994-06-29"
+    },
+    {
+      "event": "월드컵 대표팀 1994년 월드컵 출전",
+      "date": "1994"
+    },
+    {
+      "event": "선진시스템 도입 (후기경제학적 시점)",
+      "date": "1994"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "보고싶다",
+      "artist": "김범수",
+      "release_date": "1994-11",
+      "poster_url": ""
+    },
+    {
+      "title": "사랑하기 때문에",
+      "artist": "김종환",
+      "release_date": "1994-03",
+      "poster_url": ""
+    },
+    {
+      "title": "헤어진 다음날",
+      "artist": "김완선",
+      "release_date": "1994-08",
+      "poster_url": ""
+    },
+    {
+      "title": "살아있네",
+      "artist": "이상은",
+      "release_date": "1994-06",
+      "poster_url": ""
+    },
+    {
+      "title": "비 오는 날의 수채화",
+      "artist": "이문세",
+      "release_date": "1994-09",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "터미네이터 2: Judgment Day",
+      "en_title": "Terminator 2: Judgment Day",
+      "country": "US",
+      "release_date": "1994-07-03",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Terminator_2_Judgment_Day_theatrical_poster.jpg/220px-Terminator_2_Judgment_Day_theatrical_poster.jpg"
+    },
+    {
+      "kr_title": "포레스트 검프",
+      "en_title": "Forrest Gump",
+      "country": "US",
+      "release_date": "1994-07-06",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Forrest_Gump_poster.jpg/220px-Forrest_Gump_poster.jpg"
+    },
+    {
+      "kr_title": "라이온 킹",
+      "en_title": "The Lion King",
+      "country": "US",
+      "release_date": "1994-06-24",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/The_Lion_King_%281994_film%29_poster.jpg/220px-The_Lion_King_%281994_film%29_poster.jpg"
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "모래시계",
+      "broadcast_network": "SBS",
+      "start_date": "1994-09-26",
+      "end_date": "1994-12-13",
+      "poster_url": "https://i.namu.wiki/i/evh9QF4ehcxbB0xKsN19d8eO4AsFP35bCIBzwaJ9rGuFJv8hPdE3uqdAgcIaOg3t_54jX_mZTjqWEgSXqfAgAgMS6uXRie0aDaPs5yQ_kWNsiFKJER5mItBwoFKOsGBKQtFuqN7u7xOFYJBTVmpAjA.webp"
+    }
+  ],
+  "fashion_trends": [
+    "스키니진",
+    "밝은 색상의 재킷",
+    "중간길이 블레이저",
+    "롱부츠와 하이탑 운동화",
+    "체크무늬 셔츠",
+    "베레모와 코트"
+  ],
+  "kids_toys": [
+    "슬램덩크 피규어",
+    "배트맨 장난감",
+    "디즈니 캐릭터 인형",
+    "말하는 인형",
+    "카드 게임"
+  ],
+  "technology": [
+    "PC방과 인터넷의 급성장",
+    "인터넷 서비스 제공업체(ISP) 본격화",
+    "모바일 전화기의 대중화",
+    "게임 콘솔의 성능 향상",
+    "디지털 카메라와 DVD 플레이어 인기"
+  ],
+  "animation": [
+    {
+      "title": "피노키오",
+      "start_date": "1994-11-15",
+      "end_date": "1995-01-08",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Pinochio_1994_animated_film.jpg"
+    }
+  ]
+}

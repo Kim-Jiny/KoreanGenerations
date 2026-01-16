@@ -1,115 +1,168 @@
 {
-    "year": 2004,
-    "korean_age": 21,
-    "international_age": 20,
-    "zodiac": "원숭이띠",
-    "generation": "밀레니얼 세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "싸이월드 미니홈피 전성기",
-      "도토리로 배경음악과 스킨 구매",
-      "2G 폴더폰에서 카메라폰으로 전환",
-      "PC방에서 서든어택, 카운터스트라이크 인기",
-      "하이틴 드라마와 로맨틱 코미디 유행",
-      "패션에 대한 관심 증가와 다양한 스타일 시도",
-      "온라인 쇼핑몰과 블로그 문화 확산"
-    ],
-    "world_events": [
-      { "event": "이라크 전쟁 지속", "date": "2004" },
-      { "event": "유럽연합, 10개국 추가 가입", "date": "2004-05-01" },
-      { "event": "아테네 올림픽 개최", "date": "2004-08-13" },
-      { "event": "인도양 쓰나미 발생", "date": "2004-12-26" }
-    ],
-    "korea_events": [
-      { "event": "2004년 국회의원 선거 실시", "date": "2004-04-15" },
-      { "event": "대구 지하철 화재 참사", "date": "2004-02-18" },
-      { "event": "사이버 범죄 증가에 따른 대응 강화", "date": "2004" },
-      { "event": "온라인 신문 '데일리NK' 창간", "date": "2004-12" }
-    ],
-    "popular_music": [
-      { "title": "It's Raining", "artist": "비", "release_date": "2004-10", "poster_url": "" },
-      { "title": "Hug", "artist": "동방신기", "release_date": "2004-01", "poster_url": "" },
-      { "title": "Brand New", "artist": "신화", "release_date": "2004-08", "poster_url": "" },
-      { "title": "Passion", "artist": "세븐", "release_date": "2004-06", "poster_url": "" },
-      { "title": "My Name", "artist": "보아", "release_date": "2004-06", "poster_url": "" },
-      { "title": "눈의 꽃", "artist": "박효신", "release_date": "2004-11", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "태극기 휘날리며",
-        "en_title": "Taegukgi: The Brotherhood of War",
-        "country": "KR",
-        "release_date": "2004-02-05",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Taegukgi_poster.jpg"
-      },
-      {
-        "kr_title": "말죽거리 잔혹사",
-        "en_title": "Once Upon a Time in High School",
-        "country": "KR",
-        "release_date": "2004-01-16",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6f/Once_Upon_a_Time_in_High_School_poster.jpg"
-      },
-      {
-        "kr_title": "스파이더맨 2",
-        "en_title": "Spider-Man 2",
-        "country": "US",
-        "release_date": "2004-06-30",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/02/Spider-Man_2_Poster.jpg"
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "풀하우스",
-        "broadcast_network": "KBS2",
-        "start_date": "2004-07-14",
-        "end_date": "2004-09-02",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Full_House_%28TV_series%29.jpg"
-      },
-      {
-        "title": "파리의 연인",
-        "broadcast_network": "SBS",
-        "start_date": "2004-06-12",
-        "end_date": "2004-08-15",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Lovers_in_Paris_poster.jpg"
-      }
-    ],
-    "fashion_trends": [
-      "청바지와 흰 티셔츠의 기본 스타일",
-      "레이어드 패션과 다양한 액세서리",
-      "힙합 스타일의 넉넉한 의상",
-      "컬러풀한 헤어스타일과 메이크업",
-      "스포티한 캐주얼 룩",
-      "플랫폼 슈즈와 웨지힐"
-    ],
-    "kids_toys": [
-      "포켓몬스터 카드 게임",
-      "요요와 베이블레이드",
-      "레고 시리즈",
-      "전자오락기와 휴대용 게임기",
-      "스티커북과 캐릭터 스티커",
-      "미니카와 RC카"
-    ],
-    "technology": [
-      "싸이월드 미니홈피 사용자 수 1,300만 돌파",
-      "카메라폰 보급 확대",
-      "MP3 플레이어 대중화",
-      "인터넷 쇼핑몰과 블로그 문화 확산",
-      "디지털 카메라와 캠코더의 보편화",
-      "PDA와 PMP 기기의 등장"
-    ],
-    "animation": [
-      {
-        "title": "검정 고무신",
-        "start_date": "1999-11-09",
-        "end_date": "2005-03-01",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/6a/%EA%B2%80%EC%A0%95%EA%B3%A0%EB%AC%B4%EC%8B%A0.jpg"
-      },
-      {
-        "title": "아따맘마",
-        "start_date": "2001-10-29",
-        "end_date": "2009-02-23",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/ko/5/5d/%EC%95%84%EB%94%B0%EB%A7%98%EB%A7%88.jpg"
-      }
-    ]
-  }
-  
+  "year": 2004,
+  "korean_age": 23,
+  "international_age": 22,
+  "zodiac": "원숭이띠",
+  "generation": "밀레니얼 세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "싸이월드 미니홈피 전성기",
+    "도토리로 배경음악과 스킨 구매",
+    "2G 폴더폰에서 카메라폰으로 전환",
+    "PC방에서 서든어택, 카운터스트라이크 인기",
+    "하이틴 드라마와 로맨틱 코미디 유행",
+    "패션에 대한 관심 증가와 다양한 스타일 시도",
+    "온라인 쇼핑몰과 블로그 문화 확산"
+  ],
+  "world_events": [
+    {
+      "event": "이라크 전쟁 지속",
+      "date": "2004"
+    },
+    {
+      "event": "유럽연합, 10개국 추가 가입",
+      "date": "2004-05-01"
+    },
+    {
+      "event": "아테네 올림픽 개최",
+      "date": "2004-08-13"
+    },
+    {
+      "event": "인도양 쓰나미 발생",
+      "date": "2004-12-26"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "2004년 국회의원 선거 실시",
+      "date": "2004-04-15"
+    },
+    {
+      "event": "대구 지하철 화재 참사",
+      "date": "2004-02-18"
+    },
+    {
+      "event": "사이버 범죄 증가에 따른 대응 강화",
+      "date": "2004"
+    },
+    {
+      "event": "온라인 신문 '데일리NK' 창간",
+      "date": "2004-12"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "It's Raining",
+      "artist": "비",
+      "release_date": "2004-10",
+      "poster_url": ""
+    },
+    {
+      "title": "Hug",
+      "artist": "동방신기",
+      "release_date": "2004-01",
+      "poster_url": ""
+    },
+    {
+      "title": "Brand New",
+      "artist": "신화",
+      "release_date": "2004-08",
+      "poster_url": ""
+    },
+    {
+      "title": "Passion",
+      "artist": "세븐",
+      "release_date": "2004-06",
+      "poster_url": ""
+    },
+    {
+      "title": "My Name",
+      "artist": "보아",
+      "release_date": "2004-06",
+      "poster_url": ""
+    },
+    {
+      "title": "눈의 꽃",
+      "artist": "박효신",
+      "release_date": "2004-11",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "태극기 휘날리며",
+      "en_title": "Taegukgi: The Brotherhood of War",
+      "country": "KR",
+      "release_date": "2004-02-05",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Taegukgi_poster.jpg"
+    },
+    {
+      "kr_title": "말죽거리 잔혹사",
+      "en_title": "Once Upon a Time in High School",
+      "country": "KR",
+      "release_date": "2004-01-16",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/6/6f/Once_Upon_a_Time_in_High_School_poster.jpg"
+    },
+    {
+      "kr_title": "스파이더맨 2",
+      "en_title": "Spider-Man 2",
+      "country": "US",
+      "release_date": "2004-06-30",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/02/Spider-Man_2_Poster.jpg"
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "풀하우스",
+      "broadcast_network": "KBS2",
+      "start_date": "2004-07-14",
+      "end_date": "2004-09-02",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Full_House_%28TV_series%29.jpg"
+    },
+    {
+      "title": "파리의 연인",
+      "broadcast_network": "SBS",
+      "start_date": "2004-06-12",
+      "end_date": "2004-08-15",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Lovers_in_Paris_poster.jpg"
+    }
+  ],
+  "fashion_trends": [
+    "청바지와 흰 티셔츠의 기본 스타일",
+    "레이어드 패션과 다양한 액세서리",
+    "힙합 스타일의 넉넉한 의상",
+    "컬러풀한 헤어스타일과 메이크업",
+    "스포티한 캐주얼 룩",
+    "플랫폼 슈즈와 웨지힐"
+  ],
+  "kids_toys": [
+    "포켓몬스터 카드 게임",
+    "요요와 베이블레이드",
+    "레고 시리즈",
+    "전자오락기와 휴대용 게임기",
+    "스티커북과 캐릭터 스티커",
+    "미니카와 RC카"
+  ],
+  "technology": [
+    "싸이월드 미니홈피 사용자 수 1,300만 돌파",
+    "카메라폰 보급 확대",
+    "MP3 플레이어 대중화",
+    "인터넷 쇼핑몰과 블로그 문화 확산",
+    "디지털 카메라와 캠코더의 보편화",
+    "PDA와 PMP 기기의 등장"
+  ],
+  "animation": [
+    {
+      "title": "검정 고무신",
+      "start_date": "1999-11-09",
+      "end_date": "2005-03-01",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/6/6a/%EA%B2%80%EC%A0%95%EA%B3%A0%EB%AC%B4%EC%8B%A0.jpg"
+    },
+    {
+      "title": "아따맘마",
+      "start_date": "2001-10-29",
+      "end_date": "2009-02-23",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/ko/5/5d/%EC%95%84%EB%94%B0%EB%A7%98%EB%A7%88.jpg"
+    }
+  ]
+}

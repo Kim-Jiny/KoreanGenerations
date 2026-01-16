@@ -1,131 +1,185 @@
 {
-    "year": 2016,
-    "korean_age": 15,
-    "international_age": 14,
-    "zodiac": "원숭이띠",
-    "generation": "Z세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "스마트폰 중심의 모바일 환경 확립",
-      "SNS와 유튜브를 통한 개인 콘텐츠 창작과 소비 확산",
-      "크리에이터 문화 확산",
-      "음악 스트리밍 서비스 사용 증가",
-      "모바일 결제와 간편결제 서비스 활성화"
-    ],
-    "world_events": [
-      { "event": "브렉시트: 영국, 유럽연합 탈퇴 결정", "date": "2016-06-23" },
-      { "event": "미국 대선: 도널드 트럼프 당선", "date": "2016-11-08" },
-      { "event": "파리 테러", "date": "2016-11-13" },
-      { "event": "북한, 5차 핵실험 실시", "date": "2016-09-09" },
-      { "event": "장수 조정의 제시, 중동 지역 불안정성 증가", "date": "2016-10-11" }
-    ],
-    "korea_events": [
-      { "event": "박근혜 대통령 탄핵 시도", "date": "2016-12-09" },
-      { "event": "메르스 재발 확산 우려", "date": "2016-06-03" },
-      { "event": "삼성 갤럭시 노트7 리콜 사건", "date": "2016-09-02" },
-      { "event": "서울, 광주 고속버스 사고", "date": "2016-06-22" },
-      { "event": "단일화된 남북 화해 분위기", "date": "2016-05-20" }
-    ],
-    "popular_music": [
-      { "title": "Cheer Up", "artist": "TWICE", "release_date": "2016-04-25", "poster_url": "" },
-      { "title": "I Can't Stop Me", "artist": "TWICE", "release_date": "2016-06-09", "poster_url": "" },
-      { "title": "Shape of You", "artist": "Ed Sheeran", "release_date": "2016-01-06", "poster_url": "" },
-      { "title": "Closer", "artist": "The Chainsmokers", "release_date": "2016-07-29", "poster_url": "" },
-      { "title": "Faded", "artist": "Alan Walker", "release_date": "2016-12-03", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "곡성",
-        "en_title": "The Wailing",
-        "country": "KR",
-        "release_date": "2016-05-12",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "부산행",
-        "en_title": "Train to Busan",
-        "country": "KR",
-        "release_date": "2016-07-20",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "미션 임파서블: 로그네이션",
-        "en_title": "Mission: Impossible – Rogue Nation",
-        "country": "US",
-        "release_date": "2016-07-30",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "라라랜드",
-        "en_title": "La La Land",
-        "country": "US",
-        "release_date": "2016-12-09",
-        "poster_url": ""
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "도깨비",
-        "broadcast_network": "tvN",
-        "start_date": "2016-12-02",
-        "end_date": "2017-01-21",
-        "poster_url": ""
-      },
-      {
-        "title": "태양의 후예",
-        "broadcast_network": "KBS2",
-        "start_date": "2016-02-24",
-        "end_date": "2016-04-14",
-        "poster_url": ""
-      },
-      {
-        "title": "응답하라 1988",
-        "broadcast_network": "tvN",
-        "start_date": "2015-11-06",
-        "end_date": "2016-01-16",
-        "poster_url": ""
-      }
-    ],
-    "fashion_trends": [
-      "스트릿 패션의 대두",
-      "복고풍 트렌드, 90년대 패션 복원",
-      "스니커즈의 인기 상승",
-      "미니백과 체인백",
-      "체크 무늬와 타탄 패턴의 확산"
-    ],
-    "kids_toys": [
-      "헬로 카봇",
-      "레고",
-      "디즈니 프린세스 인형",
-      "스타워즈 액션 피규어",
-      "닌텐도 스위치"
-    ],
-    "technology": [
-      "모바일 결제와 간편 결제의 활성화",
-      "AI와 빅데이터 기반의 서비스 확대",
-      "자율주행차와 드론 기술 발전",
-      "증강 현실(AR) 기술의 상용화 시도",
-      "스마트홈 제품의 인기를 끌기 시작"
-    ],
-    "animation": [
-      {
-        "title": "헬로 카봇",
-        "start_date": "2016-01-01",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "뽀로로와 크롱의 음악 여행",
-        "start_date": "2016-03-01",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "라바 시즌5",
-        "start_date": "2016-04-01",
-        "end_date": null,
-        "poster_url": ""
-      }
-    ]
-  }
-  
+  "year": 2016,
+  "korean_age": 11,
+  "international_age": 10,
+  "zodiac": "원숭이띠",
+  "generation": "Z세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "스마트폰 중심의 모바일 환경 확립",
+    "SNS와 유튜브를 통한 개인 콘텐츠 창작과 소비 확산",
+    "크리에이터 문화 확산",
+    "음악 스트리밍 서비스 사용 증가",
+    "모바일 결제와 간편결제 서비스 활성화"
+  ],
+  "world_events": [
+    {
+      "event": "브렉시트: 영국, 유럽연합 탈퇴 결정",
+      "date": "2016-06-23"
+    },
+    {
+      "event": "미국 대선: 도널드 트럼프 당선",
+      "date": "2016-11-08"
+    },
+    {
+      "event": "파리 테러",
+      "date": "2016-11-13"
+    },
+    {
+      "event": "북한, 5차 핵실험 실시",
+      "date": "2016-09-09"
+    },
+    {
+      "event": "장수 조정의 제시, 중동 지역 불안정성 증가",
+      "date": "2016-10-11"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "박근혜 대통령 탄핵 시도",
+      "date": "2016-12-09"
+    },
+    {
+      "event": "메르스 재발 확산 우려",
+      "date": "2016-06-03"
+    },
+    {
+      "event": "삼성 갤럭시 노트7 리콜 사건",
+      "date": "2016-09-02"
+    },
+    {
+      "event": "서울, 광주 고속버스 사고",
+      "date": "2016-06-22"
+    },
+    {
+      "event": "단일화된 남북 화해 분위기",
+      "date": "2016-05-20"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "Cheer Up",
+      "artist": "TWICE",
+      "release_date": "2016-04-25",
+      "poster_url": ""
+    },
+    {
+      "title": "I Can't Stop Me",
+      "artist": "TWICE",
+      "release_date": "2016-06-09",
+      "poster_url": ""
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "release_date": "2016-01-06",
+      "poster_url": ""
+    },
+    {
+      "title": "Closer",
+      "artist": "The Chainsmokers",
+      "release_date": "2016-07-29",
+      "poster_url": ""
+    },
+    {
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "release_date": "2016-12-03",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "곡성",
+      "en_title": "The Wailing",
+      "country": "KR",
+      "release_date": "2016-05-12",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "부산행",
+      "en_title": "Train to Busan",
+      "country": "KR",
+      "release_date": "2016-07-20",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "미션 임파서블: 로그네이션",
+      "en_title": "Mission: Impossible – Rogue Nation",
+      "country": "US",
+      "release_date": "2016-07-30",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "라라랜드",
+      "en_title": "La La Land",
+      "country": "US",
+      "release_date": "2016-12-09",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "도깨비",
+      "broadcast_network": "tvN",
+      "start_date": "2016-12-02",
+      "end_date": "2017-01-21",
+      "poster_url": ""
+    },
+    {
+      "title": "태양의 후예",
+      "broadcast_network": "KBS2",
+      "start_date": "2016-02-24",
+      "end_date": "2016-04-14",
+      "poster_url": ""
+    },
+    {
+      "title": "응답하라 1988",
+      "broadcast_network": "tvN",
+      "start_date": "2015-11-06",
+      "end_date": "2016-01-16",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "스트릿 패션의 대두",
+    "복고풍 트렌드, 90년대 패션 복원",
+    "스니커즈의 인기 상승",
+    "미니백과 체인백",
+    "체크 무늬와 타탄 패턴의 확산"
+  ],
+  "kids_toys": [
+    "헬로 카봇",
+    "레고",
+    "디즈니 프린세스 인형",
+    "스타워즈 액션 피규어",
+    "닌텐도 스위치"
+  ],
+  "technology": [
+    "모바일 결제와 간편 결제의 활성화",
+    "AI와 빅데이터 기반의 서비스 확대",
+    "자율주행차와 드론 기술 발전",
+    "증강 현실(AR) 기술의 상용화 시도",
+    "스마트홈 제품의 인기를 끌기 시작"
+  ],
+  "animation": [
+    {
+      "title": "헬로 카봇",
+      "start_date": "2016-01-01",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "뽀로로와 크롱의 음악 여행",
+      "start_date": "2016-03-01",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "라바 시즌5",
+      "start_date": "2016-04-01",
+      "end_date": null,
+      "poster_url": ""
+    }
+  ]
+}

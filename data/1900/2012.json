@@ -1,123 +1,174 @@
 {
-    "year": 2012,
-    "korean_age": 13,
-    "international_age": 12,
-    "zodiac": "용띠",
-    "generation": "Z세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "스마트폰 보급률 급증과 모바일 앱 사용 확대",
-      "SNS와 모바일 메신저를 통한 소통 증가",
-      "한류 콘텐츠의 세계적 인기 상승",
-      "청년 실업률 상승과 취업 경쟁 심화",
-      "대학생 등록금 문제로 인한 사회적 논의 확대"
-    ],
-    "world_events": [
-      { "event": "런던 하계 올림픽 개최", "date": "2012-07-27" },
-      { "event": "버락 오바마 미국 대통령 재선", "date": "2012-11-06" },
-      { "event": "허리케인 샌디 미국 동부 강타", "date": "2012-10-29" },
-      { "event": "마야 달력 종말 예언과 관련된 세계적 관심", "date": "2012-12-21" },
-      { "event": "PSY의 '강남스타일' 전 세계적 히트", "date": "2012-07-15" }
-    ],
-    "korea_events": [
-      { "event": "박근혜, 대한민국 최초 여성 대통령 당선", "date": "2012-12-19" },
-      { "event": "제19대 국회의원 선거 실시", "date": "2012-04-11" },
-      { "event": "서울시, 무상급식 전면 확대", "date": "2012-03-01" },
-      { "event": "제4차 남북 고위급 회담 개최", "date": "2012-02-23" }
-    ],
-    "popular_music": [
-      { "title": "강남스타일", "artist": "PSY", "release_date": "2012-07-15", "poster_url": "" },
-      { "title": "Fantastic Baby", "artist": "BIGBANG", "release_date": "2012-03-07", "poster_url": "" },
-      { "title": "Twinkle", "artist": "태티서", "release_date": "2012-04-29", "poster_url": "" },
-      { "title": "Alone", "artist": "씨스타", "release_date": "2012-04-12", "poster_url": "" },
-      { "title": "I Love You", "artist": "2NE1", "release_date": "2012-07-05", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "도둑들",
-        "en_title": "The Thieves",
-        "country": "KR",
-        "release_date": "2012-07-25",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "광해, 왕이 된 남자",
-        "en_title": "Masquerade",
-        "country": "KR",
-        "release_date": "2012-09-13",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "내 아내의 모든 것",
-        "en_title": "All About My Wife",
-        "country": "KR",
-        "release_date": "2012-05-17",
-        "poster_url": ""
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "해를 품은 달",
-        "broadcast_network": "MBC",
-        "start_date": "2012-01-04",
-        "end_date": "2012-03-15",
-        "poster_url": ""
-      },
-      {
-        "title": "넝쿨째 굴러온 당신",
-        "broadcast_network": "KBS2",
-        "start_date": "2012-02-25",
-        "end_date": "2012-09-09",
-        "poster_url": ""
-      },
-      {
-        "title": "신사의 품격",
-        "broadcast_network": "SBS",
-        "start_date": "2012-05-26",
-        "end_date": "2012-08-12",
-        "poster_url": ""
-      }
-    ],
-    "fashion_trends": [
-      "컬러풀한 스키니진과 레깅스 유행",
-      "오버사이즈 티셔츠와 루즈핏 스타일",
-      "플랫폼 슈즈와 웨지힐 인기",
-      "빈티지 스타일 액세서리 활용",
-      "헤어밴드와 헤어핀 등의 헤어 액세서리 유행"
-    ],
-    "kids_toys": [
-      "터닝메카드",
-      "로보카 폴리",
-      "닌텐도 3DS",
-      "레고 닌자고 시리즈",
-      "뽀로로 캐릭터 상품"
-    ],
-    "technology": [
-      "스마트폰 보급률 급증과 모바일 앱 사용 확대",
-      "태블릿 PC 시장 확대",
-      "클라우드 컴퓨팅 서비스 도입 증가",
-      "소셜 미디어 플랫폼 다양화",
-      "모바일 게임 시장 성장"
-    ],
-    "animation": [
-      {
-        "title": "파닥파닥",
-        "start_date": "2012-07-25",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "라바",
-        "start_date": "2012-08-01",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "마당을 나온 암탉",
-        "start_date": "2011-07-28",
-        "end_date": null,
-        "poster_url": ""
-      }
-    ]
-  }
-  
+  "year": 2012,
+  "korean_age": 15,
+  "international_age": 14,
+  "zodiac": "용띠",
+  "generation": "Z세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "스마트폰 보급률 급증과 모바일 앱 사용 확대",
+    "SNS와 모바일 메신저를 통한 소통 증가",
+    "한류 콘텐츠의 세계적 인기 상승",
+    "청년 실업률 상승과 취업 경쟁 심화",
+    "대학생 등록금 문제로 인한 사회적 논의 확대"
+  ],
+  "world_events": [
+    {
+      "event": "런던 하계 올림픽 개최",
+      "date": "2012-07-27"
+    },
+    {
+      "event": "버락 오바마 미국 대통령 재선",
+      "date": "2012-11-06"
+    },
+    {
+      "event": "허리케인 샌디 미국 동부 강타",
+      "date": "2012-10-29"
+    },
+    {
+      "event": "마야 달력 종말 예언과 관련된 세계적 관심",
+      "date": "2012-12-21"
+    },
+    {
+      "event": "PSY의 '강남스타일' 전 세계적 히트",
+      "date": "2012-07-15"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "박근혜, 대한민국 최초 여성 대통령 당선",
+      "date": "2012-12-19"
+    },
+    {
+      "event": "제19대 국회의원 선거 실시",
+      "date": "2012-04-11"
+    },
+    {
+      "event": "서울시, 무상급식 전면 확대",
+      "date": "2012-03-01"
+    },
+    {
+      "event": "제4차 남북 고위급 회담 개최",
+      "date": "2012-02-23"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "강남스타일",
+      "artist": "PSY",
+      "release_date": "2012-07-15",
+      "poster_url": ""
+    },
+    {
+      "title": "Fantastic Baby",
+      "artist": "BIGBANG",
+      "release_date": "2012-03-07",
+      "poster_url": ""
+    },
+    {
+      "title": "Twinkle",
+      "artist": "태티서",
+      "release_date": "2012-04-29",
+      "poster_url": ""
+    },
+    {
+      "title": "Alone",
+      "artist": "씨스타",
+      "release_date": "2012-04-12",
+      "poster_url": ""
+    },
+    {
+      "title": "I Love You",
+      "artist": "2NE1",
+      "release_date": "2012-07-05",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "도둑들",
+      "en_title": "The Thieves",
+      "country": "KR",
+      "release_date": "2012-07-25",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "광해, 왕이 된 남자",
+      "en_title": "Masquerade",
+      "country": "KR",
+      "release_date": "2012-09-13",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "내 아내의 모든 것",
+      "en_title": "All About My Wife",
+      "country": "KR",
+      "release_date": "2012-05-17",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "해를 품은 달",
+      "broadcast_network": "MBC",
+      "start_date": "2012-01-04",
+      "end_date": "2012-03-15",
+      "poster_url": ""
+    },
+    {
+      "title": "넝쿨째 굴러온 당신",
+      "broadcast_network": "KBS2",
+      "start_date": "2012-02-25",
+      "end_date": "2012-09-09",
+      "poster_url": ""
+    },
+    {
+      "title": "신사의 품격",
+      "broadcast_network": "SBS",
+      "start_date": "2012-05-26",
+      "end_date": "2012-08-12",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "컬러풀한 스키니진과 레깅스 유행",
+    "오버사이즈 티셔츠와 루즈핏 스타일",
+    "플랫폼 슈즈와 웨지힐 인기",
+    "빈티지 스타일 액세서리 활용",
+    "헤어밴드와 헤어핀 등의 헤어 액세서리 유행"
+  ],
+  "kids_toys": [
+    "터닝메카드",
+    "로보카 폴리",
+    "닌텐도 3DS",
+    "레고 닌자고 시리즈",
+    "뽀로로 캐릭터 상품"
+  ],
+  "technology": [
+    "스마트폰 보급률 급증과 모바일 앱 사용 확대",
+    "태블릿 PC 시장 확대",
+    "클라우드 컴퓨팅 서비스 도입 증가",
+    "소셜 미디어 플랫폼 다양화",
+    "모바일 게임 시장 성장"
+  ],
+  "animation": [
+    {
+      "title": "파닥파닥",
+      "start_date": "2012-07-25",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "라바",
+      "start_date": "2012-08-01",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "마당을 나온 암탉",
+      "start_date": "2011-07-28",
+      "end_date": null,
+      "poster_url": ""
+    }
+  ]
+}

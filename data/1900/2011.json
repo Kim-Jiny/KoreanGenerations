@@ -1,123 +1,174 @@
 {
-    "year": 2011,
-    "korean_age": 14,
-    "international_age": 13,
-    "zodiac": "토끼띠",
-    "generation": "Z세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "스마트폰 보급 확대와 모바일 메신저 사용 증가",
-      "SNS의 대중화로 인한 소셜 네트워킹 활성화",
-      "한류 콘텐츠의 세계적 인기 증가",
-      "청년 실업률 상승과 취업 경쟁 심화",
-      "대학생 등록금 문제로 인한 사회적 논의 확대"
-    ],
-    "world_events": [
-      { "event": "일본 대지진 및 쓰나미 발생", "date": "2011-03-11" },
-      { "event": "오사마 빈 라덴 사망", "date": "2011-05-02" },
-      { "event": "아랍의 봄 민주화 운동 확산", "date": "2011" },
-      { "event": "영국 런던 폭동 발생", "date": "2011-08" },
-      { "event": "국제연합, 2011년을 '세계 숲의 해'로 지정", "date": "2011" }
-    ],
-    "korea_events": [
-      { "event": "대학생 등록금 문제로 인한 시위 발생", "date": "2011-06" },
-      { "event": "포스코타워-송도 완공", "date": "2011-03" },
-      { "event": "천안함 사건 1주기 추모 행사", "date": "2011-03-26" },
-      { "event": "서울시 무상급식 주민투표 실시", "date": "2011-08-24" }
-    ],
-    "popular_music": [
-      { "title": "Roly-Poly", "artist": "T-ara", "release_date": "2011-06", "poster_url": "" },
-      { "title": "Goodbye Baby", "artist": "miss A", "release_date": "2011-07", "poster_url": "" },
-      { "title": "The Boys", "artist": "소녀시대", "release_date": "2011-10", "poster_url": "" },
-      { "title": "Fiction", "artist": "BEAST", "release_date": "2011-05", "poster_url": "" },
-      { "title": "I Am The Best", "artist": "2NE1", "release_date": "2011-06", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "최종병기 활",
-        "en_title": "War of the Arrows",
-        "country": "KR",
-        "release_date": "2011-08-10",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "써니",
-        "en_title": "Sunny",
-        "country": "KR",
-        "release_date": "2011-05-04",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "완득이",
-        "en_title": "Punch",
-        "country": "KR",
-        "release_date": "2011-10-20",
-        "poster_url": ""
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "드림하이",
-        "broadcast_network": "KBS2",
-        "start_date": "2011-01-03",
-        "end_date": "2011-02-28",
-        "poster_url": ""
-      },
-      {
-        "title": "공주의 남자",
-        "broadcast_network": "KBS2",
-        "start_date": "2011-07-20",
-        "end_date": "2011-10-06",
-        "poster_url": ""
-      },
-      {
-        "title": "최고의 사랑",
-        "broadcast_network": "MBC",
-        "start_date": "2011-05-04",
-        "end_date": "2011-06-23",
-        "poster_url": ""
-      }
-    ],
-    "fashion_trends": [
-      "컬러풀한 스키니진 유행",
-      "오버사이즈 티셔츠와 레깅스 조합",
-      "플랫폼 슈즈와 웨지힐 인기",
-      "빈티지 스타일 액세서리 활용",
-      "헤어밴드와 헤어핀 등의 헤어 액세서리 유행"
-    ],
-    "kids_toys": [
-      "터닝메카드",
-      "로보카 폴리",
-      "닌텐도 3DS",
-      "레고 닌자고 시리즈",
-      "뽀로로 캐릭터 상품"
-    ],
-    "technology": [
-      "스마트폰 보급률 급증",
-      "태블릿 PC 시장 확대",
-      "클라우드 컴퓨팅 서비스 도입 증가",
-      "소셜 미디어 플랫폼 다양화",
-      "모바일 앱 시장 성장"
-    ],
-    "animation": [
-      {
-        "title": "소중한 날의 꿈",
-        "start_date": "2011-06-02",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "지구대표 롤링스타즈",
-        "start_date": "2011-07-02",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "디지몬 크로스워즈",
-        "start_date": "2011-07-06",
-        "end_date": "2012-03-21",
-        "poster_url": ""
-      }
-    ]
-  }
-  
+  "year": 2011,
+  "korean_age": 16,
+  "international_age": 15,
+  "zodiac": "토끼띠",
+  "generation": "Z세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "스마트폰 보급 확대와 모바일 메신저 사용 증가",
+    "SNS의 대중화로 인한 소셜 네트워킹 활성화",
+    "한류 콘텐츠의 세계적 인기 증가",
+    "청년 실업률 상승과 취업 경쟁 심화",
+    "대학생 등록금 문제로 인한 사회적 논의 확대"
+  ],
+  "world_events": [
+    {
+      "event": "일본 대지진 및 쓰나미 발생",
+      "date": "2011-03-11"
+    },
+    {
+      "event": "오사마 빈 라덴 사망",
+      "date": "2011-05-02"
+    },
+    {
+      "event": "아랍의 봄 민주화 운동 확산",
+      "date": "2011"
+    },
+    {
+      "event": "영국 런던 폭동 발생",
+      "date": "2011-08"
+    },
+    {
+      "event": "국제연합, 2011년을 '세계 숲의 해'로 지정",
+      "date": "2011"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "대학생 등록금 문제로 인한 시위 발생",
+      "date": "2011-06"
+    },
+    {
+      "event": "포스코타워-송도 완공",
+      "date": "2011-03"
+    },
+    {
+      "event": "천안함 사건 1주기 추모 행사",
+      "date": "2011-03-26"
+    },
+    {
+      "event": "서울시 무상급식 주민투표 실시",
+      "date": "2011-08-24"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "Roly-Poly",
+      "artist": "T-ara",
+      "release_date": "2011-06",
+      "poster_url": ""
+    },
+    {
+      "title": "Goodbye Baby",
+      "artist": "miss A",
+      "release_date": "2011-07",
+      "poster_url": ""
+    },
+    {
+      "title": "The Boys",
+      "artist": "소녀시대",
+      "release_date": "2011-10",
+      "poster_url": ""
+    },
+    {
+      "title": "Fiction",
+      "artist": "BEAST",
+      "release_date": "2011-05",
+      "poster_url": ""
+    },
+    {
+      "title": "I Am The Best",
+      "artist": "2NE1",
+      "release_date": "2011-06",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "최종병기 활",
+      "en_title": "War of the Arrows",
+      "country": "KR",
+      "release_date": "2011-08-10",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "써니",
+      "en_title": "Sunny",
+      "country": "KR",
+      "release_date": "2011-05-04",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "완득이",
+      "en_title": "Punch",
+      "country": "KR",
+      "release_date": "2011-10-20",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "드림하이",
+      "broadcast_network": "KBS2",
+      "start_date": "2011-01-03",
+      "end_date": "2011-02-28",
+      "poster_url": ""
+    },
+    {
+      "title": "공주의 남자",
+      "broadcast_network": "KBS2",
+      "start_date": "2011-07-20",
+      "end_date": "2011-10-06",
+      "poster_url": ""
+    },
+    {
+      "title": "최고의 사랑",
+      "broadcast_network": "MBC",
+      "start_date": "2011-05-04",
+      "end_date": "2011-06-23",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "컬러풀한 스키니진 유행",
+    "오버사이즈 티셔츠와 레깅스 조합",
+    "플랫폼 슈즈와 웨지힐 인기",
+    "빈티지 스타일 액세서리 활용",
+    "헤어밴드와 헤어핀 등의 헤어 액세서리 유행"
+  ],
+  "kids_toys": [
+    "터닝메카드",
+    "로보카 폴리",
+    "닌텐도 3DS",
+    "레고 닌자고 시리즈",
+    "뽀로로 캐릭터 상품"
+  ],
+  "technology": [
+    "스마트폰 보급률 급증",
+    "태블릿 PC 시장 확대",
+    "클라우드 컴퓨팅 서비스 도입 증가",
+    "소셜 미디어 플랫폼 다양화",
+    "모바일 앱 시장 성장"
+  ],
+  "animation": [
+    {
+      "title": "소중한 날의 꿈",
+      "start_date": "2011-06-02",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "지구대표 롤링스타즈",
+      "start_date": "2011-07-02",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "디지몬 크로스워즈",
+      "start_date": "2011-07-06",
+      "end_date": "2012-03-21",
+      "poster_url": ""
+    }
+  ]
+}

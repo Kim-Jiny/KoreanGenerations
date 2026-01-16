@@ -1,0 +1,65 @@
+{
+  "year": 2025,
+  "korean_age": 2,
+  "international_age": 1,
+  "zodiac": "뱀띠",
+  "generation": "알파세대",
+  "generation_group": "알파세대",
+  "korean_characteristics": [
+    "AI 기술의 전면적 확산",
+    "초저출산 시대 지속",
+    "탄핵 정국 속 정치적 혼란",
+    "기후변화 대응 노력 강화",
+    "고령화 사회 심화"
+  ],
+  "world_events": [
+    { "event": "트럼프 미국 대통령 취임", "date": "2025-01-20" },
+    { "event": "AI 기술 발전 가속화", "date": "2025" },
+    { "event": "전 세계 기후변화 대응 논의 지속", "date": "2025" }
+  ],
+  "korea_events": [
+    { "event": "윤석열 대통령 탄핵심판 진행", "date": "2025" },
+    { "event": "제주항공 여객기 사고", "date": "2025-01-29" },
+    { "event": "정치적 불확실성 지속", "date": "2025" }
+  ],
+  "popular_music": [
+    { "title": "whiplash", "artist": "aespa", "release_date": "2024-10-21", "poster_url": "" },
+    { "title": "APT.", "artist": "로제 & Bruno Mars", "release_date": "2024-10-18", "poster_url": "" }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "미키 17",
+      "en_title": "Mickey 17",
+      "country": "US",
+      "release_date": "2025-03-05",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "오징어 게임 시즌 2",
+      "broadcast_network": "Netflix",
+      "start_date": "2024-12-26",
+      "end_date": "진행중",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "미니멀리즘",
+    "지속가능 패션",
+    "레트로 스타일"
+  ],
+  "kids_toys": [
+    "AI 인터랙티브 장난감",
+    "레고 시리즈",
+    "포켓몬 카드"
+  ],
+  "technology": [
+    "AGI(인공일반지능) 연구 진전",
+    "AI 일상화",
+    "로봇 기술 발전",
+    "전기차 보급 확대",
+    "양자컴퓨팅 상용화 노력"
+  ],
+  "animation": []
+}

@@ -1,120 +1,197 @@
 {
-    "year": 2001,
-    "korean_age": 25,
-    "international_age": 24,
-    "zodiac": "뱀띠",
-    "generation": "Z세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "인터넷과 모바일 기술의 급속한 발전",
-      "PC방과 온라인 게임의 대중화",
-      "휴대폰과 문자메시지의 일상화",
-      "디지털 카메라와 MP3 플레이어의 보급",
-      "인터넷 커뮤니티와 블로그의 활성화",
-      "지하철과 버스 등 대중교통의 편리성 증가",
-      "온라인 쇼핑과 전자상거래의 성장"
-    ],
-    "world_events": [
-      { "event": "9·11 테러 발생", "date": "2001-09-11" },
-      { "event": "애플, 아이튠즈 출시", "date": "2001-01-09" },
-      { "event": "마이크로소프트, 윈도우 XP 출시", "date": "2001-10-25" },
-      { "event": "중국, 세계무역기구(WTO) 가입", "date": "2001-12-11" },
-      { "event": "미국, 아프가니스탄 전쟁 개시", "date": "2001-10-07" }
-    ],
-    "korea_events": [
-      { "event": "서울 지하철 6호선 전 구간 개통", "date": "2001-12-15" },
-      { "event": "한국, 2002 FIFA 월드컵 공동 개최 준비", "date": "2001" },
-      { "event": "인터넷 포털 사이트의 경쟁 심화", "date": "2001" },
-      { "event": "디지털 방송 시범 서비스 시작", "date": "2001-05-01" }
-    ],
-    "popular_music": [
-      { "title": "I Believe", "artist": "신승훈", "release_date": "2001-01", "poster_url": "" },
-      { "title": "사랑해 그리고 기억해", "artist": "이승환", "release_date": "2001-03", "poster_url": "" },
-      { "title": "길", "artist": "god", "release_date": "2001-05", "poster_url": "" },
-      { "title": "비몽", "artist": "박효신", "release_date": "2001-07", "poster_url": "" },
-      { "title": "초대", "artist": "엄정화", "release_date": "2001-09", "poster_url": "" },
-      { "title": "아름다운 구속", "artist": "김종서", "release_date": "2001-11", "poster_url": "" },
-      { "title": "아이야!", "artist": "쿨", "release_date": "2001-12", "poster_url": "" },
-      { "title": "후회", "artist": "박지윤", "release_date": "2001-02", "poster_url": "" },
-      { "title": "슬픈 인연", "artist": "김건모", "release_date": "2001-04", "poster_url": "" },
-      { "title": "사랑은 언제나 목마르다", "artist": "이수영", "release_date": "2001-06", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "친구",
-        "en_title": "Friend",
-        "country": "KR",
-        "release_date": "2001-03-31",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "엽기적인 그녀",
-        "en_title": "My Sassy Girl",
-        "country": "KR",
-        "release_date": "2001-07-27",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "조폭 마누라",
-        "en_title": "My Wife Is a Gangster",
-        "country": "KR",
-        "release_date": "2001-09-28",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "킬러들의 수다",
-        "en_title": "Guns & Talks",
-        "country": "KR",
-        "release_date": "2001-09-06",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "무사",
-        "en_title": "Musa",
-        "country": "KR",
-        "release_date": "2001-09-07",
-        "poster_url": ""
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "여인천하",
-        "broadcast_network": "SBS",
-        "start_date": "2001-02-05",
-        "end_date": "2002-07-23",
-        "poster_url": ""
-      },
-      {
-        "title": "화려한 시절",
-        "broadcast_network": "SBS",
-        "start_date": "2001-10-06",
-        "end_date": "2002-03-31",
-        "poster_url": ""
-      },
-      {
-        "title": "그래도 사랑해",
-        "broadcast_network": "SBS",
-        "start_date": "2001-01-06",
-        "end_date": "2001-06-24",
-        "poster_url": ""
-      }
-    ],
-    "fashion_trends": [
-      "저지 스타일의 트레이닝복",
-      "크롭탑과 로우라이즈 진",
-      "힙합 패션과 오버사이즈 의류",
-      "플랫폼 슈즈와 통굽 신발",
-      "스포츠 브랜드 로고 티셔츠",
-      "헤어밴드와 컬러풀한 액세서리"
-    ],
-    "kids_toys": [
-      "포켓몬스터 카드 게임",
-      "디지몬 디지털 기기",
-      "베이블레이드",
-      "타마고치",
-      "레고 닌자고 시리즈"
-    ],
-   "technology": [
+  "year": 2001,
+  "korean_age": 26,
+  "international_age": 25,
+  "zodiac": "뱀띠",
+  "generation": "Z세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "인터넷과 모바일 기술의 급속한 발전",
+    "PC방과 온라인 게임의 대중화",
+    "휴대폰과 문자메시지의 일상화",
+    "디지털 카메라와 MP3 플레이어의 보급",
+    "인터넷 커뮤니티와 블로그의 활성화",
+    "지하철과 버스 등 대중교통의 편리성 증가",
+    "온라인 쇼핑과 전자상거래의 성장"
+  ],
+  "world_events": [
+    {
+      "event": "9·11 테러 발생",
+      "date": "2001-09-11"
+    },
+    {
+      "event": "애플, 아이튠즈 출시",
+      "date": "2001-01-09"
+    },
+    {
+      "event": "마이크로소프트, 윈도우 XP 출시",
+      "date": "2001-10-25"
+    },
+    {
+      "event": "중국, 세계무역기구(WTO) 가입",
+      "date": "2001-12-11"
+    },
+    {
+      "event": "미국, 아프가니스탄 전쟁 개시",
+      "date": "2001-10-07"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "서울 지하철 6호선 전 구간 개통",
+      "date": "2001-12-15"
+    },
+    {
+      "event": "한국, 2002 FIFA 월드컵 공동 개최 준비",
+      "date": "2001"
+    },
+    {
+      "event": "인터넷 포털 사이트의 경쟁 심화",
+      "date": "2001"
+    },
+    {
+      "event": "디지털 방송 시범 서비스 시작",
+      "date": "2001-05-01"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "I Believe",
+      "artist": "신승훈",
+      "release_date": "2001-01",
+      "poster_url": ""
+    },
+    {
+      "title": "사랑해 그리고 기억해",
+      "artist": "이승환",
+      "release_date": "2001-03",
+      "poster_url": ""
+    },
+    {
+      "title": "길",
+      "artist": "god",
+      "release_date": "2001-05",
+      "poster_url": ""
+    },
+    {
+      "title": "비몽",
+      "artist": "박효신",
+      "release_date": "2001-07",
+      "poster_url": ""
+    },
+    {
+      "title": "초대",
+      "artist": "엄정화",
+      "release_date": "2001-09",
+      "poster_url": ""
+    },
+    {
+      "title": "아름다운 구속",
+      "artist": "김종서",
+      "release_date": "2001-11",
+      "poster_url": ""
+    },
+    {
+      "title": "아이야!",
+      "artist": "쿨",
+      "release_date": "2001-12",
+      "poster_url": ""
+    },
+    {
+      "title": "후회",
+      "artist": "박지윤",
+      "release_date": "2001-02",
+      "poster_url": ""
+    },
+    {
+      "title": "슬픈 인연",
+      "artist": "김건모",
+      "release_date": "2001-04",
+      "poster_url": ""
+    },
+    {
+      "title": "사랑은 언제나 목마르다",
+      "artist": "이수영",
+      "release_date": "2001-06",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "친구",
+      "en_title": "Friend",
+      "country": "KR",
+      "release_date": "2001-03-31",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "엽기적인 그녀",
+      "en_title": "My Sassy Girl",
+      "country": "KR",
+      "release_date": "2001-07-27",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "조폭 마누라",
+      "en_title": "My Wife Is a Gangster",
+      "country": "KR",
+      "release_date": "2001-09-28",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "킬러들의 수다",
+      "en_title": "Guns & Talks",
+      "country": "KR",
+      "release_date": "2001-09-06",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "무사",
+      "en_title": "Musa",
+      "country": "KR",
+      "release_date": "2001-09-07",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "여인천하",
+      "broadcast_network": "SBS",
+      "start_date": "2001-02-05",
+      "end_date": "2002-07-23",
+      "poster_url": ""
+    },
+    {
+      "title": "화려한 시절",
+      "broadcast_network": "SBS",
+      "start_date": "2001-10-06",
+      "end_date": "2002-03-31",
+      "poster_url": ""
+    },
+    {
+      "title": "그래도 사랑해",
+      "broadcast_network": "SBS",
+      "start_date": "2001-01-06",
+      "end_date": "2001-06-24",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "저지 스타일의 트레이닝복",
+    "크롭탑과 로우라이즈 진",
+    "힙합 패션과 오버사이즈 의류",
+    "플랫폼 슈즈와 통굽 신발",
+    "스포츠 브랜드 로고 티셔츠",
+    "헤어밴드와 컬러풀한 액세서리"
+  ],
+  "kids_toys": [
+    "포켓몬스터 카드 게임",
+    "디지몬 디지털 기기",
+    "베이블레이드",
+    "타마고치",
+    "레고 닌자고 시리즈"
+  ],
+  "technology": [
     "초고속 인터넷 보급 확대",
     "MP3 플레이어와 디지털 음악의 대중화",
     "휴대폰의 컬러 LCD와 카메라 기능 도입",

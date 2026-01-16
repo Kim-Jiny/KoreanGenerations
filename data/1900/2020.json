@@ -1,145 +1,199 @@
 {
-    "year": 2020,
-    "korean_age": 19,
-    "international_age": 18,
-    "zodiac": "쥐띠",
-    "generation": "Z세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "디지털 네이티브로 스마트폰, SNS를 적극적으로 활용",
-      "코로나19 팬데믹으로 비대면 활동과 온라인 쇼핑의 증가",
-      "환경과 지속 가능성에 대한 관심이 계속해서 확대",
-      "언택트, 리모트 근무와 같은 새로운 작업 환경의 도입",
-      "사회적 거리두기와 관련된 규범의 변화"
-    ],
-    "world_events": [
-      { "event": "코로나19 팬데믹 전 세계 확산", "date": "2020-03-11" },
-      { "event": "미국, 조지 플로이드 사건으로 인한 시위 발생", "date": "2020-05-25" },
-      { "event": "영국, 브렉시트 협정 체결", "date": "2020-12-24" },
-      { "event": "2020 도쿄 올림픽 연기", "date": "2020-03-24" },
-      { "event": "미국, 대선에서 조 바이든 당선", "date": "2020-11-03" }
-    ],
-    "korea_events": [
-      { "event": "코로나19, 한국에서 대규모 확산 시작", "date": "2020-02-20" },
-      { "event": "한국, 2020 총선에서 민주당 승리", "date": "2020-04-15" },
-      { "event": "한국, 마스크 착용 의무화 시작", "date": "2020-05-06" },
-      { "event": "한국, 코로나19 백신 개발을 위한 연구 시작", "date": "2020-12-01" },
-      { "event": "2020 한-일 경제 보복 갈등", "date": "2020-07-01" }
-    ],
-    "popular_music": [
-      { "title": "Dynamite", "artist": "BTS", "release_date": "2020-08-21", "poster_url": "" },
-      { "title": "Blinding Lights", "artist": "The Weeknd", "release_date": "2020-11-29", "poster_url": "" },
-      { "title": "Watermelon Sugar", "artist": "Harry Styles", "release_date": "2020-05-15", "poster_url": "" },
-      { "title": "WAP", "artist": "Cardi B ft. Megan Thee Stallion", "release_date": "2020-08-07", "poster_url": "" },
-      { "title": "Life Goes On", "artist": "BTS", "release_date": "2020-11-20", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "기생충",
-        "en_title": "Parasite",
-        "country": "KR",
-        "release_date": "2020-01-18",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "1917",
-        "en_title": "1917",
-        "country": "US",
-        "release_date": "2020-01-10",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "소리도 없이",
-        "en_title": "The Call",
-        "country": "KR",
-        "release_date": "2020-11-27",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "미나리",
-        "en_title": "Minari",
-        "country": "US",
-        "release_date": "2020-12-11",
-        "poster_url": ""
-      },
-      {
-        "kr_title": "테넷",
-        "en_title": "Tenet",
-        "country": "US",
-        "release_date": "2020-08-26",
-        "poster_url": ""
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "사이코지만 괜찮아",
-        "broadcast_network": "tvN",
-        "start_date": "2020-06-20",
-        "end_date": "2020-08-09",
-        "poster_url": ""
-      },
-      {
-        "title": "이태원 클라쓰",
-        "broadcast_network": "JTBC",
-        "start_date": "2020-01-31",
-        "end_date": "2020-04-11",
-        "poster_url": ""
-      },
-      {
-        "title": "한 사람만",
-        "broadcast_network": "JTBC",
-        "start_date": "2020-10-23",
-        "end_date": "2020-12-13",
-        "poster_url": ""
-      },
-      {
-        "title": "비밀의 숲 2",
-        "broadcast_network": "tvN",
-        "start_date": "2020-08-15",
-        "end_date": "2020-10-18",
-        "poster_url": ""
-      }
-    ],
-    "fashion_trends": [
-      "포켓이 많은 의상과 아웃도어 스타일",
-      "편안하고 실용적인 옷들",
-      "넉넉한 실루엣과 어깨 패드",
-      "네온 컬러와 비비드 색상 활용",
-      "올해는 재활용 소재와 친환경 패션에 대한 관심 증가"
-    ],
-    "kids_toys": [
-      "로보틱 장난감과 AI 기반 학습 장난감",
-      "레고와 블록 조합 키트",
-      "디지털 드로잉과 디자인 장난감",
-      "어드벤처와 탐험을 주제로 한 액션 피규어",
-      "미니 마이크와 음악 장난감"
-    ],
-    "technology": [
-      "5G 네트워크 확산과 함께 더욱 빠른 인터넷 속도 제공",
-      "디지털 화폐와 블록체인 기술 확산",
-      "비대면 서비스와 원격 근무 시스템의 강화",
-      "AI 기술의 진보, 특히 건강 관리와 진단에의 활용 증가",
-      "스마트 홈 디바이스와 IoT 기술의 보편화"
-    ],
-    "animation": [
-      {
-        "title": "소울",
-        "start_date": "2020-12-25",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "토이 스토리 4",
-        "start_date": "2020-06-01",
-        "end_date": null,
-        "poster_url": ""
-      },
-      {
-        "title": "디즈니+ 스트리밍 서비스, 많은 애니메이션 콘텐츠 포함",
-        "start_date": "2020-11-12",
-        "end_date": null,
-        "poster_url": ""
-      }
-    ]
-  }
-  
+  "year": 2020,
+  "korean_age": 7,
+  "international_age": 6,
+  "zodiac": "쥐띠",
+  "generation": "Z세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "디지털 네이티브로 스마트폰, SNS를 적극적으로 활용",
+    "코로나19 팬데믹으로 비대면 활동과 온라인 쇼핑의 증가",
+    "환경과 지속 가능성에 대한 관심이 계속해서 확대",
+    "언택트, 리모트 근무와 같은 새로운 작업 환경의 도입",
+    "사회적 거리두기와 관련된 규범의 변화"
+  ],
+  "world_events": [
+    {
+      "event": "코로나19 팬데믹 전 세계 확산",
+      "date": "2020-03-11"
+    },
+    {
+      "event": "미국, 조지 플로이드 사건으로 인한 시위 발생",
+      "date": "2020-05-25"
+    },
+    {
+      "event": "영국, 브렉시트 협정 체결",
+      "date": "2020-12-24"
+    },
+    {
+      "event": "2020 도쿄 올림픽 연기",
+      "date": "2020-03-24"
+    },
+    {
+      "event": "미국, 대선에서 조 바이든 당선",
+      "date": "2020-11-03"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "코로나19, 한국에서 대규모 확산 시작",
+      "date": "2020-02-20"
+    },
+    {
+      "event": "한국, 2020 총선에서 민주당 승리",
+      "date": "2020-04-15"
+    },
+    {
+      "event": "한국, 마스크 착용 의무화 시작",
+      "date": "2020-05-06"
+    },
+    {
+      "event": "한국, 코로나19 백신 개발을 위한 연구 시작",
+      "date": "2020-12-01"
+    },
+    {
+      "event": "2020 한-일 경제 보복 갈등",
+      "date": "2020-07-01"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "Dynamite",
+      "artist": "BTS",
+      "release_date": "2020-08-21",
+      "poster_url": ""
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "release_date": "2020-11-29",
+      "poster_url": ""
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "release_date": "2020-05-15",
+      "poster_url": ""
+    },
+    {
+      "title": "WAP",
+      "artist": "Cardi B ft. Megan Thee Stallion",
+      "release_date": "2020-08-07",
+      "poster_url": ""
+    },
+    {
+      "title": "Life Goes On",
+      "artist": "BTS",
+      "release_date": "2020-11-20",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "기생충",
+      "en_title": "Parasite",
+      "country": "KR",
+      "release_date": "2020-01-18",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "1917",
+      "en_title": "1917",
+      "country": "US",
+      "release_date": "2020-01-10",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "소리도 없이",
+      "en_title": "The Call",
+      "country": "KR",
+      "release_date": "2020-11-27",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "미나리",
+      "en_title": "Minari",
+      "country": "US",
+      "release_date": "2020-12-11",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "테넷",
+      "en_title": "Tenet",
+      "country": "US",
+      "release_date": "2020-08-26",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "사이코지만 괜찮아",
+      "broadcast_network": "tvN",
+      "start_date": "2020-06-20",
+      "end_date": "2020-08-09",
+      "poster_url": ""
+    },
+    {
+      "title": "이태원 클라쓰",
+      "broadcast_network": "JTBC",
+      "start_date": "2020-01-31",
+      "end_date": "2020-04-11",
+      "poster_url": ""
+    },
+    {
+      "title": "한 사람만",
+      "broadcast_network": "JTBC",
+      "start_date": "2020-10-23",
+      "end_date": "2020-12-13",
+      "poster_url": ""
+    },
+    {
+      "title": "비밀의 숲 2",
+      "broadcast_network": "tvN",
+      "start_date": "2020-08-15",
+      "end_date": "2020-10-18",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "포켓이 많은 의상과 아웃도어 스타일",
+    "편안하고 실용적인 옷들",
+    "넉넉한 실루엣과 어깨 패드",
+    "네온 컬러와 비비드 색상 활용",
+    "올해는 재활용 소재와 친환경 패션에 대한 관심 증가"
+  ],
+  "kids_toys": [
+    "로보틱 장난감과 AI 기반 학습 장난감",
+    "레고와 블록 조합 키트",
+    "디지털 드로잉과 디자인 장난감",
+    "어드벤처와 탐험을 주제로 한 액션 피규어",
+    "미니 마이크와 음악 장난감"
+  ],
+  "technology": [
+    "5G 네트워크 확산과 함께 더욱 빠른 인터넷 속도 제공",
+    "디지털 화폐와 블록체인 기술 확산",
+    "비대면 서비스와 원격 근무 시스템의 강화",
+    "AI 기술의 진보, 특히 건강 관리와 진단에의 활용 증가",
+    "스마트 홈 디바이스와 IoT 기술의 보편화"
+  ],
+  "animation": [
+    {
+      "title": "소울",
+      "start_date": "2020-12-25",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "토이 스토리 4",
+      "start_date": "2020-06-01",
+      "end_date": null,
+      "poster_url": ""
+    },
+    {
+      "title": "디즈니+ 스트리밍 서비스, 많은 애니메이션 콘텐츠 포함",
+      "start_date": "2020-11-12",
+      "end_date": null,
+      "poster_url": ""
+    }
+  ]
+}

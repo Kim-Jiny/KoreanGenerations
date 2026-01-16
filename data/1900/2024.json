@@ -1,0 +1,152 @@
+{
+  "year": 2024,
+  "korean_age": 3,
+  "international_age": 2,
+  "zodiac": "용띠",
+  "generation": "알파세대",
+  "generation_group": "알파세대",
+  "korean_characteristics": [
+    "AI 기술의 일상 깊숙이 침투",
+    "저출산 역대 최저 기록",
+    "K-콘텐츠 글로벌 확장 지속",
+    "기후변화 영향 체감 증가",
+    "1인 가구 문화 보편화"
+  ],
+  "world_events": [
+    { "event": "파리 올림픽 개최", "date": "2024-07-26" },
+    { "event": "미국 대선, 트럼프 당선", "date": "2024-11-05" },
+    { "event": "OpenAI Sora 발표", "date": "2024-02-15" },
+    { "event": "이란 대통령 헬기 사고 사망", "date": "2024-05-19" },
+    { "event": "일본 노토 반도 지진", "date": "2024-01-01" }
+  ],
+  "korea_events": [
+    { "event": "22대 총선, 야당 압승", "date": "2024-04-10" },
+    { "event": "의대 증원 발표 및 의사 집단행동", "date": "2024-02-06" },
+    { "event": "티메프 사태", "date": "2024-07-25" },
+    { "event": "12.3 비상계엄", "date": "2024-12-03" },
+    { "event": "윤석열 대통령 탄핵소추안 가결", "date": "2024-12-14" }
+  ],
+  "popular_music": [
+    { "title": "Supernova", "artist": "aespa", "release_date": "2024-05-13", "poster_url": "" },
+    { "title": "Magnetic", "artist": "ILLIT", "release_date": "2024-03-25", "poster_url": "" },
+    { "title": "APT.", "artist": "로제 & Bruno Mars", "release_date": "2024-10-18", "poster_url": "" },
+    { "title": "HEYA", "artist": "IVE", "release_date": "2024-04-29", "poster_url": "" },
+    { "title": "Small girl", "artist": "이영지", "release_date": "2024-05-08", "poster_url": "" }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "범죄도시4",
+      "en_title": "The Roundup: Punishment",
+      "country": "KR",
+      "release_date": "2024-04-24",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "파묘",
+      "en_title": "Exhuma",
+      "country": "KR",
+      "release_date": "2024-02-22",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "듄: 파트 2",
+      "en_title": "Dune: Part Two",
+      "country": "US",
+      "release_date": "2024-02-28",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "인사이드 아웃 2",
+      "en_title": "Inside Out 2",
+      "country": "US",
+      "release_date": "2024-06-12",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "베테랑2",
+      "en_title": "Veteran 2",
+      "country": "KR",
+      "release_date": "2024-09-13",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "눈물의 여왕",
+      "broadcast_network": "tvN",
+      "start_date": "2024-03-09",
+      "end_date": "2024-04-28",
+      "poster_url": ""
+    },
+    {
+      "title": "선재 업고 튀어",
+      "broadcast_network": "tvN",
+      "start_date": "2024-04-01",
+      "end_date": "2024-05-21",
+      "poster_url": ""
+    },
+    {
+      "title": "정년이",
+      "broadcast_network": "tvN",
+      "start_date": "2024-04-27",
+      "end_date": "2024-06-16",
+      "poster_url": ""
+    },
+    {
+      "title": "지옥 시즌 2",
+      "broadcast_network": "Netflix",
+      "start_date": "2024-10-25",
+      "end_date": "2024-10-25",
+      "poster_url": ""
+    },
+    {
+      "title": "오징어 게임 시즌 2",
+      "broadcast_network": "Netflix",
+      "start_date": "2024-12-26",
+      "end_date": "2024-12-26",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "올드머니 룩",
+    "퀴어코어 스타일",
+    "데님 온 데님",
+    "메시 헤어",
+    "쿨톤 메이크업"
+  ],
+  "kids_toys": [
+    "포켓몬 카드",
+    "레고 시리즈",
+    "산리오 캐릭터 굿즈",
+    "스퀴시멜로우",
+    "AI 로봇 장난감"
+  ],
+  "technology": [
+    "AI 에이전트 발전",
+    "애플 비전 프로 출시",
+    "생성형 AI 동영상 도구 등장",
+    "전기차 경쟁 심화",
+    "AI PC/스마트폰 등장",
+    "인공지능 규제 논의 활발"
+  ],
+  "animation": [
+    {
+      "title": "최애의 아이 2기",
+      "start_date": "2024-04-03",
+      "end_date": "2024-06-19",
+      "poster_url": ""
+    },
+    {
+      "title": "귀멸의 칼날: 도공 마을편",
+      "start_date": "2024-05-12",
+      "end_date": "2024-06-30",
+      "poster_url": ""
+    },
+    {
+      "title": "단단단 단간",
+      "start_date": "2024-10-03",
+      "end_date": "2024-12-26",
+      "poster_url": ""
+    }
+  ]
+}

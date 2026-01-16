@@ -1,146 +1,199 @@
 {
-    "year": 2005,
-    "korean_age": 20,
-    "international_age": 19,
-    "zodiac": "닭띠",
-    "generation": "밀레니얼 세대",
-    "generation_group": "MZ세대",
-    "korean_characteristics": [
-      "싸이월드 미니홈피 전성기",
-      "도토리로 배경음악과 스킨 구매",
-      "2G 폴더폰에서 카메라폰으로 전환",
-      "PC방에서 서든어택, 카운터스트라이크 인기",
-      "하이틴 드라마와 로맨틱 코미디 유행",
-      "패션에 대한 관심 증가와 다양한 스타일 시도",
-      "온라인 쇼핑몰과 블로그 문화 확산"
-    ],
-    "world_events": [
-      { "event": "교황 요한 바오로 2세 서거", "date": "2005-04-02" },
-      { "event": "런던 지하철 테러 발생", "date": "2005-07-07" },
-      { "event": "허리케인 카트리나 미국 남부 강타", "date": "2005-08-29" },
-      { "event": "이란 대통령 마무드 아마디네자드 취임", "date": "2005-08-03" }
-    ],
-    "korea_events": [
-      { "event": "서울 지하철 9호선 착공", "date": "2005-04-12" },
-      { "event": "삼성 비자금 사건 수사 시작", "date": "2005-10-27" },
-      { "event": "국가인권위원회, 동성애 차별금지 권고", "date": "2005-12-01" },
-      { "event": "대한민국, APEC 정상회의 부산 개최", "date": "2005-11-18" }
-    ],
-    "popular_music": [
-      { "title": "내 사람", "artist": "SG 워너비", "release_date": "2005-03", "poster_url": "" },
-      { "title": "Love Love Love", "artist": "에픽하이", "release_date": "2005-10", "poster_url": "" },
-      { "title": "비밀번호 486", "artist": "윤하", "release_date": "2005-09", "poster_url": "" },
-      { "title": "이별 아닌 이별", "artist": "MC 몽", "release_date": "2005-07", "poster_url": "" },
-      { "title": "사랑했나봐", "artist": "윤도현", "release_date": "2005-11", "poster_url": "" },
-      { "title": "I Believe", "artist": "신승훈", "release_date": "2005-12", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "웰컴 투 동막골",
-        "en_title": "Welcome to Dongmakgol",
-        "country": "KR",
-        "release_date": "2005-08-04",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Welcome_to_Dongmakgol_poster.jpg"
-      },
-      {
-        "kr_title": "말아톤",
-        "en_title": "Marathon",
-        "country": "KR",
-        "release_date": "2005-01-27",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Marathon_Korean_film_poster.jpg"
-      },
-      {
-        "kr_title": "친절한 금자씨",
-        "en_title": "Sympathy for Lady Vengeance",
-        "country": "KR",
-        "release_date": "2005-07-29",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sympathy_for_Lady_Vengeance_poster.jpg"
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "내 이름은 김삼순",
-        "broadcast_network": "MBC",
-        "start_date": "2005-06-01",
-        "end_date": "2005-07-21",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/My_Lovely_Sam_Soon_poster.jpg"
-      },
-      {
-        "title": "부활",
-        "broadcast_network": "KBS2",
-        "start_date": "2005-06-01",
-        "end_date": "2005-08-18",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3d/Rebirth_Korean_Drama.jpg"
-      },
-      {
-        "title": "패션 70s",
-        "broadcast_network": "SBS",
-        "start_date": "2005-06-01",
-        "end_date": "2005-08-18",
-        "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Fashion_70s_poster.jpg"
-      }
-    ],
-    "fashion_trends": [
-      "스키니 진과 롱 부츠 조합",
-      "레이어드 티셔츠와 후드티",
-      "볼레로와 크롭 재킷 유행",
-      "큰 벨트와 와이드 벨트 스타일",
-      "플레어 스커트와 미니스커트",
-      "컬러풀한 액세서리와 헤어밴드"
-    ],
-    "kids_toys": [
-      "포켓몬스터 카드 게임",
-      "요요와 베이블레이드",
-      "레고 시리즈",
-      "전자오락기와 휴대용 게임기",
-      "스티커북과 캐릭터 스티커",
-      "미니카와 RC카"
-    ],
-    "technology": [
-      "싸이월드 미니홈피 사용자 수 1,300만 돌파",
-      "카메라폰 보급 확대",
-      "MP3 플레이어 대중화",
-      "인터넷 쇼핑몰과 블로그 문화 확산",
-      "디지털 카메라와 캠코더의 보편화",
-      "PDA와 PMP 기기의 등장"
-    ],
-    "animation": [
-        {
-          "title": "도라에몽 (2005)",
-          "start_date": "2005-04-15",
-          "end_date": null,
-          "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Doraemon_2005.jpg"
-        },
-        {
-          "title": "마법소녀 리리컬 나노하 A's",
-          "start_date": "2005-10-01",
-          "end_date": "2005-12-25",
-          "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Lyrical_Nanoha_As.jpg"
-        },
-        {
-          "title": "블리치",
-          "start_date": "2004-10-05",
-          "end_date": "2012-03-27",
-          "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Bleachanime.png"
-        },
-        {
-          "title": "강철의 연금술사 극장판: 샴발라를 정복하는 자",
-          "start_date": "2005-07-23",
-          "end_date": null,
-          "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e4/FullmetalAlchemistMovie.jpg"
-        },
-        {
-          "title": "크로스 게임",
-          "start_date": "2005-04-01",
-          "end_date": "2005-09-23",
-          "poster_url": ""
-        },
-        {
-          "title": "크레용 신짱",
-          "start_date": null,
-          "end_date": null,
-          "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Crayon_Shin-chan.jpg"
-        }
-      ]
-    }      
-  
+  "year": 2005,
+  "korean_age": 22,
+  "international_age": 21,
+  "zodiac": "닭띠",
+  "generation": "밀레니얼 세대",
+  "generation_group": "MZ세대",
+  "korean_characteristics": [
+    "싸이월드 미니홈피 전성기",
+    "도토리로 배경음악과 스킨 구매",
+    "2G 폴더폰에서 카메라폰으로 전환",
+    "PC방에서 서든어택, 카운터스트라이크 인기",
+    "하이틴 드라마와 로맨틱 코미디 유행",
+    "패션에 대한 관심 증가와 다양한 스타일 시도",
+    "온라인 쇼핑몰과 블로그 문화 확산"
+  ],
+  "world_events": [
+    {
+      "event": "교황 요한 바오로 2세 서거",
+      "date": "2005-04-02"
+    },
+    {
+      "event": "런던 지하철 테러 발생",
+      "date": "2005-07-07"
+    },
+    {
+      "event": "허리케인 카트리나 미국 남부 강타",
+      "date": "2005-08-29"
+    },
+    {
+      "event": "이란 대통령 마무드 아마디네자드 취임",
+      "date": "2005-08-03"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "서울 지하철 9호선 착공",
+      "date": "2005-04-12"
+    },
+    {
+      "event": "삼성 비자금 사건 수사 시작",
+      "date": "2005-10-27"
+    },
+    {
+      "event": "국가인권위원회, 동성애 차별금지 권고",
+      "date": "2005-12-01"
+    },
+    {
+      "event": "대한민국, APEC 정상회의 부산 개최",
+      "date": "2005-11-18"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "내 사람",
+      "artist": "SG 워너비",
+      "release_date": "2005-03",
+      "poster_url": ""
+    },
+    {
+      "title": "Love Love Love",
+      "artist": "에픽하이",
+      "release_date": "2005-10",
+      "poster_url": ""
+    },
+    {
+      "title": "비밀번호 486",
+      "artist": "윤하",
+      "release_date": "2005-09",
+      "poster_url": ""
+    },
+    {
+      "title": "이별 아닌 이별",
+      "artist": "MC 몽",
+      "release_date": "2005-07",
+      "poster_url": ""
+    },
+    {
+      "title": "사랑했나봐",
+      "artist": "윤도현",
+      "release_date": "2005-11",
+      "poster_url": ""
+    },
+    {
+      "title": "I Believe",
+      "artist": "신승훈",
+      "release_date": "2005-12",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "웰컴 투 동막골",
+      "en_title": "Welcome to Dongmakgol",
+      "country": "KR",
+      "release_date": "2005-08-04",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Welcome_to_Dongmakgol_poster.jpg"
+    },
+    {
+      "kr_title": "말아톤",
+      "en_title": "Marathon",
+      "country": "KR",
+      "release_date": "2005-01-27",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Marathon_Korean_film_poster.jpg"
+    },
+    {
+      "kr_title": "친절한 금자씨",
+      "en_title": "Sympathy for Lady Vengeance",
+      "country": "KR",
+      "release_date": "2005-07-29",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sympathy_for_Lady_Vengeance_poster.jpg"
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "내 이름은 김삼순",
+      "broadcast_network": "MBC",
+      "start_date": "2005-06-01",
+      "end_date": "2005-07-21",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/0b/My_Lovely_Sam_Soon_poster.jpg"
+    },
+    {
+      "title": "부활",
+      "broadcast_network": "KBS2",
+      "start_date": "2005-06-01",
+      "end_date": "2005-08-18",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/3/3d/Rebirth_Korean_Drama.jpg"
+    },
+    {
+      "title": "패션 70s",
+      "broadcast_network": "SBS",
+      "start_date": "2005-06-01",
+      "end_date": "2005-08-18",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Fashion_70s_poster.jpg"
+    }
+  ],
+  "fashion_trends": [
+    "스키니 진과 롱 부츠 조합",
+    "레이어드 티셔츠와 후드티",
+    "볼레로와 크롭 재킷 유행",
+    "큰 벨트와 와이드 벨트 스타일",
+    "플레어 스커트와 미니스커트",
+    "컬러풀한 액세서리와 헤어밴드"
+  ],
+  "kids_toys": [
+    "포켓몬스터 카드 게임",
+    "요요와 베이블레이드",
+    "레고 시리즈",
+    "전자오락기와 휴대용 게임기",
+    "스티커북과 캐릭터 스티커",
+    "미니카와 RC카"
+  ],
+  "technology": [
+    "싸이월드 미니홈피 사용자 수 1,300만 돌파",
+    "카메라폰 보급 확대",
+    "MP3 플레이어 대중화",
+    "인터넷 쇼핑몰과 블로그 문화 확산",
+    "디지털 카메라와 캠코더의 보편화",
+    "PDA와 PMP 기기의 등장"
+  ],
+  "animation": [
+    {
+      "title": "도라에몽 (2005)",
+      "start_date": "2005-04-15",
+      "end_date": null,
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Doraemon_2005.jpg"
+    },
+    {
+      "title": "마법소녀 리리컬 나노하 A's",
+      "start_date": "2005-10-01",
+      "end_date": "2005-12-25",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Lyrical_Nanoha_As.jpg"
+    },
+    {
+      "title": "블리치",
+      "start_date": "2004-10-05",
+      "end_date": "2012-03-27",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Bleachanime.png"
+    },
+    {
+      "title": "강철의 연금술사 극장판: 샴발라를 정복하는 자",
+      "start_date": "2005-07-23",
+      "end_date": null,
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/e/e4/FullmetalAlchemistMovie.jpg"
+    },
+    {
+      "title": "크로스 게임",
+      "start_date": "2005-04-01",
+      "end_date": "2005-09-23",
+      "poster_url": ""
+    },
+    {
+      "title": "크레용 신짱",
+      "start_date": null,
+      "end_date": null,
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Crayon_Shin-chan.jpg"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "year": 2023,
+  "korean_age": 4,
+  "international_age": 3,
+  "zodiac": "토끼띠",
+  "generation": "알파세대",
+  "generation_group": "알파세대",
+  "korean_characteristics": [
+    "포스트 코로나 시대 본격 시작",
+    "생성형 AI의 일상화",
+    "기후변화 대응에 대한 관심 증가",
+    "K-콘텐츠의 글로벌 영향력 확대",
+    "저출산 문제의 심화"
+  ],
+  "world_events": [
+    { "event": "GPT-4 출시", "date": "2023-03-14" },
+    { "event": "튀르키예-시리아 대지진", "date": "2023-02-06" },
+    { "event": "이스라엘-하마스 전쟁 발발", "date": "2023-10-07" },
+    { "event": "핀란드 NATO 가입", "date": "2023-04-04" },
+    { "event": "인도, 세계 최대 인구 국가로 부상", "date": "2023-04-14" }
+  ],
+  "korea_events": [
+    { "event": "오송 지하차도 침수 참사", "date": "2023-07-15" },
+    { "event": "후쿠시마 오염수 방류 시작", "date": "2023-08-24" },
+    { "event": "한일 정상회담 (셔틀외교 재개)", "date": "2023-03-16" },
+    { "event": "잼버리 대회 파행", "date": "2023-08-01" },
+    { "event": "야구 WBC 준우승", "date": "2023-03-22" }
+  ],
+  "popular_music": [
+    { "title": "OMG", "artist": "NewJeans", "release_date": "2023-01-02", "poster_url": "" },
+    { "title": "Super Shy", "artist": "NewJeans", "release_date": "2023-07-07", "poster_url": "" },
+    { "title": "Seven", "artist": "정국 (feat. Latto)", "release_date": "2023-07-14", "poster_url": "" },
+    { "title": "I AM", "artist": "IVE", "release_date": "2023-04-10", "poster_url": "" },
+    { "title": "SPOT!", "artist": "지코 (feat. JENNIE)", "release_date": "2023-04-26", "poster_url": "" }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "범죄도시3",
+      "en_title": "The Roundup: No Way Out",
+      "country": "KR",
+      "release_date": "2023-05-31",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "서울의 봄",
+      "en_title": "12.12: The Day",
+      "country": "KR",
+      "release_date": "2023-11-22",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "콘크리트 유토피아",
+      "en_title": "Concrete Utopia",
+      "country": "KR",
+      "release_date": "2023-08-09",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "오펜하이머",
+      "en_title": "Oppenheimer",
+      "country": "US",
+      "release_date": "2023-08-15",
+      "poster_url": ""
+    },
+    {
+      "kr_title": "가디언즈 오브 갤럭시: Volume 3",
+      "en_title": "Guardians of the Galaxy Vol. 3",
+      "country": "US",
+      "release_date": "2023-05-03",
+      "poster_url": ""
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "더 글로리",
+      "broadcast_network": "Netflix",
+      "start_date": "2023-03-10",
+      "end_date": "2023-03-10",
+      "poster_url": ""
+    },
+    {
+      "title": "무빙",
+      "broadcast_network": "Disney+",
+      "start_date": "2023-08-09",
+      "end_date": "2023-09-20",
+      "poster_url": ""
+    },
+    {
+      "title": "나의 해방일지",
+      "broadcast_network": "JTBC",
+      "start_date": "2023-04-09",
+      "end_date": "2023-05-29",
+      "poster_url": ""
+    },
+    {
+      "title": "킹더랜드",
+      "broadcast_network": "JTBC",
+      "start_date": "2023-06-17",
+      "end_date": "2023-08-06",
+      "poster_url": ""
+    },
+    {
+      "title": "이두나!",
+      "broadcast_network": "Netflix",
+      "start_date": "2023-10-21",
+      "end_date": "2023-10-21",
+      "poster_url": ""
+    }
+  ],
+  "fashion_trends": [
+    "블록코어 스타일",
+    "고프코어 패션",
+    "시스루 의상",
+    "바비코어 핑크",
+    "레이어드 룩"
+  ],
+  "kids_toys": [
+    "포켓몬 카드",
+    "레고 시리즈",
+    "스퀴시멜로우",
+    "마그네틱 블록",
+    "핑크퐁 장난감"
+  ],
+  "technology": [
+    "생성형 AI(ChatGPT, Bard 등) 대중화",
+    "Apple Vision Pro 발표",
+    "전기차 시장 급성장",
+    "위성 인터넷 서비스 확대",
+    "양자컴퓨터 기술 발전",
+    "AI 반도체 경쟁 심화"
+  ],
+  "animation": [
+    {
+      "title": "진격의 거인 The Final Season",
+      "start_date": "2023-03-04",
+      "end_date": "2023-11-05",
+      "poster_url": ""
+    },
+    {
+      "title": "최애의 아이",
+      "start_date": "2023-04-12",
+      "end_date": "2023-06-28",
+      "poster_url": ""
+    },
+    {
+      "title": "주술회전 2기",
+      "start_date": "2023-07-06",
+      "end_date": "2023-12-28",
+      "poster_url": ""
+    }
+  ]
+}

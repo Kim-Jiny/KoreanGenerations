@@ -1,81 +1,110 @@
 {
-    "year": 1999,
-    "korean_age": 30,
-    "international_age": 29,
-    "zodiac": "토끼띠",
-    "generation": "Z세대",
-    "generation_group": "Z세대",
-    "korean_characteristics": [
-      "IMF 위기 후 회복 단계",
-      "디지털화와 인터넷 환경 급변",
-      "온라인 커뮤니티 활성화",
-      "PC와 모바일 기기 대중화",
-      "고속인터넷 서비스 확산"
-    ],
-    "world_events": [
-      { "event": "세계 Y2K 문제", "date": "1999-12-31" },
-      { "event": "미국과 러시아의 상호 지구대기 환경 협정 체결", "date": "1999-03-26" },
-      { "event": "네팔에서 유엔 평화군 파견", "date": "1999-02-01" }
-    ],
-    "korea_events": [
-      { "event": "IMF 구조개혁", "date": "1999-03" },
-      { "event": "한국의 인터넷 사용자 급증", "date": "1999" }
-    ],
-    "popular_music": [
-      { "title": "하얀 겨울", "artist": "조용필", "release_date": "1999-10", "poster_url": "" },
-      { "title": "네가 떠나고 나서", "artist": "쿨", "release_date": "1999-07", "poster_url": "" },
-      { "title": "일곱 번째 연애", "artist": "S.E.S.", "release_date": "1999-06", "poster_url": "" }
-    ],
-    "popular_movies": [
-      {
-        "kr_title": "마더",
-        "en_title": "Mother",
-        "country": "US",
-        "release_date": "1999-10-01",
-        "poster_url": "https://i.namu.wiki/i/6AsAKoNQ3OB-n0VlaZ8W6Y__V_M4u42DeaD4e9RGiV2Uo9JqK_9W3BOW4zD-8_mFv31pXnAP5v7UmEkZxqvQek0lgg9wHs4F1AGB__lzzGVrVkfgW_oqt-jvI0tIWsZbbh0wBJeX9n7TRnH1U_JwVduq__aM2iwBjqay1Ak_.webp"
-      },
-      {
-        "kr_title": "스타워즈: 에피소드 I - 보이지 않는 위험",
-        "en_title": "Star Wars: Episode I - The Phantom Menace",
-        "country": "US",
-        "release_date": "1999-05-19",
-        "poster_url": "https://i.namu.wiki/i/kvAC_iK2c-AtHynlZTdy0ldgMiYntpx3JgDtpPvkXH-v_XzjL2tsf3js29EqF9vdWcYs-BYDbDD-td1fWGbwmXZLRz6r3X5pNi5n9FCHnMW9cmX8pwD9TXKNHjTj-JhVs8B1injoNlk__.webp"
-      }
-    ],
-    "popular_dramas": [
-      {
-        "title": "겨울연가",
-        "broadcast_network": "KBS2",
-        "start_date": "1999-09-17",
-        "end_date": "2000-02-13",
-        "poster_url": "https://i.namu.wiki/i/pgdE89HhfmXmKhrjmQTtG8j2h8jHGpImXY1-mLBaa8ldoZGCVVXg1v8pXsMKLRr1Ksu_gCSd2WjkFuvyDdR2rCjklD3Y5bM9Fge7GlpcGb8Fu2uFZg2h-JI3Y0YwRm0V0hTqFY7hDR2XftSuW3vHf0wNsdsCmVG9lFw.webp"
-      }
-    ],
-    "fashion_trends": [
-      "과장된 어깨 패드",
-      "청바지와 티셔츠",
-      "운동화와 비닐 스타일",
-      "느슨한 스웨터와 팬츠"
-    ],
-    "kids_toys": [
-      "디즈니 인형",
-      "테크노로지 장난감",
-      "게임보이와 게임 카트리지",
-      "프렌즈 피규어"
-    ],
-    "technology": [
-      "고속인터넷 서비스 확산",
-      "디지털 카메라 대중화",
-      "게임 콘솔과 휴대용 전자기기 대중화",
-      "MP3 플레이어 등장"
-    ],
-    "animation": [
-      {
-        "title": "포켓몬스터",
-        "start_date": "1999-04-01",
-        "end_date": "1999-09-28",
-        "poster_url": ""
-      }
-    ]
-  }
-  
+  "year": 1999,
+  "korean_age": 28,
+  "international_age": 27,
+  "zodiac": "토끼띠",
+  "generation": "Z세대",
+  "generation_group": "Z세대",
+  "korean_characteristics": [
+    "IMF 위기 후 회복 단계",
+    "디지털화와 인터넷 환경 급변",
+    "온라인 커뮤니티 활성화",
+    "PC와 모바일 기기 대중화",
+    "고속인터넷 서비스 확산"
+  ],
+  "world_events": [
+    {
+      "event": "세계 Y2K 문제",
+      "date": "1999-12-31"
+    },
+    {
+      "event": "미국과 러시아의 상호 지구대기 환경 협정 체결",
+      "date": "1999-03-26"
+    },
+    {
+      "event": "네팔에서 유엔 평화군 파견",
+      "date": "1999-02-01"
+    }
+  ],
+  "korea_events": [
+    {
+      "event": "IMF 구조개혁",
+      "date": "1999-03"
+    },
+    {
+      "event": "한국의 인터넷 사용자 급증",
+      "date": "1999"
+    }
+  ],
+  "popular_music": [
+    {
+      "title": "하얀 겨울",
+      "artist": "조용필",
+      "release_date": "1999-10",
+      "poster_url": ""
+    },
+    {
+      "title": "네가 떠나고 나서",
+      "artist": "쿨",
+      "release_date": "1999-07",
+      "poster_url": ""
+    },
+    {
+      "title": "일곱 번째 연애",
+      "artist": "S.E.S.",
+      "release_date": "1999-06",
+      "poster_url": ""
+    }
+  ],
+  "popular_movies": [
+    {
+      "kr_title": "마더",
+      "en_title": "Mother",
+      "country": "US",
+      "release_date": "1999-10-01",
+      "poster_url": "https://i.namu.wiki/i/6AsAKoNQ3OB-n0VlaZ8W6Y__V_M4u42DeaD4e9RGiV2Uo9JqK_9W3BOW4zD-8_mFv31pXnAP5v7UmEkZxqvQek0lgg9wHs4F1AGB__lzzGVrVkfgW_oqt-jvI0tIWsZbbh0wBJeX9n7TRnH1U_JwVduq__aM2iwBjqay1Ak_.webp"
+    },
+    {
+      "kr_title": "스타워즈: 에피소드 I - 보이지 않는 위험",
+      "en_title": "Star Wars: Episode I - The Phantom Menace",
+      "country": "US",
+      "release_date": "1999-05-19",
+      "poster_url": "https://i.namu.wiki/i/kvAC_iK2c-AtHynlZTdy0ldgMiYntpx3JgDtpPvkXH-v_XzjL2tsf3js29EqF9vdWcYs-BYDbDD-td1fWGbwmXZLRz6r3X5pNi5n9FCHnMW9cmX8pwD9TXKNHjTj-JhVs8B1injoNlk__.webp"
+    }
+  ],
+  "popular_dramas": [
+    {
+      "title": "겨울연가",
+      "broadcast_network": "KBS2",
+      "start_date": "1999-09-17",
+      "end_date": "2000-02-13",
+      "poster_url": "https://i.namu.wiki/i/pgdE89HhfmXmKhrjmQTtG8j2h8jHGpImXY1-mLBaa8ldoZGCVVXg1v8pXsMKLRr1Ksu_gCSd2WjkFuvyDdR2rCjklD3Y5bM9Fge7GlpcGb8Fu2uFZg2h-JI3Y0YwRm0V0hTqFY7hDR2XftSuW3vHf0wNsdsCmVG9lFw.webp"
+    }
+  ],
+  "fashion_trends": [
+    "과장된 어깨 패드",
+    "청바지와 티셔츠",
+    "운동화와 비닐 스타일",
+    "느슨한 스웨터와 팬츠"
+  ],
+  "kids_toys": [
+    "디즈니 인형",
+    "테크노로지 장난감",
+    "게임보이와 게임 카트리지",
+    "프렌즈 피규어"
+  ],
+  "technology": [
+    "고속인터넷 서비스 확산",
+    "디지털 카메라 대중화",
+    "게임 콘솔과 휴대용 전자기기 대중화",
+    "MP3 플레이어 등장"
+  ],
+  "animation": [
+    {
+      "title": "포켓몬스터",
+      "start_date": "1999-04-01",
+      "end_date": "1999-09-28",
+      "poster_url": ""
+    }
+  ]
+}
